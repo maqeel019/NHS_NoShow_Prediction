@@ -1,0 +1,2137 @@
+Main_Specialty_Code,Main_Specialty_Desc,Age_Group,Attendance_Count,Gender
+&,Not Known,0,16162,Female
+100,General Surgery,0,1479,Female
+101,Urology,0,454,Female
+107,Vascular Surgery,0,1,Female
+110,Trauma and Orthopaedics,0,27130,Female
+120,Ear Nose and Throat,0,9305,Female
+130,Ophthalmology,0,18715,Female
+140,Oral Surgery,0,1834,Female
+141,Restorative Dentistry,0,2,Female
+142,Paediatric Dentistry,0,207,Female
+143,Orthodontics,0,76,Female
+145,Oral and Maxillofacial Surgery,0,1591,Female
+146,Endodontics,0,0,Female
+147,Periodontics,0,0,Female
+148,Prosthodontics,0,0,Female
+149,Surgical Dentistry,0,0,Female
+150,Neurosurgery,0,1345,Female
+160,Plastic Surgery,0,5599,Female
+170,Cardiothoracic Surgery,0,412,Female
+171,Paediatric Surgery,0,7237,Female
+180,Emergency Medicine,0,1982,Female
+190,Anaesthetics,0,664,Female
+191,Pain Management (Retired 1 April 2004),0,0,Female
+192,Intensive Care Medicine,0,236,Female
+300,General Internal Medicine,0,31995,Female
+301,Gastroenterology,0,336,Female
+302,Endocrinology and Diabetes,0,944,Female
+303,Clinical Haematology,0,789,Female
+304,Clinical Physiology,0,303,Female
+305,Clinical Pharmacology,0,0,Female
+310,Audio Vestibular Medicine,0,3472,Female
+311,Clinical Genetics,0,1328,Female
+313,Clinical Immunology,0,471,Female
+314,Rehabilitation Medicine,0,9,Female
+315,Palliative Medicine,0,769,Female
+317,Allergy,0,252,Female
+320,Cardiology,0,2827,Female
+321,Paediatric Cardiology,0,9180,Female
+325,Sport and Exercise Medicine,0,0,Female
+326,Acute Internal Medicine,0,4,Female
+330,Dermatology,0,7228,Female
+340,Respiratory Medicine,0,1736,Female
+350,Infectious Diseases,0,81,Female
+352,Tropical Medicine,0,0,Female
+360,Genitourinary Medicine,0,10,Female
+361,Renal Medicine,0,276,Female
+370,Medical Oncology,0,170,Female
+371,Nuclear Medicine,0,16,Female
+400,Neurology,0,1329,Female
+401,Clinical Neurophysiology,0,810,Female
+410,Rheumatology,0,34,Female
+420,Paediatrics,0,187317,Female
+421,Paediatric Neurology,0,892,Female
+430,Geriatric Medicine,0,1,Female
+450,Dental Medicine,0,26,Female
+451,Special Care Dentistry,0,2,Female
+460,Medical Ophthalmology,0,40,Female
+499,"Non-UK Provider; specialty function not known, treatment mainly medical",0,0,Female
+500,Obstetrics and Gynaecology,0,0,Female
+501,Obstetrics,0,7324,Female
+502,Gynaecology,0,402,Female
+504,Community Sexual and Reproductive Health,0,0,Female
+560,Midwifery,0,104503,Female
+600,General Medical Practice,0,251,Female
+601,General Dental Practice,0,0,Female
+700,Learning Disability,0,0,Female
+710,Adult Mental Illness,0,405,Female
+711,Child and Adolescent Psychiatry,0,276,Female
+712,Forensic Psychiatry,0,0,Female
+713,Medical Psychotherapy,0,134,Female
+715,Old Age Psychiatry,0,0,Female
+800,Clinical Oncology,0,781,Female
+810,Radiology,0,21838,Female
+820,General Pathology,0,1,Female
+821,Blood Transfusion,0,0,Female
+822,Chemical Pathology,0,13,Female
+823,Haematology,0,225,Female
+824,Histopathology,0,1,Female
+830,Immunopathology,0,0,Female
+831,Medical Microbiology and Virology,0,0,Female
+833,Medical Microbiology,0,0,Female
+834,Medical Virology,0,0,Female
+900,Community Medicine,0,504,Female
+901,Occupational Medicine,0,9,Female
+902,Community Health Services Dental,0,23,Female
+903,Public Health Medicine,0,11,Female
+950,Nursing,0,31541,Female
+960,Allied Health Professional,0,59902,Female
+990,Joint Consultant Clinics (Retired 1 April 2004),0,0,Female
+&,Not Known,1-4,28655,Female
+100,General Surgery,1-4,3222,Female
+101,Urology,1-4,1608,Female
+107,Vascular Surgery,1-4,29,Female
+110,Trauma and Orthopaedics,1-4,53686,Female
+120,Ear Nose and Throat,1-4,52900,Female
+130,Ophthalmology,1-4,100214,Female
+140,Oral Surgery,1-4,1756,Female
+141,Restorative Dentistry,1-4,7,Female
+142,Paediatric Dentistry,1-4,5221,Female
+143,Orthodontics,1-4,253,Female
+145,Oral and Maxillofacial Surgery,1-4,1595,Female
+146,Endodontics,1-4,0,Female
+147,Periodontics,1-4,0,Female
+148,Prosthodontics,1-4,0,Female
+149,Surgical Dentistry,1-4,0,Female
+150,Neurosurgery,1-4,2723,Female
+160,Plastic Surgery,1-4,17938,Female
+170,Cardiothoracic Surgery,1-4,409,Female
+171,Paediatric Surgery,1-4,10410,Female
+180,Emergency Medicine,1-4,6672,Female
+190,Anaesthetics,1-4,3900,Female
+191,Pain Management (Retired 1 April 2004),1-4,0,Female
+192,Intensive Care Medicine,1-4,1321,Female
+300,General Internal Medicine,1-4,30437,Female
+301,Gastroenterology,1-4,2043,Female
+302,Endocrinology and Diabetes,1-4,2749,Female
+303,Clinical Haematology,1-4,3547,Female
+304,Clinical Physiology,1-4,419,Female
+305,Clinical Pharmacology,1-4,0,Female
+310,Audio Vestibular Medicine,1-4,17868,Female
+311,Clinical Genetics,1-4,3689,Female
+313,Clinical Immunology,1-4,1344,Female
+314,Rehabilitation Medicine,1-4,259,Female
+315,Palliative Medicine,1-4,1588,Female
+317,Allergy,1-4,1052,Female
+320,Cardiology,1-4,3761,Female
+321,Paediatric Cardiology,1-4,12112,Female
+325,Sport and Exercise Medicine,1-4,0,Female
+326,Acute Internal Medicine,1-4,6,Female
+330,Dermatology,1-4,22464,Female
+340,Respiratory Medicine,1-4,2411,Female
+350,Infectious Diseases,1-4,364,Female
+352,Tropical Medicine,1-4,0,Female
+360,Genitourinary Medicine,1-4,101,Female
+361,Renal Medicine,1-4,1175,Female
+370,Medical Oncology,1-4,1196,Female
+371,Nuclear Medicine,1-4,37,Female
+400,Neurology,1-4,1954,Female
+401,Clinical Neurophysiology,1-4,2197,Female
+410,Rheumatology,1-4,1020,Female
+420,Paediatrics,1-4,289739,Female
+421,Paediatric Neurology,1-4,3774,Female
+430,Geriatric Medicine,1-4,13,Female
+450,Dental Medicine,1-4,339,Female
+451,Special Care Dentistry,1-4,92,Female
+460,Medical Ophthalmology,1-4,175,Female
+499,"Non-UK Provider; specialty function not known, treatment mainly medical",1-4,0,Female
+500,Obstetrics and Gynaecology,1-4,0,Female
+501,Obstetrics,1-4,455,Female
+502,Gynaecology,1-4,444,Female
+504,Community Sexual and Reproductive Health,1-4,0,Female
+560,Midwifery,1-4,44,Female
+600,General Medical Practice,1-4,473,Female
+601,General Dental Practice,1-4,1,Female
+700,Learning Disability,1-4,57,Female
+710,Adult Mental Illness,1-4,290,Female
+711,Child and Adolescent Psychiatry,1-4,1385,Female
+712,Forensic Psychiatry,1-4,4,Female
+713,Medical Psychotherapy,1-4,195,Female
+715,Old Age Psychiatry,1-4,0,Female
+800,Clinical Oncology,1-4,431,Female
+810,Radiology,1-4,17168,Female
+820,General Pathology,1-4,1,Female
+821,Blood Transfusion,1-4,0,Female
+822,Chemical Pathology,1-4,36,Female
+823,Haematology,1-4,782,Female
+824,Histopathology,1-4,0,Female
+830,Immunopathology,1-4,0,Female
+831,Medical Microbiology and Virology,1-4,0,Female
+833,Medical Microbiology,1-4,0,Female
+834,Medical Virology,1-4,1,Female
+900,Community Medicine,1-4,2337,Female
+901,Occupational Medicine,1-4,223,Female
+902,Community Health Services Dental,1-4,66,Female
+903,Public Health Medicine,1-4,22,Female
+950,Nursing,1-4,52764,Female
+960,Allied Health Professional,1-4,143394,Female
+990,Joint Consultant Clinics (Retired 1 April 2004),1-4,0,Female
+&,Not Known,5-9,8326,Female
+100,General Surgery,5-9,4634,Female
+101,Urology,5-9,3829,Female
+107,Vascular Surgery,5-9,44,Female
+110,Trauma and Orthopaedics,5-9,102973,Female
+120,Ear Nose and Throat,5-9,91535,Female
+130,Ophthalmology,5-9,143418,Female
+140,Oral Surgery,5-9,4173,Female
+141,Restorative Dentistry,5-9,225,Female
+142,Paediatric Dentistry,5-9,21164,Female
+143,Orthodontics,5-9,4529,Female
+145,Oral and Maxillofacial Surgery,5-9,2778,Female
+146,Endodontics,5-9,0,Female
+147,Periodontics,5-9,0,Female
+148,Prosthodontics,5-9,12,Female
+149,Surgical Dentistry,5-9,0,Female
+150,Neurosurgery,5-9,2891,Female
+160,Plastic Surgery,5-9,14986,Female
+170,Cardiothoracic Surgery,5-9,302,Female
+171,Paediatric Surgery,5-9,11449,Female
+180,Emergency Medicine,5-9,5763,Female
+190,Anaesthetics,5-9,5537,Female
+191,Pain Management (Retired 1 April 2004),5-9,0,Female
+192,Intensive Care Medicine,5-9,1795,Female
+300,General Internal Medicine,5-9,17750,Female
+301,Gastroenterology,5-9,3660,Female
+302,Endocrinology and Diabetes,5-9,5021,Female
+303,Clinical Haematology,5-9,5660,Female
+304,Clinical Physiology,5-9,830,Female
+305,Clinical Pharmacology,5-9,3,Female
+310,Audio Vestibular Medicine,5-9,18297,Female
+311,Clinical Genetics,5-9,3408,Female
+313,Clinical Immunology,5-9,1545,Female
+314,Rehabilitation Medicine,5-9,895,Female
+315,Palliative Medicine,5-9,1428,Female
+317,Allergy,5-9,1098,Female
+320,Cardiology,5-9,4964,Female
+321,Paediatric Cardiology,5-9,14501,Female
+325,Sport and Exercise Medicine,5-9,40,Female
+326,Acute Internal Medicine,5-9,47,Female
+330,Dermatology,5-9,33065,Female
+340,Respiratory Medicine,5-9,3852,Female
+350,Infectious Diseases,5-9,309,Female
+352,Tropical Medicine,5-9,0,Female
+360,Genitourinary Medicine,5-9,486,Female
+361,Renal Medicine,5-9,1949,Female
+370,Medical Oncology,5-9,1634,Female
+371,Nuclear Medicine,5-9,54,Female
+400,Neurology,5-9,2843,Female
+401,Clinical Neurophysiology,5-9,2283,Female
+410,Rheumatology,5-9,2905,Female
+420,Paediatrics,5-9,343475,Female
+421,Paediatric Neurology,5-9,5565,Female
+430,Geriatric Medicine,5-9,10,Female
+450,Dental Medicine,5-9,1687,Female
+451,Special Care Dentistry,5-9,599,Female
+460,Medical Ophthalmology,5-9,373,Female
+499,"Non-UK Provider; specialty function not known, treatment mainly medical",5-9,0,Female
+500,Obstetrics and Gynaecology,5-9,0,Female
+501,Obstetrics,5-9,247,Female
+502,Gynaecology,5-9,1025,Female
+504,Community Sexual and Reproductive Health,5-9,0,Female
+560,Midwifery,5-9,29,Female
+600,General Medical Practice,5-9,500,Female
+601,General Dental Practice,5-9,58,Female
+700,Learning Disability,5-9,745,Female
+710,Adult Mental Illness,5-9,3408,Female
+711,Child and Adolescent Psychiatry,5-9,15707,Female
+712,Forensic Psychiatry,5-9,2,Female
+713,Medical Psychotherapy,5-9,984,Female
+715,Old Age Psychiatry,5-9,0,Female
+800,Clinical Oncology,5-9,793,Female
+810,Radiology,5-9,32839,Female
+820,General Pathology,5-9,0,Female
+821,Blood Transfusion,5-9,0,Female
+822,Chemical Pathology,5-9,44,Female
+823,Haematology,5-9,1048,Female
+824,Histopathology,5-9,0,Female
+830,Immunopathology,5-9,0,Female
+831,Medical Microbiology and Virology,5-9,1,Female
+833,Medical Microbiology,5-9,0,Female
+834,Medical Virology,5-9,18,Female
+900,Community Medicine,5-9,2953,Female
+901,Occupational Medicine,5-9,345,Female
+902,Community Health Services Dental,5-9,234,Female
+903,Public Health Medicine,5-9,23,Female
+950,Nursing,5-9,75637,Female
+960,Allied Health Professional,5-9,193286,Female
+990,Joint Consultant Clinics (Retired 1 April 2004),5-9,0,Female
+&,Not Known,10-14,14368,Female
+100,General Surgery,10-14,7016,Female
+101,Urology,10-14,4058,Female
+107,Vascular Surgery,10-14,66,Female
+110,Trauma and Orthopaedics,10-14,156223,Female
+120,Ear Nose and Throat,10-14,55304,Female
+130,Ophthalmology,10-14,67574,Female
+140,Oral Surgery,10-14,13333,Female
+141,Restorative Dentistry,10-14,1028,Female
+142,Paediatric Dentistry,10-14,16680,Female
+143,Orthodontics,10-14,80167,Female
+145,Oral and Maxillofacial Surgery,10-14,9760,Female
+146,Endodontics,10-14,3,Female
+147,Periodontics,10-14,8,Female
+148,Prosthodontics,10-14,26,Female
+149,Surgical Dentistry,10-14,0,Female
+150,Neurosurgery,10-14,3720,Female
+160,Plastic Surgery,10-14,19838,Female
+170,Cardiothoracic Surgery,10-14,352,Female
+171,Paediatric Surgery,10-14,11523,Female
+180,Emergency Medicine,10-14,6447,Female
+190,Anaesthetics,10-14,5053,Female
+191,Pain Management (Retired 1 April 2004),10-14,0,Female
+192,Intensive Care Medicine,10-14,1431,Female
+300,General Internal Medicine,10-14,17423,Female
+301,Gastroenterology,10-14,5522,Female
+302,Endocrinology and Diabetes,10-14,6823,Female
+303,Clinical Haematology,10-14,6503,Female
+304,Clinical Physiology,10-14,1134,Female
+305,Clinical Pharmacology,10-14,9,Female
+310,Audio Vestibular Medicine,10-14,9633,Female
+311,Clinical Genetics,10-14,2855,Female
+313,Clinical Immunology,10-14,1474,Female
+314,Rehabilitation Medicine,10-14,2716,Female
+315,Palliative Medicine,10-14,1442,Female
+317,Allergy,10-14,972,Female
+320,Cardiology,10-14,8039,Female
+321,Paediatric Cardiology,10-14,17174,Female
+325,Sport and Exercise Medicine,10-14,211,Female
+326,Acute Internal Medicine,10-14,96,Female
+330,Dermatology,10-14,45766,Female
+340,Respiratory Medicine,10-14,4938,Female
+350,Infectious Diseases,10-14,279,Female
+352,Tropical Medicine,10-14,0,Female
+360,Genitourinary Medicine,10-14,313,Female
+361,Renal Medicine,10-14,2803,Female
+370,Medical Oncology,10-14,2027,Female
+371,Nuclear Medicine,10-14,58,Female
+400,Neurology,10-14,3215,Female
+401,Clinical Neurophysiology,10-14,2619,Female
+410,Rheumatology,10-14,6027,Female
+420,Paediatrics,10-14,343264,Female
+421,Paediatric Neurology,10-14,6446,Female
+430,Geriatric Medicine,10-14,12,Female
+450,Dental Medicine,10-14,6203,Female
+451,Special Care Dentistry,10-14,767,Female
+460,Medical Ophthalmology,10-14,193,Female
+499,"Non-UK Provider; specialty function not known, treatment mainly medical",10-14,0,Female
+500,Obstetrics and Gynaecology,10-14,0,Female
+501,Obstetrics,10-14,1833,Female
+502,Gynaecology,10-14,5551,Female
+504,Community Sexual and Reproductive Health,10-14,0,Female
+560,Midwifery,10-14,655,Female
+600,General Medical Practice,10-14,613,Female
+601,General Dental Practice,10-14,742,Female
+700,Learning Disability,10-14,1285,Female
+710,Adult Mental Illness,10-14,19388,Female
+711,Child and Adolescent Psychiatry,10-14,90049,Female
+712,Forensic Psychiatry,10-14,47,Female
+713,Medical Psychotherapy,10-14,2165,Female
+715,Old Age Psychiatry,10-14,60,Female
+800,Clinical Oncology,10-14,727,Female
+810,Radiology,10-14,51544,Female
+820,General Pathology,10-14,1,Female
+821,Blood Transfusion,10-14,0,Female
+822,Chemical Pathology,10-14,89,Female
+823,Haematology,10-14,1403,Female
+824,Histopathology,10-14,0,Female
+830,Immunopathology,10-14,0,Female
+831,Medical Microbiology and Virology,10-14,1,Female
+833,Medical Microbiology,10-14,0,Female
+834,Medical Virology,10-14,12,Female
+900,Community Medicine,10-14,4900,Female
+901,Occupational Medicine,10-14,1002,Female
+902,Community Health Services Dental,10-14,102,Female
+903,Public Health Medicine,10-14,36,Female
+950,Nursing,10-14,70642,Female
+960,Allied Health Professional,10-14,234437,Female
+990,Joint Consultant Clinics (Retired 1 April 2004),10-14,0,Female
+&,Not Known,15,4600,Female
+100,General Surgery,15,2970,Female
+101,Urology,15,692,Female
+107,Vascular Surgery,15,20,Female
+110,Trauma and Orthopaedics,15,29350,Female
+120,Ear Nose and Throat,15,10280,Female
+130,Ophthalmology,15,12784,Female
+140,Oral Surgery,15,5155,Female
+141,Restorative Dentistry,15,722,Female
+142,Paediatric Dentistry,15,2605,Female
+143,Orthodontics,15,35469,Female
+145,Oral and Maxillofacial Surgery,15,3666,Female
+146,Endodontics,15,13,Female
+147,Periodontics,15,11,Female
+148,Prosthodontics,15,10,Female
+149,Surgical Dentistry,15,0,Female
+150,Neurosurgery,15,967,Female
+160,Plastic Surgery,15,4122,Female
+170,Cardiothoracic Surgery,15,102,Female
+171,Paediatric Surgery,15,2808,Female
+180,Emergency Medicine,15,1128,Female
+190,Anaesthetics,15,1404,Female
+191,Pain Management (Retired 1 April 2004),15,0,Female
+192,Intensive Care Medicine,15,334,Female
+300,General Internal Medicine,15,4351,Female
+301,Gastroenterology,15,1798,Female
+302,Endocrinology and Diabetes,15,1778,Female
+303,Clinical Haematology,15,1573,Female
+304,Clinical Physiology,15,353,Female
+305,Clinical Pharmacology,15,3,Female
+310,Audio Vestibular Medicine,15,1790,Female
+311,Clinical Genetics,15,554,Female
+313,Clinical Immunology,15,388,Female
+314,Rehabilitation Medicine,15,1034,Female
+315,Palliative Medicine,15,340,Female
+317,Allergy,15,199,Female
+320,Cardiology,15,2457,Female
+321,Paediatric Cardiology,15,4312,Female
+325,Sport and Exercise Medicine,15,117,Female
+326,Acute Internal Medicine,15,35,Female
+330,Dermatology,15,14919,Female
+340,Respiratory Medicine,15,962,Female
+350,Infectious Diseases,15,50,Female
+352,Tropical Medicine,15,0,Female
+360,Genitourinary Medicine,15,105,Female
+361,Renal Medicine,15,745,Female
+370,Medical Oncology,15,510,Female
+371,Nuclear Medicine,15,14,Female
+400,Neurology,15,818,Female
+401,Clinical Neurophysiology,15,717,Female
+410,Rheumatology,15,1908,Female
+420,Paediatrics,15,76711,Female
+421,Paediatric Neurology,15,1637,Female
+430,Geriatric Medicine,15,7,Female
+450,Dental Medicine,15,2148,Female
+451,Special Care Dentistry,15,127,Female
+460,Medical Ophthalmology,15,58,Female
+499,"Non-UK Provider; specialty function not known, treatment mainly medical",15,0,Female
+500,Obstetrics and Gynaecology,15,0,Female
+501,Obstetrics,15,2355,Female
+502,Gynaecology,15,4421,Female
+504,Community Sexual and Reproductive Health,15,0,Female
+560,Midwifery,15,1465,Female
+600,General Medical Practice,15,214,Female
+601,General Dental Practice,15,303,Female
+700,Learning Disability,15,180,Female
+710,Adult Mental Illness,15,8210,Female
+711,Child and Adolescent Psychiatry,15,43368,Female
+712,Forensic Psychiatry,15,34,Female
+713,Medical Psychotherapy,15,498,Female
+715,Old Age Psychiatry,15,30,Female
+800,Clinical Oncology,15,240,Female
+810,Radiology,15,13857,Female
+820,General Pathology,15,1,Female
+821,Blood Transfusion,15,0,Female
+822,Chemical Pathology,15,17,Female
+823,Haematology,15,348,Female
+824,Histopathology,15,0,Female
+830,Immunopathology,15,0,Female
+831,Medical Microbiology and Virology,15,2,Female
+833,Medical Microbiology,15,0,Female
+834,Medical Virology,15,4,Female
+900,Community Medicine,15,1330,Female
+901,Occupational Medicine,15,330,Female
+902,Community Health Services Dental,15,12,Female
+903,Public Health Medicine,15,16,Female
+950,Nursing,15,15885,Female
+960,Allied Health Professional,15,61655,Female
+990,Joint Consultant Clinics (Retired 1 April 2004),15,1,Female
+&,Not Known,16,4710,Female
+100,General Surgery,16,5964,Female
+101,Urology,16,1241,Female
+107,Vascular Surgery,16,32,Female
+110,Trauma and Orthopaedics,16,24409,Female
+120,Ear Nose and Throat,16,10433,Female
+130,Ophthalmology,16,12533,Female
+140,Oral Surgery,16,5458,Female
+141,Restorative Dentistry,16,1172,Female
+142,Paediatric Dentistry,16,1203,Female
+143,Orthodontics,16,37256,Female
+145,Oral and Maxillofacial Surgery,16,3847,Female
+146,Endodontics,16,30,Female
+147,Periodontics,16,18,Female
+148,Prosthodontics,16,29,Female
+149,Surgical Dentistry,16,3,Female
+150,Neurosurgery,16,962,Female
+160,Plastic Surgery,16,3725,Female
+170,Cardiothoracic Surgery,16,132,Female
+171,Paediatric Surgery,16,1662,Female
+180,Emergency Medicine,16,1036,Female
+190,Anaesthetics,16,2378,Female
+191,Pain Management (Retired 1 April 2004),16,0,Female
+192,Intensive Care Medicine,16,298,Female
+300,General Internal Medicine,16,6161,Female
+301,Gastroenterology,16,3134,Female
+302,Endocrinology and Diabetes,16,2412,Female
+303,Clinical Haematology,16,2039,Female
+304,Clinical Physiology,16,541,Female
+305,Clinical Pharmacology,16,5,Female
+310,Audio Vestibular Medicine,16,1700,Female
+311,Clinical Genetics,16,597,Female
+313,Clinical Immunology,16,474,Female
+314,Rehabilitation Medicine,16,1208,Female
+315,Palliative Medicine,16,251,Female
+317,Allergy,16,343,Female
+320,Cardiology,16,4330,Female
+321,Paediatric Cardiology,16,3400,Female
+325,Sport and Exercise Medicine,16,71,Female
+326,Acute Internal Medicine,16,339,Female
+330,Dermatology,16,16565,Female
+340,Respiratory Medicine,16,1608,Female
+350,Infectious Diseases,16,160,Female
+352,Tropical Medicine,16,0,Female
+360,Genitourinary Medicine,16,155,Female
+361,Renal Medicine,16,885,Female
+370,Medical Oncology,16,565,Female
+371,Nuclear Medicine,16,16,Female
+400,Neurology,16,3331,Female
+401,Clinical Neurophysiology,16,747,Female
+410,Rheumatology,16,2823,Female
+420,Paediatrics,16,53951,Female
+421,Paediatric Neurology,16,1319,Female
+430,Geriatric Medicine,16,96,Female
+450,Dental Medicine,16,2526,Female
+451,Special Care Dentistry,16,180,Female
+460,Medical Ophthalmology,16,86,Female
+499,"Non-UK Provider; specialty function not known, treatment mainly medical",16,0,Female
+500,Obstetrics and Gynaecology,16,0,Female
+501,Obstetrics,16,5202,Female
+502,Gynaecology,16,7715,Female
+504,Community Sexual and Reproductive Health,16,3,Female
+560,Midwifery,16,4899,Female
+600,General Medical Practice,16,199,Female
+601,General Dental Practice,16,324,Female
+700,Learning Disability,16,206,Female
+710,Adult Mental Illness,16,6275,Female
+711,Child and Adolescent Psychiatry,16,45397,Female
+712,Forensic Psychiatry,16,33,Female
+713,Medical Psychotherapy,16,579,Female
+715,Old Age Psychiatry,16,27,Female
+800,Clinical Oncology,16,291,Female
+810,Radiology,16,14064,Female
+820,General Pathology,16,8,Female
+821,Blood Transfusion,16,0,Female
+822,Chemical Pathology,16,72,Female
+823,Haematology,16,420,Female
+824,Histopathology,16,9,Female
+830,Immunopathology,16,16,Female
+831,Medical Microbiology and Virology,16,1,Female
+833,Medical Microbiology,16,2,Female
+834,Medical Virology,16,18,Female
+900,Community Medicine,16,972,Female
+901,Occupational Medicine,16,286,Female
+902,Community Health Services Dental,16,4,Female
+903,Public Health Medicine,16,38,Female
+950,Nursing,16,14222,Female
+960,Allied Health Professional,16,55330,Female
+990,Joint Consultant Clinics (Retired 1 April 2004),16,1,Female
+&,Not Known,17,4050,Female
+100,General Surgery,17,7838,Female
+101,Urology,17,1992,Female
+107,Vascular Surgery,17,33,Female
+110,Trauma and Orthopaedics,17,20936,Female
+120,Ear Nose and Throat,17,9957,Female
+130,Ophthalmology,17,11567,Female
+140,Oral Surgery,17,5012,Female
+141,Restorative Dentistry,17,1466,Female
+142,Paediatric Dentistry,17,552,Female
+143,Orthodontics,17,35743,Female
+145,Oral and Maxillofacial Surgery,17,3461,Female
+146,Endodontics,17,67,Female
+147,Periodontics,17,26,Female
+148,Prosthodontics,17,27,Female
+149,Surgical Dentistry,17,2,Female
+150,Neurosurgery,17,955,Female
+160,Plastic Surgery,17,3380,Female
+170,Cardiothoracic Surgery,17,173,Female
+171,Paediatric Surgery,17,885,Female
+180,Emergency Medicine,17,1145,Female
+190,Anaesthetics,17,2645,Female
+191,Pain Management (Retired 1 April 2004),17,0,Female
+192,Intensive Care Medicine,17,172,Female
+300,General Internal Medicine,17,8118,Female
+301,Gastroenterology,17,5507,Female
+302,Endocrinology and Diabetes,17,3251,Female
+303,Clinical Haematology,17,2966,Female
+304,Clinical Physiology,17,679,Female
+305,Clinical Pharmacology,17,12,Female
+310,Audio Vestibular Medicine,17,1438,Female
+311,Clinical Genetics,17,577,Female
+313,Clinical Immunology,17,805,Female
+314,Rehabilitation Medicine,17,1255,Female
+315,Palliative Medicine,17,215,Female
+317,Allergy,17,358,Female
+320,Cardiology,17,6920,Female
+321,Paediatric Cardiology,17,1974,Female
+325,Sport and Exercise Medicine,17,87,Female
+326,Acute Internal Medicine,17,491,Female
+330,Dermatology,17,17937,Female
+340,Respiratory Medicine,17,2604,Female
+350,Infectious Diseases,17,233,Female
+352,Tropical Medicine,17,0,Female
+360,Genitourinary Medicine,17,208,Female
+361,Renal Medicine,17,1429,Female
+370,Medical Oncology,17,770,Female
+371,Nuclear Medicine,17,19,Female
+400,Neurology,17,6419,Female
+401,Clinical Neurophysiology,17,738,Female
+410,Rheumatology,17,3737,Female
+420,Paediatrics,17,29996,Female
+421,Paediatric Neurology,17,702,Female
+430,Geriatric Medicine,17,203,Female
+450,Dental Medicine,17,2420,Female
+451,Special Care Dentistry,17,159,Female
+460,Medical Ophthalmology,17,115,Female
+499,"Non-UK Provider; specialty function not known, treatment mainly medical",17,0,Female
+500,Obstetrics and Gynaecology,17,2,Female
+501,Obstetrics,17,10505,Female
+502,Gynaecology,17,12476,Female
+504,Community Sexual and Reproductive Health,17,2,Female
+560,Midwifery,17,11622,Female
+600,General Medical Practice,17,216,Female
+601,General Dental Practice,17,313,Female
+700,Learning Disability,17,257,Female
+710,Adult Mental Illness,17,6747,Female
+711,Child and Adolescent Psychiatry,17,44203,Female
+712,Forensic Psychiatry,17,16,Female
+713,Medical Psychotherapy,17,506,Female
+715,Old Age Psychiatry,17,40,Female
+800,Clinical Oncology,17,472,Female
+810,Radiology,17,15655,Female
+820,General Pathology,17,4,Female
+821,Blood Transfusion,17,0,Female
+822,Chemical Pathology,17,116,Female
+823,Haematology,17,440,Female
+824,Histopathology,17,43,Female
+830,Immunopathology,17,40,Female
+831,Medical Microbiology and Virology,17,2,Female
+833,Medical Microbiology,17,2,Female
+834,Medical Virology,17,34,Female
+900,Community Medicine,17,773,Female
+901,Occupational Medicine,17,217,Female
+902,Community Health Services Dental,17,0,Female
+903,Public Health Medicine,17,40,Female
+950,Nursing,17,14327,Female
+960,Allied Health Professional,17,51543,Female
+990,Joint Consultant Clinics (Retired 1 April 2004),17,1,Female
+&,Not Known,18,1308,Female
+100,General Surgery,18,9552,Female
+101,Urology,18,2552,Female
+107,Vascular Surgery,18,21,Female
+110,Trauma and Orthopaedics,18,18305,Female
+120,Ear Nose and Throat,18,9762,Female
+130,Ophthalmology,18,10756,Female
+140,Oral Surgery,18,4433,Female
+141,Restorative Dentistry,18,1569,Female
+142,Paediatric Dentistry,18,221,Female
+143,Orthodontics,18,28360,Female
+145,Oral and Maxillofacial Surgery,18,3383,Female
+146,Endodontics,18,116,Female
+147,Periodontics,18,20,Female
+148,Prosthodontics,18,50,Female
+149,Surgical Dentistry,18,9,Female
+150,Neurosurgery,18,918,Female
+160,Plastic Surgery,18,3168,Female
+170,Cardiothoracic Surgery,18,184,Female
+171,Paediatric Surgery,18,270,Female
+180,Emergency Medicine,18,1393,Female
+190,Anaesthetics,18,3012,Female
+191,Pain Management (Retired 1 April 2004),18,0,Female
+192,Intensive Care Medicine,18,83,Female
+300,General Internal Medicine,18,9174,Female
+301,Gastroenterology,18,6490,Female
+302,Endocrinology and Diabetes,18,3828,Female
+303,Clinical Haematology,18,3585,Female
+304,Clinical Physiology,18,765,Female
+305,Clinical Pharmacology,18,24,Female
+310,Audio Vestibular Medicine,18,1255,Female
+311,Clinical Genetics,18,625,Female
+313,Clinical Immunology,18,1032,Female
+314,Rehabilitation Medicine,18,941,Female
+315,Palliative Medicine,18,153,Female
+317,Allergy,18,312,Female
+320,Cardiology,18,8106,Female
+321,Paediatric Cardiology,18,777,Female
+325,Sport and Exercise Medicine,18,59,Female
+326,Acute Internal Medicine,18,721,Female
+330,Dermatology,18,17264,Female
+340,Respiratory Medicine,18,3316,Female
+350,Infectious Diseases,18,311,Female
+352,Tropical Medicine,18,0,Female
+360,Genitourinary Medicine,18,203,Female
+361,Renal Medicine,18,1623,Female
+370,Medical Oncology,18,816,Female
+371,Nuclear Medicine,18,22,Female
+400,Neurology,18,7611,Female
+401,Clinical Neurophysiology,18,839,Female
+410,Rheumatology,18,4025,Female
+420,Paediatrics,18,9848,Female
+421,Paediatric Neurology,18,237,Female
+430,Geriatric Medicine,18,247,Female
+450,Dental Medicine,18,1928,Female
+451,Special Care Dentistry,18,125,Female
+460,Medical Ophthalmology,18,112,Female
+499,"Non-UK Provider; specialty function not known, treatment mainly medical",18,0,Female
+500,Obstetrics and Gynaecology,18,5,Female
+501,Obstetrics,18,17947,Female
+502,Gynaecology,18,19385,Female
+504,Community Sexual and Reproductive Health,18,3,Female
+560,Midwifery,18,24082,Female
+600,General Medical Practice,18,166,Female
+601,General Dental Practice,18,199,Female
+700,Learning Disability,18,626,Female
+710,Adult Mental Illness,18,12263,Female
+711,Child and Adolescent Psychiatry,18,10870,Female
+712,Forensic Psychiatry,18,31,Female
+713,Medical Psychotherapy,18,297,Female
+715,Old Age Psychiatry,18,13,Female
+800,Clinical Oncology,18,834,Female
+810,Radiology,18,16977,Female
+820,General Pathology,18,6,Female
+821,Blood Transfusion,18,0,Female
+822,Chemical Pathology,18,154,Female
+823,Haematology,18,599,Female
+824,Histopathology,18,39,Female
+830,Immunopathology,18,60,Female
+831,Medical Microbiology and Virology,18,4,Female
+833,Medical Microbiology,18,2,Female
+834,Medical Virology,18,34,Female
+900,Community Medicine,18,474,Female
+901,Occupational Medicine,18,89,Female
+902,Community Health Services Dental,18,0,Female
+903,Public Health Medicine,18,0,Female
+950,Nursing,18,13919,Female
+960,Allied Health Professional,18,34906,Female
+990,Joint Consultant Clinics (Retired 1 April 2004),18,5,Female
+&,Not Known,20-24,986,Female
+100,General Surgery,20-24,10831,Female
+101,Urology,20-24,2898,Female
+107,Vascular Surgery,20-24,32,Female
+110,Trauma and Orthopaedics,20-24,17678,Female
+120,Ear Nose and Throat,20-24,9835,Female
+130,Ophthalmology,20-24,10387,Female
+140,Oral Surgery,20-24,4060,Female
+141,Restorative Dentistry,20-24,1496,Female
+142,Paediatric Dentistry,20-24,80,Female
+143,Orthodontics,20-24,20577,Female
+145,Oral and Maxillofacial Surgery,20-24,3065,Female
+146,Endodontics,20-24,57,Female
+147,Periodontics,20-24,34,Female
+148,Prosthodontics,20-24,36,Female
+149,Surgical Dentistry,20-24,7,Female
+150,Neurosurgery,20-24,951,Female
+160,Plastic Surgery,20-24,3401,Female
+170,Cardiothoracic Surgery,20-24,190,Female
+171,Paediatric Surgery,20-24,102,Female
+180,Emergency Medicine,20-24,1511,Female
+190,Anaesthetics,20-24,3336,Female
+191,Pain Management (Retired 1 April 2004),20-24,0,Female
+192,Intensive Care Medicine,20-24,68,Female
+300,General Internal Medicine,20-24,10574,Female
+301,Gastroenterology,20-24,6825,Female
+302,Endocrinology and Diabetes,20-24,4482,Female
+303,Clinical Haematology,20-24,4177,Female
+304,Clinical Physiology,20-24,828,Female
+305,Clinical Pharmacology,20-24,38,Female
+310,Audio Vestibular Medicine,20-24,1068,Female
+311,Clinical Genetics,20-24,691,Female
+313,Clinical Immunology,20-24,1067,Female
+314,Rehabilitation Medicine,20-24,757,Female
+315,Palliative Medicine,20-24,104,Female
+317,Allergy,20-24,262,Female
+320,Cardiology,20-24,8281,Female
+321,Paediatric Cardiology,20-24,398,Female
+325,Sport and Exercise Medicine,20-24,68,Female
+326,Acute Internal Medicine,20-24,798,Female
+330,Dermatology,20-24,16860,Female
+340,Respiratory Medicine,20-24,3610,Female
+350,Infectious Diseases,20-24,366,Female
+352,Tropical Medicine,20-24,0,Female
+360,Genitourinary Medicine,20-24,291,Female
+361,Renal Medicine,20-24,1743,Female
+370,Medical Oncology,20-24,820,Female
+371,Nuclear Medicine,20-24,28,Female
+400,Neurology,20-24,8329,Female
+401,Clinical Neurophysiology,20-24,835,Female
+410,Rheumatology,20-24,3933,Female
+420,Paediatrics,20-24,2416,Female
+421,Paediatric Neurology,20-24,110,Female
+430,Geriatric Medicine,20-24,339,Female
+450,Dental Medicine,20-24,1672,Female
+451,Special Care Dentistry,20-24,97,Female
+460,Medical Ophthalmology,20-24,83,Female
+499,"Non-UK Provider; specialty function not known, treatment mainly medical",20-24,0,Female
+500,Obstetrics and Gynaecology,20-24,1,Female
+501,Obstetrics,20-24,30737,Female
+502,Gynaecology,20-24,27518,Female
+504,Community Sexual and Reproductive Health,20-24,1,Female
+560,Midwifery,20-24,42035,Female
+600,General Medical Practice,20-24,167,Female
+601,General Dental Practice,20-24,163,Female
+700,Learning Disability,20-24,514,Female
+710,Adult Mental Illness,20-24,12677,Female
+711,Child and Adolescent Psychiatry,20-24,5466,Female
+712,Forensic Psychiatry,20-24,37,Female
+713,Medical Psychotherapy,20-24,216,Female
+715,Old Age Psychiatry,20-24,36,Female
+800,Clinical Oncology,20-24,764,Female
+810,Radiology,20-24,19229,Female
+820,General Pathology,20-24,5,Female
+821,Blood Transfusion,20-24,0,Female
+822,Chemical Pathology,20-24,172,Female
+823,Haematology,20-24,560,Female
+824,Histopathology,20-24,53,Female
+830,Immunopathology,20-24,76,Female
+831,Medical Microbiology and Virology,20-24,0,Female
+833,Medical Microbiology,20-24,6,Female
+834,Medical Virology,20-24,45,Female
+900,Community Medicine,20-24,391,Female
+901,Occupational Medicine,20-24,108,Female
+902,Community Health Services Dental,20-24,57,Female
+903,Public Health Medicine,20-24,0,Female
+950,Nursing,20-24,14710,Female
+960,Allied Health Professional,20-24,32256,Female
+990,Joint Consultant Clinics (Retired 1 April 2004),20-24,4,Female
+&,Not Known,25-29,6498,Female
+100,General Surgery,25-29,78367,Female
+101,Urology,25-29,19887,Female
+107,Vascular Surgery,25-29,255,Female
+110,Trauma and Orthopaedics,25-29,90165,Female
+120,Ear Nose and Throat,25-29,51436,Female
+130,Ophthalmology,25-29,58899,Female
+140,Oral Surgery,25-29,23440,Female
+141,Restorative Dentistry,25-29,7578,Female
+142,Paediatric Dentistry,25-29,196,Female
+143,Orthodontics,25-29,40980,Female
+145,Oral and Maxillofacial Surgery,25-29,16364,Female
+146,Endodontics,25-29,667,Female
+147,Periodontics,25-29,135,Female
+148,Prosthodontics,25-29,114,Female
+149,Surgical Dentistry,25-29,13,Female
+150,Neurosurgery,25-29,5267,Female
+160,Plastic Surgery,25-29,18118,Female
+170,Cardiothoracic Surgery,25-29,869,Female
+171,Paediatric Surgery,25-29,170,Female
+180,Emergency Medicine,25-29,7747,Female
+190,Anaesthetics,25-29,23462,Female
+191,Pain Management (Retired 1 April 2004),25-29,0,Female
+192,Intensive Care Medicine,25-29,156,Female
+300,General Internal Medicine,25-29,67456,Female
+301,Gastroenterology,25-29,45173,Female
+302,Endocrinology and Diabetes,25-29,30467,Female
+303,Clinical Haematology,25-29,23700,Female
+304,Clinical Physiology,25-29,4778,Female
+305,Clinical Pharmacology,25-29,216,Female
+310,Audio Vestibular Medicine,25-29,4441,Female
+311,Clinical Genetics,25-29,3624,Female
+313,Clinical Immunology,25-29,6042,Female
+314,Rehabilitation Medicine,25-29,4218,Female
+315,Palliative Medicine,25-29,381,Female
+317,Allergy,25-29,1513,Female
+320,Cardiology,25-29,43658,Female
+321,Paediatric Cardiology,25-29,1621,Female
+325,Sport and Exercise Medicine,25-29,593,Female
+326,Acute Internal Medicine,25-29,5232,Female
+330,Dermatology,25-29,100257,Female
+340,Respiratory Medicine,25-29,22487,Female
+350,Infectious Diseases,25-29,3167,Female
+352,Tropical Medicine,25-29,0,Female
+360,Genitourinary Medicine,25-29,2035,Female
+361,Renal Medicine,25-29,9354,Female
+370,Medical Oncology,25-29,4842,Female
+371,Nuclear Medicine,25-29,256,Female
+400,Neurology,25-29,45981,Female
+401,Clinical Neurophysiology,25-29,4264,Female
+410,Rheumatology,25-29,23770,Female
+420,Paediatrics,25-29,4554,Female
+421,Paediatric Neurology,25-29,111,Female
+430,Geriatric Medicine,25-29,1919,Female
+450,Dental Medicine,25-29,5256,Female
+451,Special Care Dentistry,25-29,470,Female
+460,Medical Ophthalmology,25-29,634,Female
+499,"Non-UK Provider; specialty function not known, treatment mainly medical",25-29,0,Female
+500,Obstetrics and Gynaecology,25-29,19,Female
+501,Obstetrics,25-29,293921,Female
+502,Gynaecology,25-29,247084,Female
+504,Community Sexual and Reproductive Health,25-29,25,Female
+560,Midwifery,25-29,443995,Female
+600,General Medical Practice,25-29,956,Female
+601,General Dental Practice,25-29,316,Female
+700,Learning Disability,25-29,2892,Female
+710,Adult Mental Illness,25-29,66887,Female
+711,Child and Adolescent Psychiatry,25-29,21165,Female
+712,Forensic Psychiatry,25-29,265,Female
+713,Medical Psychotherapy,25-29,1516,Female
+715,Old Age Psychiatry,25-29,425,Female
+800,Clinical Oncology,25-29,5241,Female
+810,Radiology,25-29,136419,Female
+820,General Pathology,25-29,88,Female
+821,Blood Transfusion,25-29,0,Female
+822,Chemical Pathology,25-29,1144,Female
+823,Haematology,25-29,3389,Female
+824,Histopathology,25-29,230,Female
+830,Immunopathology,25-29,332,Female
+831,Medical Microbiology and Virology,25-29,26,Female
+833,Medical Microbiology,25-29,45,Female
+834,Medical Virology,25-29,261,Female
+900,Community Medicine,25-29,2520,Female
+901,Occupational Medicine,25-29,727,Female
+902,Community Health Services Dental,25-29,196,Female
+903,Public Health Medicine,25-29,0,Female
+950,Nursing,25-29,96017,Female
+960,Allied Health Professional,25-29,204834,Female
+990,Joint Consultant Clinics (Retired 1 April 2004),25-29,19,Female
+&,Not Known,30-34,13299,Female
+100,General Surgery,30-34,137505,Female
+101,Urology,30-34,27533,Female
+107,Vascular Surgery,30-34,525,Female
+110,Trauma and Orthopaedics,30-34,113089,Female
+120,Ear Nose and Throat,30-34,67688,Female
+130,Ophthalmology,30-34,83253,Female
+140,Oral Surgery,30-34,31710,Female
+141,Restorative Dentistry,30-34,6840,Female
+142,Paediatric Dentistry,30-34,22,Female
+143,Orthodontics,30-34,9798,Female
+145,Oral and Maxillofacial Surgery,30-34,20602,Female
+146,Endodontics,30-34,793,Female
+147,Periodontics,30-34,228,Female
+148,Prosthodontics,30-34,144,Female
+149,Surgical Dentistry,30-34,7,Female
+150,Neurosurgery,30-34,8138,Female
+160,Plastic Surgery,30-34,21426,Female
+170,Cardiothoracic Surgery,30-34,1224,Female
+171,Paediatric Surgery,30-34,163,Female
+180,Emergency Medicine,30-34,8432,Female
+190,Anaesthetics,30-34,39555,Female
+191,Pain Management (Retired 1 April 2004),30-34,1,Female
+192,Intensive Care Medicine,30-34,378,Female
+300,General Internal Medicine,30-34,110920,Female
+301,Gastroenterology,30-34,65216,Female
+302,Endocrinology and Diabetes,30-34,51166,Female
+303,Clinical Haematology,30-34,31611,Female
+304,Clinical Physiology,30-34,6086,Female
+305,Clinical Pharmacology,30-34,370,Female
+310,Audio Vestibular Medicine,30-34,5576,Female
+311,Clinical Genetics,30-34,6652,Female
+313,Clinical Immunology,30-34,6417,Female
+314,Rehabilitation Medicine,30-34,6161,Female
+315,Palliative Medicine,30-34,544,Female
+317,Allergy,30-34,1896,Female
+320,Cardiology,30-34,51389,Female
+321,Paediatric Cardiology,30-34,2899,Female
+325,Sport and Exercise Medicine,30-34,582,Female
+326,Acute Internal Medicine,30-34,7006,Female
+330,Dermatology,30-34,126146,Female
+340,Respiratory Medicine,30-34,33862,Female
+350,Infectious Diseases,30-34,5114,Female
+352,Tropical Medicine,30-34,0,Female
+360,Genitourinary Medicine,30-34,1899,Female
+361,Renal Medicine,30-34,14783,Female
+370,Medical Oncology,30-34,10081,Female
+371,Nuclear Medicine,30-34,380,Female
+400,Neurology,30-34,60715,Female
+401,Clinical Neurophysiology,30-34,5323,Female
+410,Rheumatology,30-34,38353,Female
+420,Paediatrics,30-34,6096,Female
+421,Paediatric Neurology,30-34,83,Female
+430,Geriatric Medicine,30-34,2377,Female
+450,Dental Medicine,30-34,4247,Female
+451,Special Care Dentistry,30-34,504,Female
+460,Medical Ophthalmology,30-34,936,Female
+499,"Non-UK Provider; specialty function not known, treatment mainly medical",30-34,0,Female
+500,Obstetrics and Gynaecology,30-34,39,Female
+501,Obstetrics,30-34,662484,Female
+502,Gynaecology,30-34,522782,Female
+504,Community Sexual and Reproductive Health,30-34,27,Female
+560,Midwifery,30-34,1032277,Female
+600,General Medical Practice,30-34,1152,Female
+601,General Dental Practice,30-34,143,Female
+700,Learning Disability,30-34,2805,Female
+710,Adult Mental Illness,30-34,71871,Female
+711,Child and Adolescent Psychiatry,30-34,6001,Female
+712,Forensic Psychiatry,30-34,305,Female
+713,Medical Psychotherapy,30-34,1912,Female
+715,Old Age Psychiatry,30-34,307,Female
+800,Clinical Oncology,30-34,10125,Female
+810,Radiology,30-34,239454,Female
+820,General Pathology,30-34,189,Female
+821,Blood Transfusion,30-34,0,Female
+822,Chemical Pathology,30-34,2057,Female
+823,Haematology,30-34,5511,Female
+824,Histopathology,30-34,164,Female
+830,Immunopathology,30-34,457,Female
+831,Medical Microbiology and Virology,30-34,92,Female
+833,Medical Microbiology,30-34,65,Female
+834,Medical Virology,30-34,306,Female
+900,Community Medicine,30-34,4276,Female
+901,Occupational Medicine,30-34,1083,Female
+902,Community Health Services Dental,30-34,209,Female
+903,Public Health Medicine,30-34,2,Female
+950,Nursing,30-34,157965,Female
+960,Allied Health Professional,30-34,327540,Female
+990,Joint Consultant Clinics (Retired 1 April 2004),30-34,14,Female
+&,Not Known,35-39,18239,Female
+100,General Surgery,35-39,207984,Female
+101,Urology,35-39,32696,Female
+107,Vascular Surgery,35-39,895,Female
+110,Trauma and Orthopaedics,35-39,134882,Female
+120,Ear Nose and Throat,35-39,84212,Female
+130,Ophthalmology,35-39,101251,Female
+140,Oral Surgery,35-39,32523,Female
+141,Restorative Dentistry,35-39,7628,Female
+142,Paediatric Dentistry,35-39,4,Female
+143,Orthodontics,35-39,6825,Female
+145,Oral and Maxillofacial Surgery,35-39,21412,Female
+146,Endodontics,35-39,846,Female
+147,Periodontics,35-39,267,Female
+148,Prosthodontics,35-39,71,Female
+149,Surgical Dentistry,35-39,23,Female
+150,Neurosurgery,35-39,12119,Female
+160,Plastic Surgery,35-39,25072,Female
+170,Cardiothoracic Surgery,35-39,1494,Female
+171,Paediatric Surgery,35-39,248,Female
+180,Emergency Medicine,35-39,8992,Female
+190,Anaesthetics,35-39,56174,Female
+191,Pain Management (Retired 1 April 2004),35-39,0,Female
+192,Intensive Care Medicine,35-39,503,Female
+300,General Internal Medicine,35-39,158327,Female
+301,Gastroenterology,35-39,80326,Female
+302,Endocrinology and Diabetes,35-39,69010,Female
+303,Clinical Haematology,35-39,41620,Female
+304,Clinical Physiology,35-39,7556,Female
+305,Clinical Pharmacology,35-39,592,Female
+310,Audio Vestibular Medicine,35-39,7099,Female
+311,Clinical Genetics,35-39,9524,Female
+313,Clinical Immunology,35-39,6719,Female
+314,Rehabilitation Medicine,35-39,7830,Female
+315,Palliative Medicine,35-39,782,Female
+317,Allergy,35-39,1764,Female
+320,Cardiology,35-39,63632,Female
+321,Paediatric Cardiology,35-39,4196,Female
+325,Sport and Exercise Medicine,35-39,582,Female
+326,Acute Internal Medicine,35-39,8366,Female
+330,Dermatology,35-39,132181,Female
+340,Respiratory Medicine,35-39,43368,Female
+350,Infectious Diseases,35-39,6610,Female
+352,Tropical Medicine,35-39,0,Female
+360,Genitourinary Medicine,35-39,1814,Female
+361,Renal Medicine,35-39,21428,Female
+370,Medical Oncology,35-39,22091,Female
+371,Nuclear Medicine,35-39,543,Female
+400,Neurology,35-39,74274,Female
+401,Clinical Neurophysiology,35-39,7242,Female
+410,Rheumatology,35-39,57420,Female
+420,Paediatrics,35-39,7279,Female
+421,Paediatric Neurology,35-39,110,Female
+430,Geriatric Medicine,35-39,3156,Female
+450,Dental Medicine,35-39,4477,Female
+451,Special Care Dentistry,35-39,611,Female
+460,Medical Ophthalmology,35-39,952,Female
+499,"Non-UK Provider; specialty function not known, treatment mainly medical",35-39,0,Female
+500,Obstetrics and Gynaecology,35-39,53,Female
+501,Obstetrics,35-39,924200,Female
+502,Gynaecology,35-39,685182,Female
+504,Community Sexual and Reproductive Health,35-39,36,Female
+560,Midwifery,35-39,1442899,Female
+600,General Medical Practice,35-39,1235,Female
+601,General Dental Practice,35-39,125,Female
+700,Learning Disability,35-39,2908,Female
+710,Adult Mental Illness,35-39,71756,Female
+711,Child and Adolescent Psychiatry,35-39,4486,Female
+712,Forensic Psychiatry,35-39,682,Female
+713,Medical Psychotherapy,35-39,2219,Female
+715,Old Age Psychiatry,35-39,371,Female
+800,Clinical Oncology,35-39,23769,Female
+810,Radiology,35-39,321671,Female
+820,General Pathology,35-39,261,Female
+821,Blood Transfusion,35-39,0,Female
+822,Chemical Pathology,35-39,2939,Female
+823,Haematology,35-39,7592,Female
+824,Histopathology,35-39,246,Female
+830,Immunopathology,35-39,400,Female
+831,Medical Microbiology and Virology,35-39,127,Female
+833,Medical Microbiology,35-39,50,Female
+834,Medical Virology,35-39,276,Female
+900,Community Medicine,35-39,5985,Female
+901,Occupational Medicine,35-39,1123,Female
+902,Community Health Services Dental,35-39,183,Female
+903,Public Health Medicine,35-39,6,Female
+950,Nursing,35-39,203849,Female
+960,Allied Health Professional,35-39,432620,Female
+990,Joint Consultant Clinics (Retired 1 April 2004),35-39,15,Female
+&,Not Known,40-44,15072,Female
+100,General Surgery,40-44,253157,Female
+101,Urology,40-44,37598,Female
+107,Vascular Surgery,40-44,1284,Female
+110,Trauma and Orthopaedics,40-44,162322,Female
+120,Ear Nose and Throat,40-44,96101,Female
+130,Ophthalmology,40-44,111625,Female
+140,Oral Surgery,40-44,29808,Female
+141,Restorative Dentistry,40-44,8559,Female
+142,Paediatric Dentistry,40-44,8,Female
+143,Orthodontics,40-44,5027,Female
+145,Oral and Maxillofacial Surgery,40-44,21174,Female
+146,Endodontics,40-44,921,Female
+147,Periodontics,40-44,342,Female
+148,Prosthodontics,40-44,188,Female
+149,Surgical Dentistry,40-44,7,Female
+150,Neurosurgery,40-44,15826,Female
+160,Plastic Surgery,40-44,28050,Female
+170,Cardiothoracic Surgery,40-44,1761,Female
+171,Paediatric Surgery,40-44,251,Female
+180,Emergency Medicine,40-44,8494,Female
+190,Anaesthetics,40-44,65083,Female
+191,Pain Management (Retired 1 April 2004),40-44,2,Female
+192,Intensive Care Medicine,40-44,477,Female
+300,General Internal Medicine,40-44,154541,Female
+301,Gastroenterology,40-44,91051,Female
+302,Endocrinology and Diabetes,40-44,66259,Female
+303,Clinical Haematology,40-44,47928,Female
+304,Clinical Physiology,40-44,8977,Female
+305,Clinical Pharmacology,40-44,745,Female
+310,Audio Vestibular Medicine,40-44,8524,Female
+311,Clinical Genetics,40-44,8804,Female
+313,Clinical Immunology,40-44,6483,Female
+314,Rehabilitation Medicine,40-44,9698,Female
+315,Palliative Medicine,40-44,1437,Female
+317,Allergy,40-44,1520,Female
+320,Cardiology,40-44,70927,Female
+321,Paediatric Cardiology,40-44,3143,Female
+325,Sport and Exercise Medicine,40-44,740,Female
+326,Acute Internal Medicine,40-44,8210,Female
+330,Dermatology,40-44,125469,Female
+340,Respiratory Medicine,40-44,50713,Female
+350,Infectious Diseases,40-44,6978,Female
+352,Tropical Medicine,40-44,0,Female
+360,Genitourinary Medicine,40-44,2127,Female
+361,Renal Medicine,40-44,26188,Female
+370,Medical Oncology,40-44,41957,Female
+371,Nuclear Medicine,40-44,677,Female
+400,Neurology,40-44,77016,Female
+401,Clinical Neurophysiology,40-44,8738,Female
+410,Rheumatology,40-44,74130,Female
+420,Paediatrics,40-44,4650,Female
+421,Paediatric Neurology,40-44,79,Female
+430,Geriatric Medicine,40-44,3523,Female
+450,Dental Medicine,40-44,5458,Female
+451,Special Care Dentistry,40-44,613,Female
+460,Medical Ophthalmology,40-44,1093,Female
+499,"Non-UK Provider; specialty function not known, treatment mainly medical",40-44,0,Female
+500,Obstetrics and Gynaecology,40-44,75,Female
+501,Obstetrics,40-44,601688,Female
+502,Gynaecology,40-44,571598,Female
+504,Community Sexual and Reproductive Health,40-44,29,Female
+560,Midwifery,40-44,879863,Female
+600,General Medical Practice,40-44,1338,Female
+601,General Dental Practice,40-44,129,Female
+700,Learning Disability,40-44,2128,Female
+710,Adult Mental Illness,40-44,66653,Female
+711,Child and Adolescent Psychiatry,40-44,3626,Female
+712,Forensic Psychiatry,40-44,360,Female
+713,Medical Psychotherapy,40-44,2386,Female
+715,Old Age Psychiatry,40-44,558,Female
+800,Clinical Oncology,40-44,46419,Female
+810,Radiology,40-44,314225,Female
+820,General Pathology,40-44,234,Female
+821,Blood Transfusion,40-44,0,Female
+822,Chemical Pathology,40-44,3523,Female
+823,Haematology,40-44,9354,Female
+824,Histopathology,40-44,199,Female
+830,Immunopathology,40-44,376,Female
+831,Medical Microbiology and Virology,40-44,102,Female
+833,Medical Microbiology,40-44,64,Female
+834,Medical Virology,40-44,298,Female
+900,Community Medicine,40-44,7292,Female
+901,Occupational Medicine,40-44,1206,Female
+902,Community Health Services Dental,40-44,174,Female
+903,Public Health Medicine,40-44,1,Female
+950,Nursing,40-44,202482,Female
+960,Allied Health Professional,40-44,429291,Female
+990,Joint Consultant Clinics (Retired 1 April 2004),40-44,34,Female
+&,Not Known,45-49,9162,Female
+100,General Surgery,45-49,284153,Female
+101,Urology,45-49,42209,Female
+107,Vascular Surgery,45-49,1597,Female
+110,Trauma and Orthopaedics,45-49,187297,Female
+120,Ear Nose and Throat,45-49,99224,Female
+130,Ophthalmology,45-49,126289,Female
+140,Oral Surgery,45-49,26207,Female
+141,Restorative Dentistry,45-49,8929,Female
+142,Paediatric Dentistry,45-49,6,Female
+143,Orthodontics,45-49,3686,Female
+145,Oral and Maxillofacial Surgery,45-49,20707,Female
+146,Endodontics,45-49,998,Female
+147,Periodontics,45-49,498,Female
+148,Prosthodontics,45-49,109,Female
+149,Surgical Dentistry,45-49,4,Female
+150,Neurosurgery,45-49,18890,Female
+160,Plastic Surgery,45-49,32354,Female
+170,Cardiothoracic Surgery,45-49,2190,Female
+171,Paediatric Surgery,45-49,346,Female
+180,Emergency Medicine,45-49,7736,Female
+190,Anaesthetics,45-49,68564,Female
+191,Pain Management (Retired 1 April 2004),45-49,3,Female
+192,Intensive Care Medicine,45-49,427,Female
+300,General Internal Medicine,45-49,122477,Female
+301,Gastroenterology,45-49,95687,Female
+302,Endocrinology and Diabetes,45-49,51674,Female
+303,Clinical Haematology,45-49,49744,Female
+304,Clinical Physiology,45-49,9327,Female
+305,Clinical Pharmacology,45-49,686,Female
+310,Audio Vestibular Medicine,45-49,9711,Female
+311,Clinical Genetics,45-49,6762,Female
+313,Clinical Immunology,45-49,6002,Female
+314,Rehabilitation Medicine,45-49,11288,Female
+315,Palliative Medicine,45-49,1898,Female
+317,Allergy,45-49,1412,Female
+320,Cardiology,45-49,75742,Female
+321,Paediatric Cardiology,45-49,1245,Female
+325,Sport and Exercise Medicine,45-49,728,Female
+326,Acute Internal Medicine,45-49,7928,Female
+330,Dermatology,45-49,117753,Female
+340,Respiratory Medicine,45-49,58709,Female
+350,Infectious Diseases,45-49,6140,Female
+352,Tropical Medicine,45-49,0,Female
+360,Genitourinary Medicine,45-49,2221,Female
+361,Renal Medicine,45-49,28426,Female
+370,Medical Oncology,45-49,64649,Female
+371,Nuclear Medicine,45-49,707,Female
+400,Neurology,45-49,79435,Female
+401,Clinical Neurophysiology,45-49,9820,Female
+410,Rheumatology,45-49,84249,Female
+420,Paediatrics,45-49,1798,Female
+421,Paediatric Neurology,45-49,59,Female
+430,Geriatric Medicine,45-49,4274,Female
+450,Dental Medicine,45-49,6016,Female
+451,Special Care Dentistry,45-49,659,Female
+460,Medical Ophthalmology,45-49,1023,Female
+499,"Non-UK Provider; specialty function not known, treatment mainly medical",45-49,0,Female
+500,Obstetrics and Gynaecology,45-49,50,Female
+501,Obstetrics,45-49,191468,Female
+502,Gynaecology,45-49,349534,Female
+504,Community Sexual and Reproductive Health,45-49,18,Female
+560,Midwifery,45-49,199864,Female
+600,General Medical Practice,45-49,1401,Female
+601,General Dental Practice,45-49,171,Female
+700,Learning Disability,45-49,2050,Female
+710,Adult Mental Illness,45-49,53201,Female
+711,Child and Adolescent Psychiatry,45-49,1455,Female
+712,Forensic Psychiatry,45-49,377,Female
+713,Medical Psychotherapy,45-49,2041,Female
+715,Old Age Psychiatry,45-49,436,Female
+800,Clinical Oncology,45-49,69374,Female
+810,Radiology,45-49,293556,Female
+820,General Pathology,45-49,132,Female
+821,Blood Transfusion,45-49,0,Female
+822,Chemical Pathology,45-49,3963,Female
+823,Haematology,45-49,10054,Female
+824,Histopathology,45-49,165,Female
+830,Immunopathology,45-49,425,Female
+831,Medical Microbiology and Virology,45-49,92,Female
+833,Medical Microbiology,45-49,63,Female
+834,Medical Virology,45-49,300,Female
+900,Community Medicine,45-49,9082,Female
+901,Occupational Medicine,45-49,1318,Female
+902,Community Health Services Dental,45-49,157,Female
+903,Public Health Medicine,45-49,5,Female
+950,Nursing,45-49,191656,Female
+960,Allied Health Professional,45-49,406184,Female
+990,Joint Consultant Clinics (Retired 1 April 2004),45-49,17,Female
+&,Not Known,50-54,5480,Female
+100,General Surgery,50-54,281276,Female
+101,Urology,50-54,42542,Female
+107,Vascular Surgery,50-54,1601,Female
+110,Trauma and Orthopaedics,50-54,217716,Female
+120,Ear Nose and Throat,50-54,97319,Female
+130,Ophthalmology,50-54,145307,Female
+140,Oral Surgery,50-54,24055,Female
+141,Restorative Dentistry,50-54,9002,Female
+142,Paediatric Dentistry,50-54,3,Female
+143,Orthodontics,50-54,2390,Female
+145,Oral and Maxillofacial Surgery,50-54,19781,Female
+146,Endodontics,50-54,966,Female
+147,Periodontics,50-54,519,Female
+148,Prosthodontics,50-54,155,Female
+149,Surgical Dentistry,50-54,9,Female
+150,Neurosurgery,50-54,20303,Female
+160,Plastic Surgery,50-54,32250,Female
+170,Cardiothoracic Surgery,50-54,2731,Female
+171,Paediatric Surgery,50-54,288,Female
+180,Emergency Medicine,50-54,6596,Female
+190,Anaesthetics,50-54,70983,Female
+191,Pain Management (Retired 1 April 2004),50-54,3,Female
+192,Intensive Care Medicine,50-54,519,Female
+300,General Internal Medicine,50-54,113949,Female
+301,Gastroenterology,50-54,90352,Female
+302,Endocrinology and Diabetes,50-54,43906,Female
+303,Clinical Haematology,50-54,55775,Female
+304,Clinical Physiology,50-54,10225,Female
+305,Clinical Pharmacology,50-54,636,Female
+310,Audio Vestibular Medicine,50-54,10465,Female
+311,Clinical Genetics,50-54,5126,Female
+313,Clinical Immunology,50-54,5154,Female
+314,Rehabilitation Medicine,50-54,12873,Female
+315,Palliative Medicine,50-54,2701,Female
+317,Allergy,50-54,1142,Female
+320,Cardiology,50-54,80488,Female
+321,Paediatric Cardiology,50-54,417,Female
+325,Sport and Exercise Medicine,50-54,740,Female
+326,Acute Internal Medicine,50-54,7997,Female
+330,Dermatology,50-54,108188,Female
+340,Respiratory Medicine,50-54,64312,Female
+350,Infectious Diseases,50-54,6220,Female
+352,Tropical Medicine,50-54,0,Female
+360,Genitourinary Medicine,50-54,2820,Female
+361,Renal Medicine,50-54,30055,Female
+370,Medical Oncology,50-54,82365,Female
+371,Nuclear Medicine,50-54,653,Female
+400,Neurology,50-54,75288,Female
+401,Clinical Neurophysiology,50-54,9839,Female
+410,Rheumatology,50-54,87684,Female
+420,Paediatrics,50-54,685,Female
+421,Paediatric Neurology,50-54,65,Female
+430,Geriatric Medicine,50-54,4849,Female
+450,Dental Medicine,50-54,6158,Female
+451,Special Care Dentistry,50-54,609,Female
+460,Medical Ophthalmology,50-54,1193,Female
+499,"Non-UK Provider; specialty function not known, treatment mainly medical",50-54,0,Female
+500,Obstetrics and Gynaecology,50-54,25,Female
+501,Obstetrics,50-54,58690,Female
+502,Gynaecology,50-54,246892,Female
+504,Community Sexual and Reproductive Health,50-54,12,Female
+560,Midwifery,50-54,18152,Female
+600,General Medical Practice,50-54,1330,Female
+601,General Dental Practice,50-54,131,Female
+700,Learning Disability,50-54,1481,Female
+710,Adult Mental Illness,50-54,45689,Female
+711,Child and Adolescent Psychiatry,50-54,893,Female
+712,Forensic Psychiatry,50-54,291,Female
+713,Medical Psychotherapy,50-54,1973,Female
+715,Old Age Psychiatry,50-54,714,Female
+800,Clinical Oncology,50-54,90698,Female
+810,Radiology,50-54,290252,Female
+820,General Pathology,50-54,120,Female
+821,Blood Transfusion,50-54,0,Female
+822,Chemical Pathology,50-54,3936,Female
+823,Haematology,50-54,11478,Female
+824,Histopathology,50-54,206,Female
+830,Immunopathology,50-54,364,Female
+831,Medical Microbiology and Virology,50-54,151,Female
+833,Medical Microbiology,50-54,52,Female
+834,Medical Virology,50-54,328,Female
+900,Community Medicine,50-54,9677,Female
+901,Occupational Medicine,50-54,1455,Female
+902,Community Health Services Dental,50-54,160,Female
+903,Public Health Medicine,50-54,5,Female
+950,Nursing,50-54,186483,Female
+960,Allied Health Professional,50-54,419542,Female
+990,Joint Consultant Clinics (Retired 1 April 2004),50-54,42,Female
+&,Not Known,55-59,6000,Female
+100,General Surgery,55-59,315963,Female
+101,Urology,55-59,53615,Female
+107,Vascular Surgery,55-59,2135,Female
+110,Trauma and Orthopaedics,55-59,327320,Female
+120,Ear Nose and Throat,55-59,113674,Female
+130,Ophthalmology,55-59,209951,Female
+140,Oral Surgery,55-59,27789,Female
+141,Restorative Dentistry,55-59,10935,Female
+142,Paediatric Dentistry,55-59,4,Female
+143,Orthodontics,55-59,2257,Female
+145,Oral and Maxillofacial Surgery,55-59,23259,Female
+146,Endodontics,55-59,1062,Female
+147,Periodontics,55-59,450,Female
+148,Prosthodontics,55-59,172,Female
+149,Surgical Dentistry,55-59,12,Female
+150,Neurosurgery,55-59,26631,Female
+160,Plastic Surgery,55-59,40806,Female
+170,Cardiothoracic Surgery,55-59,4114,Female
+171,Paediatric Surgery,55-59,268,Female
+180,Emergency Medicine,55-59,7173,Female
+190,Anaesthetics,55-59,90011,Female
+191,Pain Management (Retired 1 April 2004),55-59,2,Female
+192,Intensive Care Medicine,55-59,682,Female
+300,General Internal Medicine,55-59,140936,Female
+301,Gastroenterology,55-59,107134,Female
+302,Endocrinology and Diabetes,55-59,49674,Female
+303,Clinical Haematology,55-59,70546,Female
+304,Clinical Physiology,55-59,13207,Female
+305,Clinical Pharmacology,55-59,688,Female
+310,Audio Vestibular Medicine,55-59,13595,Female
+311,Clinical Genetics,55-59,4802,Female
+313,Clinical Immunology,55-59,5244,Female
+314,Rehabilitation Medicine,55-59,16392,Female
+315,Palliative Medicine,55-59,4311,Female
+317,Allergy,55-59,971,Female
+320,Cardiology,55-59,104276,Female
+321,Paediatric Cardiology,55-59,349,Female
+325,Sport and Exercise Medicine,55-59,1142,Female
+326,Acute Internal Medicine,55-59,8716,Female
+330,Dermatology,55-59,130587,Female
+340,Respiratory Medicine,55-59,86082,Female
+350,Infectious Diseases,55-59,6151,Female
+352,Tropical Medicine,55-59,0,Female
+360,Genitourinary Medicine,55-59,2905,Female
+361,Renal Medicine,55-59,37149,Female
+370,Medical Oncology,55-59,116218,Female
+371,Nuclear Medicine,55-59,891,Female
+400,Neurology,55-59,84619,Female
+401,Clinical Neurophysiology,55-59,11561,Female
+410,Rheumatology,55-59,114780,Female
+420,Paediatrics,55-59,613,Female
+421,Paediatric Neurology,55-59,47,Female
+430,Geriatric Medicine,55-59,6832,Female
+450,Dental Medicine,55-59,7407,Female
+451,Special Care Dentistry,55-59,634,Female
+460,Medical Ophthalmology,55-59,1504,Female
+499,"Non-UK Provider; specialty function not known, treatment mainly medical",55-59,0,Female
+500,Obstetrics and Gynaecology,55-59,22,Female
+501,Obstetrics,55-59,48551,Female
+502,Gynaecology,55-59,261199,Female
+504,Community Sexual and Reproductive Health,55-59,13,Female
+560,Midwifery,55-59,2211,Female
+600,General Medical Practice,55-59,1939,Female
+601,General Dental Practice,55-59,192,Female
+700,Learning Disability,55-59,2001,Female
+710,Adult Mental Illness,55-59,45849,Female
+711,Child and Adolescent Psychiatry,55-59,926,Female
+712,Forensic Psychiatry,55-59,306,Female
+713,Medical Psychotherapy,55-59,2113,Female
+715,Old Age Psychiatry,55-59,836,Female
+800,Clinical Oncology,55-59,131248,Female
+810,Radiology,55-59,330829,Female
+820,General Pathology,55-59,183,Female
+821,Blood Transfusion,55-59,0,Female
+822,Chemical Pathology,55-59,6177,Female
+823,Haematology,55-59,14445,Female
+824,Histopathology,55-59,266,Female
+830,Immunopathology,55-59,311,Female
+831,Medical Microbiology and Virology,55-59,198,Female
+833,Medical Microbiology,55-59,63,Female
+834,Medical Virology,55-59,272,Female
+900,Community Medicine,55-59,11786,Female
+901,Occupational Medicine,55-59,1608,Female
+902,Community Health Services Dental,55-59,143,Female
+903,Public Health Medicine,55-59,9,Female
+950,Nursing,55-59,244946,Female
+960,Allied Health Professional,55-59,549754,Female
+990,Joint Consultant Clinics (Retired 1 April 2004),55-59,34,Female
+&,Not Known,60-64,6256,Female
+100,General Surgery,60-64,324863,Female
+101,Urology,60-64,64930,Female
+107,Vascular Surgery,60-64,2627,Female
+110,Trauma and Orthopaedics,60-64,430803,Female
+120,Ear Nose and Throat,60-64,128147,Female
+130,Ophthalmology,60-64,300957,Female
+140,Oral Surgery,60-64,31906,Female
+141,Restorative Dentistry,60-64,12335,Female
+142,Paediatric Dentistry,60-64,3,Female
+143,Orthodontics,60-64,1835,Female
+145,Oral and Maxillofacial Surgery,60-64,27530,Female
+146,Endodontics,60-64,1184,Female
+147,Periodontics,60-64,500,Female
+148,Prosthodontics,60-64,192,Female
+149,Surgical Dentistry,60-64,10,Female
+150,Neurosurgery,60-64,29109,Female
+160,Plastic Surgery,60-64,46178,Female
+170,Cardiothoracic Surgery,60-64,6808,Female
+171,Paediatric Surgery,60-64,241,Female
+180,Emergency Medicine,60-64,7327,Female
+190,Anaesthetics,60-64,98233,Female
+191,Pain Management (Retired 1 April 2004),60-64,1,Female
+192,Intensive Care Medicine,60-64,777,Female
+300,General Internal Medicine,60-64,167146,Female
+301,Gastroenterology,60-64,120645,Female
+302,Endocrinology and Diabetes,60-64,56248,Female
+303,Clinical Haematology,60-64,88360,Female
+304,Clinical Physiology,60-64,15573,Female
+305,Clinical Pharmacology,60-64,720,Female
+310,Audio Vestibular Medicine,60-64,17034,Female
+311,Clinical Genetics,60-64,4359,Female
+313,Clinical Immunology,60-64,5202,Female
+314,Rehabilitation Medicine,60-64,18022,Female
+315,Palliative Medicine,60-64,6176,Female
+317,Allergy,60-64,904,Female
+320,Cardiology,60-64,133075,Female
+321,Paediatric Cardiology,60-64,322,Female
+325,Sport and Exercise Medicine,60-64,1185,Female
+326,Acute Internal Medicine,60-64,9435,Female
+330,Dermatology,60-64,149995,Female
+340,Respiratory Medicine,60-64,111696,Female
+350,Infectious Diseases,60-64,5939,Female
+352,Tropical Medicine,60-64,1,Female
+360,Genitourinary Medicine,60-64,2431,Female
+361,Renal Medicine,60-64,43682,Female
+370,Medical Oncology,60-64,142579,Female
+371,Nuclear Medicine,60-64,991,Female
+400,Neurology,60-64,87175,Female
+401,Clinical Neurophysiology,60-64,12030,Female
+410,Rheumatology,60-64,139436,Female
+420,Paediatrics,60-64,627,Female
+421,Paediatric Neurology,60-64,39,Female
+430,Geriatric Medicine,60-64,9172,Female
+450,Dental Medicine,60-64,8478,Female
+451,Special Care Dentistry,60-64,868,Female
+460,Medical Ophthalmology,60-64,1734,Female
+499,"Non-UK Provider; specialty function not known, treatment mainly medical",60-64,0,Female
+500,Obstetrics and Gynaecology,60-64,7,Female
+501,Obstetrics,60-64,39412,Female
+502,Gynaecology,60-64,230310,Female
+504,Community Sexual and Reproductive Health,60-64,10,Female
+560,Midwifery,60-64,492,Female
+600,General Medical Practice,60-64,2216,Female
+601,General Dental Practice,60-64,236,Female
+700,Learning Disability,60-64,2269,Female
+710,Adult Mental Illness,60-64,43017,Female
+711,Child and Adolescent Psychiatry,60-64,809,Female
+712,Forensic Psychiatry,60-64,419,Female
+713,Medical Psychotherapy,60-64,1857,Female
+715,Old Age Psychiatry,60-64,1488,Female
+800,Clinical Oncology,60-64,156825,Female
+810,Radiology,60-64,352596,Female
+820,General Pathology,60-64,243,Female
+821,Blood Transfusion,60-64,3,Female
+822,Chemical Pathology,60-64,8346,Female
+823,Haematology,60-64,18548,Female
+824,Histopathology,60-64,238,Female
+830,Immunopathology,60-64,283,Female
+831,Medical Microbiology and Virology,60-64,227,Female
+833,Medical Microbiology,60-64,86,Female
+834,Medical Virology,60-64,220,Female
+900,Community Medicine,60-64,12984,Female
+901,Occupational Medicine,60-64,2054,Female
+902,Community Health Services Dental,60-64,201,Female
+903,Public Health Medicine,60-64,18,Female
+950,Nursing,60-64,292849,Female
+960,Allied Health Professional,60-64,656660,Female
+990,Joint Consultant Clinics (Retired 1 April 2004),60-64,64,Female
+&,Not Known,65-69,7370,Female
+100,General Surgery,65-69,313791,Female
+101,Urology,65-69,70834,Female
+107,Vascular Surgery,65-69,3143,Female
+110,Trauma and Orthopaedics,65-69,466191,Female
+120,Ear Nose and Throat,65-69,130843,Female
+130,Ophthalmology,65-69,398520,Female
+140,Oral Surgery,65-69,32682,Female
+141,Restorative Dentistry,65-69,12603,Female
+142,Paediatric Dentistry,65-69,1,Female
+143,Orthodontics,65-69,1546,Female
+145,Oral and Maxillofacial Surgery,65-69,28262,Female
+146,Endodontics,65-69,1240,Female
+147,Periodontics,65-69,374,Female
+148,Prosthodontics,65-69,214,Female
+149,Surgical Dentistry,65-69,17,Female
+150,Neurosurgery,65-69,29744,Female
+160,Plastic Surgery,65-69,43588,Female
+170,Cardiothoracic Surgery,65-69,9602,Female
+171,Paediatric Surgery,65-69,227,Female
+180,Emergency Medicine,65-69,6750,Female
+190,Anaesthetics,65-69,92019,Female
+191,Pain Management (Retired 1 April 2004),65-69,4,Female
+192,Intensive Care Medicine,65-69,759,Female
+300,General Internal Medicine,65-69,180558,Female
+301,Gastroenterology,65-69,122634,Female
+302,Endocrinology and Diabetes,65-69,52844,Female
+303,Clinical Haematology,65-69,105780,Female
+304,Clinical Physiology,65-69,18471,Female
+305,Clinical Pharmacology,65-69,865,Female
+310,Audio Vestibular Medicine,65-69,20447,Female
+311,Clinical Genetics,65-69,3473,Female
+313,Clinical Immunology,65-69,4348,Female
+314,Rehabilitation Medicine,65-69,18374,Female
+315,Palliative Medicine,65-69,7644,Female
+317,Allergy,65-69,706,Female
+320,Cardiology,65-69,156682,Female
+321,Paediatric Cardiology,65-69,213,Female
+325,Sport and Exercise Medicine,65-69,992,Female
+326,Acute Internal Medicine,65-69,9704,Female
+330,Dermatology,65-69,153306,Female
+340,Respiratory Medicine,65-69,126297,Female
+350,Infectious Diseases,65-69,5368,Female
+352,Tropical Medicine,65-69,0,Female
+360,Genitourinary Medicine,65-69,1785,Female
+361,Renal Medicine,65-69,43947,Female
+370,Medical Oncology,65-69,162391,Female
+371,Nuclear Medicine,65-69,1006,Female
+400,Neurology,65-69,81143,Female
+401,Clinical Neurophysiology,65-69,10874,Female
+410,Rheumatology,65-69,145034,Female
+420,Paediatrics,65-69,570,Female
+421,Paediatric Neurology,65-69,38,Female
+430,Geriatric Medicine,65-69,12996,Female
+450,Dental Medicine,65-69,8788,Female
+451,Special Care Dentistry,65-69,807,Female
+460,Medical Ophthalmology,65-69,2119,Female
+499,"Non-UK Provider; specialty function not known, treatment mainly medical",65-69,0,Female
+500,Obstetrics and Gynaecology,65-69,8,Female
+501,Obstetrics,65-69,25909,Female
+502,Gynaecology,65-69,163669,Female
+504,Community Sexual and Reproductive Health,65-69,8,Female
+560,Midwifery,65-69,175,Female
+600,General Medical Practice,65-69,2325,Female
+601,General Dental Practice,65-69,207,Female
+700,Learning Disability,65-69,1842,Female
+710,Adult Mental Illness,65-69,35538,Female
+711,Child and Adolescent Psychiatry,65-69,674,Female
+712,Forensic Psychiatry,65-69,208,Female
+713,Medical Psychotherapy,65-69,1557,Female
+715,Old Age Psychiatry,65-69,2396,Female
+800,Clinical Oncology,65-69,182540,Female
+810,Radiology,65-69,343991,Female
+820,General Pathology,65-69,214,Female
+821,Blood Transfusion,65-69,0,Female
+822,Chemical Pathology,65-69,8358,Female
+823,Haematology,65-69,19874,Female
+824,Histopathology,65-69,279,Female
+830,Immunopathology,65-69,375,Female
+831,Medical Microbiology and Virology,65-69,235,Female
+833,Medical Microbiology,65-69,104,Female
+834,Medical Virology,65-69,192,Female
+900,Community Medicine,65-69,13143,Female
+901,Occupational Medicine,65-69,1872,Female
+902,Community Health Services Dental,65-69,243,Female
+903,Public Health Medicine,65-69,7,Female
+950,Nursing,65-69,318468,Female
+960,Allied Health Professional,65-69,696516,Female
+990,Joint Consultant Clinics (Retired 1 April 2004),65-69,67,Female
+&,Not Known,70-74,5514,Female
+100,General Surgery,70-74,279837,Female
+101,Urology,70-74,69004,Female
+107,Vascular Surgery,70-74,3248,Female
+110,Trauma and Orthopaedics,70-74,432828,Female
+120,Ear Nose and Throat,70-74,116085,Female
+130,Ophthalmology,70-74,477007,Female
+140,Oral Surgery,70-74,29554,Female
+141,Restorative Dentistry,70-74,10658,Female
+142,Paediatric Dentistry,70-74,1,Female
+143,Orthodontics,70-74,1134,Female
+145,Oral and Maxillofacial Surgery,70-74,25528,Female
+146,Endodontics,70-74,1045,Female
+147,Periodontics,70-74,261,Female
+148,Prosthodontics,70-74,168,Female
+149,Surgical Dentistry,70-74,14,Female
+150,Neurosurgery,70-74,25228,Female
+160,Plastic Surgery,70-74,38422,Female
+170,Cardiothoracic Surgery,70-74,11400,Female
+171,Paediatric Surgery,70-74,191,Female
+180,Emergency Medicine,70-74,5912,Female
+190,Anaesthetics,70-74,76725,Female
+191,Pain Management (Retired 1 April 2004),70-74,3,Female
+192,Intensive Care Medicine,70-74,776,Female
+300,General Internal Medicine,70-74,179179,Female
+301,Gastroenterology,70-74,107287,Female
+302,Endocrinology and Diabetes,70-74,45281,Female
+303,Clinical Haematology,70-74,111861,Female
+304,Clinical Physiology,70-74,18524,Female
+305,Clinical Pharmacology,70-74,730,Female
+310,Audio Vestibular Medicine,70-74,22559,Female
+311,Clinical Genetics,70-74,2519,Female
+313,Clinical Immunology,70-74,3615,Female
+314,Rehabilitation Medicine,70-74,15496,Female
+315,Palliative Medicine,70-74,7846,Female
+317,Allergy,70-74,511,Female
+320,Cardiology,70-74,163799,Female
+321,Paediatric Cardiology,70-74,160,Female
+325,Sport and Exercise Medicine,70-74,607,Female
+326,Acute Internal Medicine,70-74,8790,Female
+330,Dermatology,70-74,139012,Female
+340,Respiratory Medicine,70-74,122193,Female
+350,Infectious Diseases,70-74,4236,Female
+352,Tropical Medicine,70-74,0,Female
+360,Genitourinary Medicine,70-74,1115,Female
+361,Renal Medicine,70-74,44523,Female
+370,Medical Oncology,70-74,157002,Female
+371,Nuclear Medicine,70-74,884,Female
+400,Neurology,70-74,66233,Female
+401,Clinical Neurophysiology,70-74,8481,Female
+410,Rheumatology,70-74,131079,Female
+420,Paediatrics,70-74,384,Female
+421,Paediatric Neurology,70-74,25,Female
+430,Geriatric Medicine,70-74,17767,Female
+450,Dental Medicine,70-74,7939,Female
+451,Special Care Dentistry,70-74,526,Female
+460,Medical Ophthalmology,70-74,2233,Female
+499,"Non-UK Provider; specialty function not known, treatment mainly medical",70-74,0,Female
+500,Obstetrics and Gynaecology,70-74,0,Female
+501,Obstetrics,70-74,17943,Female
+502,Gynaecology,70-74,118463,Female
+504,Community Sexual and Reproductive Health,70-74,2,Female
+560,Midwifery,70-74,106,Female
+600,General Medical Practice,70-74,2159,Female
+601,General Dental Practice,70-74,96,Female
+700,Learning Disability,70-74,1108,Female
+710,Adult Mental Illness,70-74,21437,Female
+711,Child and Adolescent Psychiatry,70-74,442,Female
+712,Forensic Psychiatry,70-74,109,Female
+713,Medical Psychotherapy,70-74,994,Female
+715,Old Age Psychiatry,70-74,8283,Female
+800,Clinical Oncology,70-74,182026,Female
+810,Radiology,70-74,300977,Female
+820,General Pathology,70-74,163,Female
+821,Blood Transfusion,70-74,2,Female
+822,Chemical Pathology,70-74,7010,Female
+823,Haematology,70-74,19518,Female
+824,Histopathology,70-74,344,Female
+830,Immunopathology,70-74,221,Female
+831,Medical Microbiology and Virology,70-74,256,Female
+833,Medical Microbiology,70-74,103,Female
+834,Medical Virology,70-74,119,Female
+900,Community Medicine,70-74,11142,Female
+901,Occupational Medicine,70-74,1661,Female
+902,Community Health Services Dental,70-74,158,Female
+903,Public Health Medicine,70-74,8,Female
+950,Nursing,70-74,305051,Female
+960,Allied Health Professional,70-74,637212,Female
+990,Joint Consultant Clinics (Retired 1 April 2004),70-74,73,Female
+&,Not Known,75-79,5917,Female
+100,General Surgery,75-79,254774,Female
+101,Urology,75-79,70093,Female
+107,Vascular Surgery,75-79,3521,Female
+110,Trauma and Orthopaedics,75-79,410467,Female
+120,Ear Nose and Throat,75-79,109177,Female
+130,Ophthalmology,75-79,591500,Female
+140,Oral Surgery,75-79,25833,Female
+141,Restorative Dentistry,75-79,8730,Female
+142,Paediatric Dentistry,75-79,1,Female
+143,Orthodontics,75-79,900,Female
+145,Oral and Maxillofacial Surgery,75-79,24076,Female
+146,Endodontics,75-79,686,Female
+147,Periodontics,75-79,128,Female
+148,Prosthodontics,75-79,217,Female
+149,Surgical Dentistry,75-79,14,Female
+150,Neurosurgery,75-79,22850,Female
+160,Plastic Surgery,75-79,35427,Female
+170,Cardiothoracic Surgery,75-79,12933,Female
+171,Paediatric Surgery,75-79,168,Female
+180,Emergency Medicine,75-79,5844,Female
+190,Anaesthetics,75-79,68791,Female
+191,Pain Management (Retired 1 April 2004),75-79,0,Female
+192,Intensive Care Medicine,75-79,689,Female
+300,General Internal Medicine,75-79,182335,Female
+301,Gastroenterology,75-79,94338,Female
+302,Endocrinology and Diabetes,75-79,39209,Female
+303,Clinical Haematology,75-79,127923,Female
+304,Clinical Physiology,75-79,20002,Female
+305,Clinical Pharmacology,75-79,578,Female
+310,Audio Vestibular Medicine,75-79,27312,Female
+311,Clinical Genetics,75-79,1669,Female
+313,Clinical Immunology,75-79,2720,Female
+314,Rehabilitation Medicine,75-79,13583,Female
+315,Palliative Medicine,75-79,9044,Female
+317,Allergy,75-79,388,Female
+320,Cardiology,75-79,179876,Female
+321,Paediatric Cardiology,75-79,97,Female
+325,Sport and Exercise Medicine,75-79,470,Female
+326,Acute Internal Medicine,75-79,8749,Female
+330,Dermatology,75-79,133216,Female
+340,Respiratory Medicine,75-79,118324,Female
+350,Infectious Diseases,75-79,3485,Female
+352,Tropical Medicine,75-79,0,Female
+360,Genitourinary Medicine,75-79,592,Female
+361,Renal Medicine,75-79,43484,Female
+370,Medical Oncology,75-79,146002,Female
+371,Nuclear Medicine,75-79,824,Female
+400,Neurology,75-79,58566,Female
+401,Clinical Neurophysiology,75-79,7410,Female
+410,Rheumatology,75-79,122878,Female
+420,Paediatrics,75-79,344,Female
+421,Paediatric Neurology,75-79,23,Female
+430,Geriatric Medicine,75-79,25304,Female
+450,Dental Medicine,75-79,6120,Female
+451,Special Care Dentistry,75-79,446,Female
+460,Medical Ophthalmology,75-79,2491,Female
+499,"Non-UK Provider; specialty function not known, treatment mainly medical",75-79,1,Female
+500,Obstetrics and Gynaecology,75-79,1,Female
+501,Obstetrics,75-79,15107,Female
+502,Gynaecology,75-79,105260,Female
+504,Community Sexual and Reproductive Health,75-79,1,Female
+560,Midwifery,75-79,144,Female
+600,General Medical Practice,75-79,2205,Female
+601,General Dental Practice,75-79,80,Female
+700,Learning Disability,75-79,931,Female
+710,Adult Mental Illness,75-79,12457,Female
+711,Child and Adolescent Psychiatry,75-79,349,Female
+712,Forensic Psychiatry,75-79,98,Female
+713,Medical Psychotherapy,75-79,471,Female
+715,Old Age Psychiatry,75-79,12265,Female
+800,Clinical Oncology,75-79,167911,Female
+810,Radiology,75-79,271321,Female
+820,General Pathology,75-79,132,Female
+821,Blood Transfusion,75-79,8,Female
+822,Chemical Pathology,75-79,5633,Female
+823,Haematology,75-79,21187,Female
+824,Histopathology,75-79,245,Female
+830,Immunopathology,75-79,227,Female
+831,Medical Microbiology and Virology,75-79,171,Female
+833,Medical Microbiology,75-79,79,Female
+834,Medical Virology,75-79,79,Female
+900,Community Medicine,75-79,11638,Female
+901,Occupational Medicine,75-79,1044,Female
+902,Community Health Services Dental,75-79,135,Female
+903,Public Health Medicine,75-79,5,Female
+950,Nursing,75-79,313263,Female
+960,Allied Health Professional,75-79,620568,Female
+990,Joint Consultant Clinics (Retired 1 April 2004),75-79,96,Female
+&,Not Known,80-84,7527,Female
+100,General Surgery,80-84,268492,Female
+101,Urology,80-84,78581,Female
+107,Vascular Surgery,80-84,3982,Female
+110,Trauma and Orthopaedics,80-84,416493,Female
+120,Ear Nose and Throat,80-84,111393,Female
+130,Ophthalmology,80-84,786158,Female
+140,Oral Surgery,80-84,25218,Female
+141,Restorative Dentistry,80-84,7337,Female
+142,Paediatric Dentistry,80-84,0,Female
+143,Orthodontics,80-84,675,Female
+145,Oral and Maxillofacial Surgery,80-84,23788,Female
+146,Endodontics,80-84,526,Female
+147,Periodontics,80-84,122,Female
+148,Prosthodontics,80-84,209,Female
+149,Surgical Dentistry,80-84,6,Female
+150,Neurosurgery,80-84,21656,Female
+160,Plastic Surgery,80-84,40827,Female
+170,Cardiothoracic Surgery,80-84,11536,Female
+171,Paediatric Surgery,80-84,180,Female
+180,Emergency Medicine,80-84,6682,Female
+190,Anaesthetics,80-84,71975,Female
+191,Pain Management (Retired 1 April 2004),80-84,2,Female
+192,Intensive Care Medicine,80-84,704,Female
+300,General Internal Medicine,80-84,222334,Female
+301,Gastroenterology,80-84,86430,Female
+302,Endocrinology and Diabetes,80-84,37424,Female
+303,Clinical Haematology,80-84,150079,Female
+304,Clinical Physiology,80-84,24275,Female
+305,Clinical Pharmacology,80-84,525,Female
+310,Audio Vestibular Medicine,80-84,35682,Female
+311,Clinical Genetics,80-84,1198,Female
+313,Clinical Immunology,80-84,2157,Female
+314,Rehabilitation Medicine,80-84,14050,Female
+315,Palliative Medicine,80-84,10843,Female
+317,Allergy,80-84,260,Female
+320,Cardiology,80-84,217967,Female
+321,Paediatric Cardiology,80-84,81,Female
+325,Sport and Exercise Medicine,80-84,473,Female
+326,Acute Internal Medicine,80-84,9925,Female
+330,Dermatology,80-84,149202,Female
+340,Respiratory Medicine,80-84,117534,Female
+350,Infectious Diseases,80-84,3435,Female
+352,Tropical Medicine,80-84,0,Female
+360,Genitourinary Medicine,80-84,490,Female
+361,Renal Medicine,80-84,45716,Female
+370,Medical Oncology,80-84,145689,Female
+371,Nuclear Medicine,80-84,916,Female
+400,Neurology,80-84,58527,Female
+401,Clinical Neurophysiology,80-84,7847,Female
+410,Rheumatology,80-84,124672,Female
+420,Paediatrics,80-84,390,Female
+421,Paediatric Neurology,80-84,22,Female
+430,Geriatric Medicine,80-84,40228,Female
+450,Dental Medicine,80-84,5206,Female
+451,Special Care Dentistry,80-84,354,Female
+460,Medical Ophthalmology,80-84,2970,Female
+499,"Non-UK Provider; specialty function not known, treatment mainly medical",80-84,1,Female
+500,Obstetrics and Gynaecology,80-84,2,Female
+501,Obstetrics,80-84,15757,Female
+502,Gynaecology,80-84,112803,Female
+504,Community Sexual and Reproductive Health,80-84,3,Female
+560,Midwifery,80-84,145,Female
+600,General Medical Practice,80-84,2322,Female
+601,General Dental Practice,80-84,37,Female
+700,Learning Disability,80-84,470,Female
+710,Adult Mental Illness,80-84,10078,Female
+711,Child and Adolescent Psychiatry,80-84,327,Female
+712,Forensic Psychiatry,80-84,83,Female
+713,Medical Psychotherapy,80-84,363,Female
+715,Old Age Psychiatry,80-84,20437,Female
+800,Clinical Oncology,80-84,166756,Female
+810,Radiology,80-84,271349,Female
+820,General Pathology,80-84,121,Female
+821,Blood Transfusion,80-84,1,Female
+822,Chemical Pathology,80-84,4754,Female
+823,Haematology,80-84,25109,Female
+824,Histopathology,80-84,338,Female
+830,Immunopathology,80-84,185,Female
+831,Medical Microbiology and Virology,80-84,161,Female
+833,Medical Microbiology,80-84,62,Female
+834,Medical Virology,80-84,71,Female
+900,Community Medicine,80-84,14065,Female
+901,Occupational Medicine,80-84,926,Female
+902,Community Health Services Dental,80-84,192,Female
+903,Public Health Medicine,80-84,11,Female
+950,Nursing,80-84,351840,Female
+960,Allied Health Professional,80-84,662680,Female
+990,Joint Consultant Clinics (Retired 1 April 2004),80-84,95,Female
+&,Not Known,85-89,6826,Female
+100,General Surgery,85-89,181729,Female
+101,Urology,85-89,53656,Female
+107,Vascular Surgery,85-89,3343,Female
+110,Trauma and Orthopaedics,85-89,250847,Female
+120,Ear Nose and Throat,85-89,75226,Female
+130,Ophthalmology,85-89,666518,Female
+140,Oral Surgery,85-89,16083,Female
+141,Restorative Dentistry,85-89,4663,Female
+142,Paediatric Dentistry,85-89,1,Female
+143,Orthodontics,85-89,393,Female
+145,Oral and Maxillofacial Surgery,85-89,16058,Female
+146,Endodontics,85-89,283,Female
+147,Periodontics,85-89,42,Female
+148,Prosthodontics,85-89,119,Female
+149,Surgical Dentistry,85-89,2,Female
+150,Neurosurgery,85-89,11677,Female
+160,Plastic Surgery,85-89,33233,Female
+170,Cardiothoracic Surgery,85-89,4988,Female
+171,Paediatric Surgery,85-89,101,Female
+180,Emergency Medicine,85-89,5465,Female
+190,Anaesthetics,85-89,45300,Female
+191,Pain Management (Retired 1 April 2004),85-89,3,Female
+192,Intensive Care Medicine,85-89,493,Female
+300,General Internal Medicine,85-89,200810,Female
+301,Gastroenterology,85-89,50302,Female
+302,Endocrinology and Diabetes,85-89,24022,Female
+303,Clinical Haematology,85-89,112514,Female
+304,Clinical Physiology,85-89,20305,Female
+305,Clinical Pharmacology,85-89,333,Female
+310,Audio Vestibular Medicine,85-89,31013,Female
+311,Clinical Genetics,85-89,510,Female
+313,Clinical Immunology,85-89,949,Female
+314,Rehabilitation Medicine,85-89,8928,Female
+315,Palliative Medicine,85-89,8923,Female
+317,Allergy,85-89,113,Female
+320,Cardiology,85-89,174709,Female
+321,Paediatric Cardiology,85-89,25,Female
+325,Sport and Exercise Medicine,85-89,177,Female
+326,Acute Internal Medicine,85-89,7329,Female
+330,Dermatology,85-89,110330,Female
+340,Respiratory Medicine,85-89,71139,Female
+350,Infectious Diseases,85-89,1727,Female
+352,Tropical Medicine,85-89,0,Female
+360,Genitourinary Medicine,85-89,399,Female
+361,Renal Medicine,85-89,33296,Female
+370,Medical Oncology,85-89,76159,Female
+371,Nuclear Medicine,85-89,500,Female
+400,Neurology,85-89,34062,Female
+401,Clinical Neurophysiology,85-89,4794,Female
+410,Rheumatology,85-89,76842,Female
+420,Paediatrics,85-89,219,Female
+421,Paediatric Neurology,85-89,12,Female
+430,Geriatric Medicine,85-89,43626,Female
+450,Dental Medicine,85-89,2905,Female
+451,Special Care Dentistry,85-89,210,Female
+460,Medical Ophthalmology,85-89,2659,Female
+499,"Non-UK Provider; specialty function not known, treatment mainly medical",85-89,0,Female
+500,Obstetrics and Gynaecology,85-89,2,Female
+501,Obstetrics,85-89,10027,Female
+502,Gynaecology,85-89,72088,Female
+504,Community Sexual and Reproductive Health,85-89,1,Female
+560,Midwifery,85-89,150,Female
+600,General Medical Practice,85-89,1530,Female
+601,General Dental Practice,85-89,12,Female
+700,Learning Disability,85-89,234,Female
+710,Adult Mental Illness,85-89,7695,Female
+711,Child and Adolescent Psychiatry,85-89,254,Female
+712,Forensic Psychiatry,85-89,46,Female
+713,Medical Psychotherapy,85-89,132,Female
+715,Old Age Psychiatry,85-89,20470,Female
+800,Clinical Oncology,85-89,96582,Female
+810,Radiology,85-89,174937,Female
+820,General Pathology,85-89,66,Female
+821,Blood Transfusion,85-89,0,Female
+822,Chemical Pathology,85-89,2714,Female
+823,Haematology,85-89,19817,Female
+824,Histopathology,85-89,217,Female
+830,Immunopathology,85-89,73,Female
+831,Medical Microbiology and Virology,85-89,79,Female
+833,Medical Microbiology,85-89,53,Female
+834,Medical Virology,85-89,31,Female
+900,Community Medicine,85-89,14171,Female
+901,Occupational Medicine,85-89,555,Female
+902,Community Health Services Dental,85-89,157,Female
+903,Public Health Medicine,85-89,15,Female
+950,Nursing,85-89,267157,Female
+960,Allied Health Professional,85-89,461962,Female
+990,Joint Consultant Clinics (Retired 1 April 2004),85-89,92,Female
+&,Not Known,90-120,4805,Female
+100,General Surgery,90-120,106388,Female
+101,Urology,90-120,29501,Female
+107,Vascular Surgery,90-120,2346,Female
+110,Trauma and Orthopaedics,90-120,126669,Female
+120,Ear Nose and Throat,90-120,46314,Female
+130,Ophthalmology,90-120,484158,Female
+140,Oral Surgery,90-120,9793,Female
+141,Restorative Dentistry,90-120,2454,Female
+142,Paediatric Dentistry,90-120,0,Female
+143,Orthodontics,90-120,235,Female
+145,Oral and Maxillofacial Surgery,90-120,10492,Female
+146,Endodontics,90-120,130,Female
+147,Periodontics,90-120,5,Female
+148,Prosthodontics,90-120,70,Female
+149,Surgical Dentistry,90-120,6,Female
+150,Neurosurgery,90-120,4782,Female
+160,Plastic Surgery,90-120,23711,Female
+170,Cardiothoracic Surgery,90-120,1470,Female
+171,Paediatric Surgery,90-120,59,Female
+180,Emergency Medicine,90-120,4029,Female
+190,Anaesthetics,90-120,22796,Female
+191,Pain Management (Retired 1 April 2004),90-120,1,Female
+192,Intensive Care Medicine,90-120,222,Female
+300,General Internal Medicine,90-120,167890,Female
+301,Gastroenterology,90-120,24560,Female
+302,Endocrinology and Diabetes,90-120,13828,Female
+303,Clinical Haematology,90-120,71139,Female
+304,Clinical Physiology,90-120,14432,Female
+305,Clinical Pharmacology,90-120,187,Female
+310,Audio Vestibular Medicine,90-120,24373,Female
+311,Clinical Genetics,90-120,205,Female
+313,Clinical Immunology,90-120,359,Female
+314,Rehabilitation Medicine,90-120,5391,Female
+315,Palliative Medicine,90-120,6348,Female
+317,Allergy,90-120,40,Female
+320,Cardiology,90-120,120913,Female
+321,Paediatric Cardiology,90-120,7,Female
+325,Sport and Exercise Medicine,90-120,127,Female
+326,Acute Internal Medicine,90-120,5133,Female
+330,Dermatology,90-120,75491,Female
+340,Respiratory Medicine,90-120,33467,Female
+350,Infectious Diseases,90-120,1546,Female
+352,Tropical Medicine,90-120,0,Female
+360,Genitourinary Medicine,90-120,285,Female
+361,Renal Medicine,90-120,18928,Female
+370,Medical Oncology,90-120,27256,Female
+371,Nuclear Medicine,90-120,228,Female
+400,Neurology,90-120,17036,Female
+401,Clinical Neurophysiology,90-120,2427,Female
+410,Rheumatology,90-120,38380,Female
+420,Paediatrics,90-120,131,Female
+421,Paediatric Neurology,90-120,7,Female
+430,Geriatric Medicine,90-120,35824,Female
+450,Dental Medicine,90-120,1354,Female
+451,Special Care Dentistry,90-120,161,Female
+460,Medical Ophthalmology,90-120,2327,Female
+499,"Non-UK Provider; specialty function not known, treatment mainly medical",90-120,0,Female
+500,Obstetrics and Gynaecology,90-120,0,Female
+501,Obstetrics,90-120,5559,Female
+502,Gynaecology,90-120,39314,Female
+504,Community Sexual and Reproductive Health,90-120,0,Female
+560,Midwifery,90-120,64,Female
+600,General Medical Practice,90-120,938,Female
+601,General Dental Practice,90-120,2,Female
+700,Learning Disability,90-120,46,Female
+710,Adult Mental Illness,90-120,4125,Female
+711,Child and Adolescent Psychiatry,90-120,177,Female
+712,Forensic Psychiatry,90-120,31,Female
+713,Medical Psychotherapy,90-120,54,Female
+715,Old Age Psychiatry,90-120,16922,Female
+800,Clinical Oncology,90-120,41937,Female
+810,Radiology,90-120,96598,Female
+820,General Pathology,90-120,31,Female
+821,Blood Transfusion,90-120,0,Female
+822,Chemical Pathology,90-120,1142,Female
+823,Haematology,90-120,13996,Female
+824,Histopathology,90-120,144,Female
+830,Immunopathology,90-120,19,Female
+831,Medical Microbiology and Virology,90-120,46,Female
+833,Medical Microbiology,90-120,20,Female
+834,Medical Virology,90-120,6,Female
+900,Community Medicine,90-120,12101,Female
+901,Occupational Medicine,90-120,254,Female
+902,Community Health Services Dental,90-120,177,Female
+903,Public Health Medicine,90-120,11,Female
+950,Nursing,90-120,171191,Female
+960,Allied Health Professional,90-120,290150,Female
+990,Joint Consultant Clinics (Retired 1 April 2004),90-120,22,Female
+&,Not Known,Unknown,2305,Female
+100,General Surgery,Unknown,41475,Female
+101,Urology,Unknown,9998,Female
+107,Vascular Surgery,Unknown,919,Female
+110,Trauma and Orthopaedics,Unknown,49274,Female
+120,Ear Nose and Throat,Unknown,22975,Female
+130,Ophthalmology,Unknown,257971,Female
+140,Oral Surgery,Unknown,4566,Female
+141,Restorative Dentistry,Unknown,783,Female
+142,Paediatric Dentistry,Unknown,0,Female
+143,Orthodontics,Unknown,84,Female
+145,Oral and Maxillofacial Surgery,Unknown,5036,Female
+146,Endodontics,Unknown,43,Female
+147,Periodontics,Unknown,7,Female
+148,Prosthodontics,Unknown,22,Female
+149,Surgical Dentistry,Unknown,13,Female
+150,Neurosurgery,Unknown,1151,Female
+160,Plastic Surgery,Unknown,14712,Female
+170,Cardiothoracic Surgery,Unknown,211,Female
+171,Paediatric Surgery,Unknown,29,Female
+180,Emergency Medicine,Unknown,2718,Female
+190,Anaesthetics,Unknown,6929,Female
+191,Pain Management (Retired 1 April 2004),Unknown,0,Female
+192,Intensive Care Medicine,Unknown,93,Female
+300,General Internal Medicine,Unknown,144988,Female
+301,Gastroenterology,Unknown,7505,Female
+302,Endocrinology and Diabetes,Unknown,5671,Female
+303,Clinical Haematology,Unknown,31795,Female
+304,Clinical Physiology,Unknown,7361,Female
+305,Clinical Pharmacology,Unknown,109,Female
+310,Audio Vestibular Medicine,Unknown,17612,Female
+311,Clinical Genetics,Unknown,57,Female
+313,Clinical Immunology,Unknown,76,Female
+314,Rehabilitation Medicine,Unknown,2524,Female
+315,Palliative Medicine,Unknown,4212,Female
+317,Allergy,Unknown,13,Female
+320,Cardiology,Unknown,55420,Female
+321,Paediatric Cardiology,Unknown,0,Female
+325,Sport and Exercise Medicine,Unknown,37,Female
+326,Acute Internal Medicine,Unknown,2789,Female
+330,Dermatology,Unknown,43662,Female
+340,Respiratory Medicine,Unknown,8711,Female
+350,Infectious Diseases,Unknown,418,Female
+352,Tropical Medicine,Unknown,0,Female
+360,Genitourinary Medicine,Unknown,118,Female
+361,Renal Medicine,Unknown,6586,Female
+370,Medical Oncology,Unknown,5587,Female
+371,Nuclear Medicine,Unknown,56,Female
+400,Neurology,Unknown,5187,Female
+401,Clinical Neurophysiology,Unknown,728,Female
+410,Rheumatology,Unknown,12966,Female
+420,Paediatrics,Unknown,56,Female
+421,Paediatric Neurology,Unknown,0,Female
+430,Geriatric Medicine,Unknown,19469,Female
+450,Dental Medicine,Unknown,434,Female
+451,Special Care Dentistry,Unknown,111,Female
+460,Medical Ophthalmology,Unknown,1596,Female
+499,"Non-UK Provider; specialty function not known, treatment mainly medical",Unknown,0,Female
+500,Obstetrics and Gynaecology,Unknown,0,Female
+501,Obstetrics,Unknown,2013,Female
+502,Gynaecology,Unknown,13926,Female
+504,Community Sexual and Reproductive Health,Unknown,0,Female
+560,Midwifery,Unknown,32,Female
+600,General Medical Practice,Unknown,422,Female
+601,General Dental Practice,Unknown,0,Female
+700,Learning Disability,Unknown,4,Female
+710,Adult Mental Illness,Unknown,2000,Female
+711,Child and Adolescent Psychiatry,Unknown,123,Female
+712,Forensic Psychiatry,Unknown,13,Female
+713,Medical Psychotherapy,Unknown,6,Female
+715,Old Age Psychiatry,Unknown,9478,Female
+800,Clinical Oncology,Unknown,11722,Female
+810,Radiology,Unknown,34980,Female
+820,General Pathology,Unknown,12,Female
+821,Blood Transfusion,Unknown,0,Female
+822,Chemical Pathology,Unknown,368,Female
+823,Haematology,Unknown,7453,Female
+824,Histopathology,Unknown,80,Female
+830,Immunopathology,Unknown,15,Female
+831,Medical Microbiology and Virology,Unknown,41,Female
+833,Medical Microbiology,Unknown,4,Female
+834,Medical Virology,Unknown,3,Female
+900,Community Medicine,Unknown,11762,Female
+901,Occupational Medicine,Unknown,90,Female
+902,Community Health Services Dental,Unknown,236,Female
+903,Public Health Medicine,Unknown,1,Female
+950,Nursing,Unknown,102092,Female
+960,Allied Health Professional,Unknown,152002,Female
+990,Joint Consultant Clinics (Retired 1 April 2004),Unknown,7,Female

@@ -1,0 +1,2113 @@
+Main_Specialty_Code,Main_Specialty_Desc,Age_Group,Attendance_Count,Gender
+&,Not Known,0,16806,Male
+100,General Surgery,0,2892,Male
+101,Urology,0,2534,Male
+107,Vascular Surgery,0,2,Male
+110,Trauma and Orthopaedics,0,21182,Male
+120,Ear Nose and Throat,0,12473,Male
+130,Ophthalmology,0,20823,Male
+140,Oral Surgery,0,2615,Male
+141,Restorative Dentistry,0,1,Male
+142,Paediatric Dentistry,0,227,Male
+143,Orthodontics,0,74,Male
+145,Oral and Maxillofacial Surgery,0,2163,Male
+146,Endodontics,0,0,Male
+147,Periodontics,0,0,Male
+148,Prosthodontics,0,0,Male
+149,Surgical Dentistry,0,0,Male
+150,Neurosurgery,0,1759,Male
+160,Plastic Surgery,0,7150,Male
+170,Cardiothoracic Surgery,0,450,Male
+171,Paediatric Surgery,0,15719,Male
+180,Emergency Medicine,0,2560,Male
+190,Anaesthetics,0,1397,Male
+191,Pain Management (Retired 1 April 2004),0,0,Male
+192,Intensive Care Medicine,0,461,Male
+300,General Internal Medicine,0,34448,Male
+301,Gastroenterology,0,434,Male
+302,Endocrinology and Diabetes,0,1092,Male
+303,Clinical Haematology,0,1253,Male
+304,Clinical Physiology,0,322,Male
+305,Clinical Pharmacology,0,0,Male
+310,Audio Vestibular Medicine,0,4329,Male
+311,Clinical Genetics,0,1534,Male
+313,Clinical Immunology,0,761,Male
+314,Rehabilitation Medicine,0,17,Male
+315,Palliative Medicine,0,692,Male
+317,Allergy,0,349,Male
+320,Cardiology,0,3404,Male
+321,Paediatric Cardiology,0,10393,Male
+325,Sport and Exercise Medicine,0,0,Male
+326,Acute Internal Medicine,0,7,Male
+330,Dermatology,0,7457,Male
+340,Respiratory Medicine,0,2039,Male
+350,Infectious Diseases,0,136,Male
+352,Tropical Medicine,0,0,Male
+360,Genitourinary Medicine,0,26,Male
+361,Renal Medicine,0,671,Male
+370,Medical Oncology,0,170,Male
+371,Nuclear Medicine,0,24,Male
+400,Neurology,0,1483,Male
+401,Clinical Neurophysiology,0,842,Male
+410,Rheumatology,0,20,Male
+420,Paediatrics,0,231140,Male
+421,Paediatric Neurology,0,1096,Male
+430,Geriatric Medicine,0,7,Male
+450,Dental Medicine,0,16,Male
+451,Special Care Dentistry,0,3,Male
+460,Medical Ophthalmology,0,27,Male
+499,"Non-UK Provider; specialty function not known, treatment mainly medical",0,0,Male
+501,Obstetrics,0,7920,Male
+502,Gynaecology,0,470,Male
+504,Community Sexual and Reproductive Health,0,0,Male
+560,Midwifery,0,110837,Male
+600,General Medical Practice,0,291,Male
+601,General Dental Practice,0,0,Male
+700,Learning Disability,0,0,Male
+710,Adult Mental Illness,0,560,Male
+711,Child and Adolescent Psychiatry,0,345,Male
+712,Forensic Psychiatry,0,0,Male
+713,Medical Psychotherapy,0,82,Male
+715,Old Age Psychiatry,0,0,Male
+800,Clinical Oncology,0,968,Male
+810,Radiology,0,22738,Male
+820,General Pathology,0,0,Male
+821,Blood Transfusion,0,0,Male
+822,Chemical Pathology,0,12,Male
+823,Haematology,0,358,Male
+824,Histopathology,0,0,Male
+830,Immunopathology,0,0,Male
+831,Medical Microbiology and Virology,0,0,Male
+833,Medical Microbiology,0,0,Male
+834,Medical Virology,0,0,Male
+900,Community Medicine,0,620,Male
+901,Occupational Medicine,0,17,Male
+902,Community Health Services Dental,0,10,Male
+903,Public Health Medicine,0,5,Male
+950,Nursing,0,37588,Male
+960,Allied Health Professional,0,69119,Male
+990,Joint Consultant Clinics (Retired 1 April 2004),0,0,Male
+&,Not Known,1-4,36543,Male
+100,General Surgery,1-4,6235,Male
+101,Urology,1-4,9757,Male
+107,Vascular Surgery,1-4,40,Male
+110,Trauma and Orthopaedics,1-4,60035,Male
+120,Ear Nose and Throat,1-4,80998,Male
+130,Ophthalmology,1-4,108323,Male
+140,Oral Surgery,1-4,2204,Male
+141,Restorative Dentistry,1-4,16,Male
+142,Paediatric Dentistry,1-4,6434,Male
+143,Orthodontics,1-4,269,Male
+145,Oral and Maxillofacial Surgery,1-4,2106,Male
+146,Endodontics,1-4,0,Male
+147,Periodontics,1-4,0,Male
+148,Prosthodontics,1-4,2,Male
+149,Surgical Dentistry,1-4,0,Male
+150,Neurosurgery,1-4,4181,Male
+160,Plastic Surgery,1-4,23474,Male
+170,Cardiothoracic Surgery,1-4,473,Male
+171,Paediatric Surgery,1-4,27309,Male
+180,Emergency Medicine,1-4,8254,Male
+190,Anaesthetics,1-4,6504,Male
+191,Pain Management (Retired 1 April 2004),1-4,0,Male
+192,Intensive Care Medicine,1-4,2195,Male
+300,General Internal Medicine,1-4,40889,Male
+301,Gastroenterology,1-4,2548,Male
+302,Endocrinology and Diabetes,1-4,2931,Male
+303,Clinical Haematology,1-4,5007,Male
+304,Clinical Physiology,1-4,475,Male
+305,Clinical Pharmacology,1-4,8,Male
+310,Audio Vestibular Medicine,1-4,29198,Male
+311,Clinical Genetics,1-4,4763,Male
+313,Clinical Immunology,1-4,1985,Male
+314,Rehabilitation Medicine,1-4,454,Male
+315,Palliative Medicine,1-4,1671,Male
+317,Allergy,1-4,1449,Male
+320,Cardiology,1-4,4226,Male
+321,Paediatric Cardiology,1-4,14313,Male
+325,Sport and Exercise Medicine,1-4,0,Male
+326,Acute Internal Medicine,1-4,12,Male
+330,Dermatology,1-4,25654,Male
+340,Respiratory Medicine,1-4,2691,Male
+350,Infectious Diseases,1-4,433,Male
+352,Tropical Medicine,1-4,0,Male
+360,Genitourinary Medicine,1-4,158,Male
+361,Renal Medicine,1-4,2025,Male
+370,Medical Oncology,1-4,1285,Male
+371,Nuclear Medicine,1-4,61,Male
+400,Neurology,1-4,2400,Male
+401,Clinical Neurophysiology,1-4,2610,Male
+410,Rheumatology,1-4,485,Male
+420,Paediatrics,1-4,389201,Male
+421,Paediatric Neurology,1-4,5215,Male
+430,Geriatric Medicine,1-4,20,Male
+450,Dental Medicine,1-4,403,Male
+451,Special Care Dentistry,1-4,84,Male
+460,Medical Ophthalmology,1-4,197,Male
+499,"Non-UK Provider; specialty function not known, treatment mainly medical",1-4,0,Male
+501,Obstetrics,1-4,483,Male
+502,Gynaecology,1-4,209,Male
+504,Community Sexual and Reproductive Health,1-4,0,Male
+560,Midwifery,1-4,43,Male
+600,General Medical Practice,1-4,706,Male
+601,General Dental Practice,1-4,0,Male
+700,Learning Disability,1-4,108,Male
+710,Adult Mental Illness,1-4,480,Male
+711,Child and Adolescent Psychiatry,1-4,2492,Male
+712,Forensic Psychiatry,1-4,0,Male
+713,Medical Psychotherapy,1-4,212,Male
+715,Old Age Psychiatry,1-4,0,Male
+800,Clinical Oncology,1-4,722,Male
+810,Radiology,1-4,21705,Male
+820,General Pathology,1-4,0,Male
+821,Blood Transfusion,1-4,0,Male
+822,Chemical Pathology,1-4,41,Male
+823,Haematology,1-4,1277,Male
+824,Histopathology,1-4,1,Male
+830,Immunopathology,1-4,0,Male
+831,Medical Microbiology and Virology,1-4,0,Male
+833,Medical Microbiology,1-4,0,Male
+834,Medical Virology,1-4,3,Male
+900,Community Medicine,1-4,3342,Male
+901,Occupational Medicine,1-4,233,Male
+902,Community Health Services Dental,1-4,90,Male
+903,Public Health Medicine,1-4,24,Male
+950,Nursing,1-4,70827,Male
+960,Allied Health Professional,1-4,190489,Male
+990,Joint Consultant Clinics (Retired 1 April 2004),1-4,0,Male
+&,Not Known,5-9,15884,Male
+100,General Surgery,5-9,7667,Male
+101,Urology,5-9,14070,Male
+107,Vascular Surgery,5-9,72,Male
+110,Trauma and Orthopaedics,5-9,115706,Male
+120,Ear Nose and Throat,5-9,113713,Male
+130,Ophthalmology,5-9,161964,Male
+140,Oral Surgery,5-9,5242,Male
+141,Restorative Dentistry,5-9,248,Male
+142,Paediatric Dentistry,5-9,25093,Male
+143,Orthodontics,5-9,5337,Male
+145,Oral and Maxillofacial Surgery,5-9,3390,Male
+146,Endodontics,5-9,0,Male
+147,Periodontics,5-9,0,Male
+148,Prosthodontics,5-9,15,Male
+149,Surgical Dentistry,5-9,0,Male
+150,Neurosurgery,5-9,3839,Male
+160,Plastic Surgery,5-9,17708,Male
+170,Cardiothoracic Surgery,5-9,370,Male
+171,Paediatric Surgery,5-9,23988,Male
+180,Emergency Medicine,5-9,6473,Male
+190,Anaesthetics,5-9,7648,Male
+191,Pain Management (Retired 1 April 2004),5-9,0,Male
+192,Intensive Care Medicine,5-9,2336,Male
+300,General Internal Medicine,5-9,23833,Male
+301,Gastroenterology,5-9,4090,Male
+302,Endocrinology and Diabetes,5-9,4693,Male
+303,Clinical Haematology,5-9,8066,Male
+304,Clinical Physiology,5-9,931,Male
+305,Clinical Pharmacology,5-9,5,Male
+310,Audio Vestibular Medicine,5-9,22258,Male
+311,Clinical Genetics,5-9,4603,Male
+313,Clinical Immunology,5-9,1952,Male
+314,Rehabilitation Medicine,5-9,1543,Male
+315,Palliative Medicine,5-9,1753,Male
+317,Allergy,5-9,1486,Male
+320,Cardiology,5-9,5771,Male
+321,Paediatric Cardiology,5-9,16222,Male
+325,Sport and Exercise Medicine,5-9,69,Male
+326,Acute Internal Medicine,5-9,53,Male
+330,Dermatology,5-9,29849,Male
+340,Respiratory Medicine,5-9,5380,Male
+350,Infectious Diseases,5-9,281,Male
+352,Tropical Medicine,5-9,0,Male
+360,Genitourinary Medicine,5-9,774,Male
+361,Renal Medicine,5-9,2942,Male
+370,Medical Oncology,5-9,2106,Male
+371,Nuclear Medicine,5-9,57,Male
+400,Neurology,5-9,3679,Male
+401,Clinical Neurophysiology,5-9,2866,Male
+410,Rheumatology,5-9,1771,Male
+420,Paediatrics,5-9,436003,Male
+421,Paediatric Neurology,5-9,7483,Male
+430,Geriatric Medicine,5-9,5,Male
+450,Dental Medicine,5-9,1841,Male
+451,Special Care Dentistry,5-9,745,Male
+460,Medical Ophthalmology,5-9,389,Male
+499,"Non-UK Provider; specialty function not known, treatment mainly medical",5-9,0,Male
+501,Obstetrics,5-9,28,Male
+502,Gynaecology,5-9,385,Male
+504,Community Sexual and Reproductive Health,5-9,0,Male
+560,Midwifery,5-9,43,Male
+600,General Medical Practice,5-9,615,Male
+601,General Dental Practice,5-9,115,Male
+700,Learning Disability,5-9,1976,Male
+710,Adult Mental Illness,5-9,4689,Male
+711,Child and Adolescent Psychiatry,5-9,27321,Male
+712,Forensic Psychiatry,5-9,6,Male
+713,Medical Psychotherapy,5-9,1280,Male
+715,Old Age Psychiatry,5-9,1,Male
+800,Clinical Oncology,5-9,953,Male
+810,Radiology,5-9,34367,Male
+820,General Pathology,5-9,0,Male
+821,Blood Transfusion,5-9,0,Male
+822,Chemical Pathology,5-9,42,Male
+823,Haematology,5-9,1590,Male
+824,Histopathology,5-9,2,Male
+830,Immunopathology,5-9,1,Male
+831,Medical Microbiology and Virology,5-9,1,Male
+833,Medical Microbiology,5-9,1,Male
+834,Medical Virology,5-9,28,Male
+900,Community Medicine,5-9,5267,Male
+901,Occupational Medicine,5-9,377,Male
+902,Community Health Services Dental,5-9,286,Male
+903,Public Health Medicine,5-9,27,Male
+950,Nursing,5-9,92992,Male
+960,Allied Health Professional,5-9,239794,Male
+990,Joint Consultant Clinics (Retired 1 April 2004),5-9,0,Male
+&,Not Known,10-14,19247,Male
+100,General Surgery,10-14,8908,Male
+101,Urology,10-14,13905,Male
+107,Vascular Surgery,10-14,74,Male
+110,Trauma and Orthopaedics,10-14,244768,Male
+120,Ear Nose and Throat,10-14,65701,Male
+130,Ophthalmology,10-14,67913,Male
+140,Oral Surgery,10-14,10942,Male
+141,Restorative Dentistry,10-14,1059,Male
+142,Paediatric Dentistry,10-14,20267,Male
+143,Orthodontics,10-14,63743,Male
+145,Oral and Maxillofacial Surgery,10-14,8536,Male
+146,Endodontics,10-14,21,Male
+147,Periodontics,10-14,8,Male
+148,Prosthodontics,10-14,9,Male
+149,Surgical Dentistry,10-14,0,Male
+150,Neurosurgery,10-14,3743,Male
+160,Plastic Surgery,10-14,27477,Male
+170,Cardiothoracic Surgery,10-14,643,Male
+171,Paediatric Surgery,10-14,21845,Male
+180,Emergency Medicine,10-14,8142,Male
+190,Anaesthetics,10-14,5919,Male
+191,Pain Management (Retired 1 April 2004),10-14,0,Male
+192,Intensive Care Medicine,10-14,1833,Male
+300,General Internal Medicine,10-14,19519,Male
+301,Gastroenterology,10-14,6910,Male
+302,Endocrinology and Diabetes,10-14,7315,Male
+303,Clinical Haematology,10-14,8656,Male
+304,Clinical Physiology,10-14,1087,Male
+305,Clinical Pharmacology,10-14,23,Male
+310,Audio Vestibular Medicine,10-14,10650,Male
+311,Clinical Genetics,10-14,3479,Male
+313,Clinical Immunology,10-14,1941,Male
+314,Rehabilitation Medicine,10-14,2576,Male
+315,Palliative Medicine,10-14,1566,Male
+317,Allergy,10-14,1213,Male
+320,Cardiology,10-14,8612,Male
+321,Paediatric Cardiology,10-14,18863,Male
+325,Sport and Exercise Medicine,10-14,135,Male
+326,Acute Internal Medicine,10-14,70,Male
+330,Dermatology,10-14,39565,Male
+340,Respiratory Medicine,10-14,5541,Male
+350,Infectious Diseases,10-14,270,Male
+352,Tropical Medicine,10-14,0,Male
+360,Genitourinary Medicine,10-14,328,Male
+361,Renal Medicine,10-14,3721,Male
+370,Medical Oncology,10-14,2457,Male
+371,Nuclear Medicine,10-14,55,Male
+400,Neurology,10-14,3732,Male
+401,Clinical Neurophysiology,10-14,2708,Male
+410,Rheumatology,10-14,3630,Male
+420,Paediatrics,10-14,401060,Male
+421,Paediatric Neurology,10-14,8310,Male
+430,Geriatric Medicine,10-14,13,Male
+450,Dental Medicine,10-14,5498,Male
+451,Special Care Dentistry,10-14,712,Male
+460,Medical Ophthalmology,10-14,178,Male
+499,"Non-UK Provider; specialty function not known, treatment mainly medical",10-14,0,Male
+501,Obstetrics,10-14,28,Male
+502,Gynaecology,10-14,247,Male
+504,Community Sexual and Reproductive Health,10-14,0,Male
+560,Midwifery,10-14,51,Male
+600,General Medical Practice,10-14,647,Male
+601,General Dental Practice,10-14,579,Male
+700,Learning Disability,10-14,3272,Male
+710,Adult Mental Illness,10-14,11707,Male
+711,Child and Adolescent Psychiatry,10-14,66179,Male
+712,Forensic Psychiatry,10-14,140,Male
+713,Medical Psychotherapy,10-14,1844,Male
+715,Old Age Psychiatry,10-14,20,Male
+800,Clinical Oncology,10-14,958,Male
+810,Radiology,10-14,57146,Male
+820,General Pathology,10-14,3,Male
+821,Blood Transfusion,10-14,0,Male
+822,Chemical Pathology,10-14,68,Male
+823,Haematology,10-14,1811,Male
+824,Histopathology,10-14,1,Male
+830,Immunopathology,10-14,1,Male
+831,Medical Microbiology and Virology,10-14,0,Male
+833,Medical Microbiology,10-14,0,Male
+834,Medical Virology,10-14,13,Male
+900,Community Medicine,10-14,7029,Male
+901,Occupational Medicine,10-14,1001,Male
+902,Community Health Services Dental,10-14,126,Male
+903,Public Health Medicine,10-14,57,Male
+950,Nursing,10-14,81556,Male
+960,Allied Health Professional,10-14,230694,Male
+990,Joint Consultant Clinics (Retired 1 April 2004),10-14,2,Male
+&,Not Known,15,3662,Male
+100,General Surgery,15,2380,Male
+101,Urology,15,2379,Male
+107,Vascular Surgery,15,20,Male
+110,Trauma and Orthopaedics,15,53946,Male
+120,Ear Nose and Throat,15,11819,Male
+130,Ophthalmology,15,12329,Male
+140,Oral Surgery,15,4016,Male
+141,Restorative Dentistry,15,607,Male
+142,Paediatric Dentistry,15,2973,Male
+143,Orthodontics,15,27872,Male
+145,Oral and Maxillofacial Surgery,15,3068,Male
+146,Endodontics,15,12,Male
+147,Periodontics,15,3,Male
+148,Prosthodontics,15,6,Male
+149,Surgical Dentistry,15,0,Male
+150,Neurosurgery,15,900,Male
+160,Plastic Surgery,15,6261,Male
+170,Cardiothoracic Surgery,15,299,Male
+171,Paediatric Surgery,15,4317,Male
+180,Emergency Medicine,15,1471,Male
+190,Anaesthetics,15,1247,Male
+191,Pain Management (Retired 1 April 2004),15,0,Male
+192,Intensive Care Medicine,15,347,Male
+300,General Internal Medicine,15,4293,Male
+301,Gastroenterology,15,1899,Male
+302,Endocrinology and Diabetes,15,1877,Male
+303,Clinical Haematology,15,1621,Male
+304,Clinical Physiology,15,284,Male
+305,Clinical Pharmacology,15,1,Male
+310,Audio Vestibular Medicine,15,1609,Male
+311,Clinical Genetics,15,649,Male
+313,Clinical Immunology,15,467,Male
+314,Rehabilitation Medicine,15,803,Male
+315,Palliative Medicine,15,407,Male
+317,Allergy,15,203,Male
+320,Cardiology,15,2446,Male
+321,Paediatric Cardiology,15,5019,Male
+325,Sport and Exercise Medicine,15,70,Male
+326,Acute Internal Medicine,15,40,Male
+330,Dermatology,15,13088,Male
+340,Respiratory Medicine,15,1103,Male
+350,Infectious Diseases,15,72,Male
+352,Tropical Medicine,15,0,Male
+360,Genitourinary Medicine,15,81,Male
+361,Renal Medicine,15,814,Male
+370,Medical Oncology,15,585,Male
+371,Nuclear Medicine,15,10,Male
+400,Neurology,15,806,Male
+401,Clinical Neurophysiology,15,599,Male
+410,Rheumatology,15,1002,Male
+420,Paediatrics,15,74642,Male
+421,Paediatric Neurology,15,1739,Male
+430,Geriatric Medicine,15,13,Male
+450,Dental Medicine,15,1922,Male
+451,Special Care Dentistry,15,142,Male
+460,Medical Ophthalmology,15,33,Male
+499,"Non-UK Provider; specialty function not known, treatment mainly medical",15,0,Male
+501,Obstetrics,15,11,Male
+502,Gynaecology,15,94,Male
+504,Community Sexual and Reproductive Health,15,0,Male
+560,Midwifery,15,13,Male
+600,General Medical Practice,15,204,Male
+601,General Dental Practice,15,292,Male
+700,Learning Disability,15,595,Male
+710,Adult Mental Illness,15,2940,Male
+711,Child and Adolescent Psychiatry,15,19077,Male
+712,Forensic Psychiatry,15,90,Male
+713,Medical Psychotherapy,15,351,Male
+715,Old Age Psychiatry,15,15,Male
+800,Clinical Oncology,15,191,Male
+810,Radiology,15,13923,Male
+820,General Pathology,15,0,Male
+821,Blood Transfusion,15,0,Male
+822,Chemical Pathology,15,21,Male
+823,Haematology,15,363,Male
+824,Histopathology,15,0,Male
+830,Immunopathology,15,0,Male
+831,Medical Microbiology and Virology,15,0,Male
+833,Medical Microbiology,15,0,Male
+834,Medical Virology,15,4,Male
+900,Community Medicine,15,1448,Male
+901,Occupational Medicine,15,267,Male
+902,Community Health Services Dental,15,16,Male
+903,Public Health Medicine,15,18,Male
+950,Nursing,15,16414,Male
+960,Allied Health Professional,15,52418,Male
+990,Joint Consultant Clinics (Retired 1 April 2004),15,0,Male
+&,Not Known,16,3678,Male
+100,General Surgery,16,3801,Male
+101,Urology,16,3619,Male
+107,Vascular Surgery,16,23,Male
+110,Trauma and Orthopaedics,16,42656,Male
+120,Ear Nose and Throat,16,11712,Male
+130,Ophthalmology,16,11328,Male
+140,Oral Surgery,16,4132,Male
+141,Restorative Dentistry,16,1064,Male
+142,Paediatric Dentistry,16,1440,Male
+143,Orthodontics,16,29083,Male
+145,Oral and Maxillofacial Surgery,16,3525,Male
+146,Endodontics,16,47,Male
+147,Periodontics,16,8,Male
+148,Prosthodontics,16,23,Male
+149,Surgical Dentistry,16,6,Male
+150,Neurosurgery,16,1005,Male
+160,Plastic Surgery,16,5241,Male
+170,Cardiothoracic Surgery,16,497,Male
+171,Paediatric Surgery,16,2653,Male
+180,Emergency Medicine,16,1182,Male
+190,Anaesthetics,16,2184,Male
+191,Pain Management (Retired 1 April 2004),16,0,Male
+192,Intensive Care Medicine,16,323,Male
+300,General Internal Medicine,16,5453,Male
+301,Gastroenterology,16,3295,Male
+302,Endocrinology and Diabetes,16,2050,Male
+303,Clinical Haematology,16,2174,Male
+304,Clinical Physiology,16,410,Male
+305,Clinical Pharmacology,16,12,Male
+310,Audio Vestibular Medicine,16,1454,Male
+311,Clinical Genetics,16,709,Male
+313,Clinical Immunology,16,488,Male
+314,Rehabilitation Medicine,16,899,Male
+315,Palliative Medicine,16,358,Male
+317,Allergy,16,273,Male
+320,Cardiology,16,4084,Male
+321,Paediatric Cardiology,16,3876,Male
+325,Sport and Exercise Medicine,16,74,Male
+326,Acute Internal Medicine,16,282,Male
+330,Dermatology,16,16049,Male
+340,Respiratory Medicine,16,2191,Male
+350,Infectious Diseases,16,242,Male
+352,Tropical Medicine,16,0,Male
+360,Genitourinary Medicine,16,158,Male
+361,Renal Medicine,16,1355,Male
+370,Medical Oncology,16,718,Male
+371,Nuclear Medicine,16,14,Male
+400,Neurology,16,2675,Male
+401,Clinical Neurophysiology,16,636,Male
+410,Rheumatology,16,1300,Male
+420,Paediatrics,16,53721,Male
+421,Paediatric Neurology,16,1387,Male
+430,Geriatric Medicine,16,43,Male
+450,Dental Medicine,16,1979,Male
+451,Special Care Dentistry,16,193,Male
+460,Medical Ophthalmology,16,67,Male
+499,"Non-UK Provider; specialty function not known, treatment mainly medical",16,0,Male
+501,Obstetrics,16,10,Male
+502,Gynaecology,16,63,Male
+504,Community Sexual and Reproductive Health,16,0,Male
+560,Midwifery,16,23,Male
+600,General Medical Practice,16,177,Male
+601,General Dental Practice,16,229,Male
+700,Learning Disability,16,580,Male
+710,Adult Mental Illness,16,2637,Male
+711,Child and Adolescent Psychiatry,16,19473,Male
+712,Forensic Psychiatry,16,145,Male
+713,Medical Psychotherapy,16,267,Male
+715,Old Age Psychiatry,16,15,Male
+800,Clinical Oncology,16,370,Male
+810,Radiology,16,12896,Male
+820,General Pathology,16,2,Male
+821,Blood Transfusion,16,0,Male
+822,Chemical Pathology,16,41,Male
+823,Haematology,16,431,Male
+824,Histopathology,16,17,Male
+830,Immunopathology,16,14,Male
+831,Medical Microbiology and Virology,16,4,Male
+833,Medical Microbiology,16,1,Male
+834,Medical Virology,16,11,Male
+900,Community Medicine,16,1162,Male
+901,Occupational Medicine,16,283,Male
+902,Community Health Services Dental,16,9,Male
+903,Public Health Medicine,16,56,Male
+950,Nursing,16,15310,Male
+960,Allied Health Professional,16,45822,Male
+990,Joint Consultant Clinics (Retired 1 April 2004),16,4,Male
+&,Not Known,17,3202,Male
+100,General Surgery,17,4689,Male
+101,Urology,17,4603,Male
+107,Vascular Surgery,17,19,Male
+110,Trauma and Orthopaedics,17,36581,Male
+120,Ear Nose and Throat,17,10983,Male
+130,Ophthalmology,17,10566,Male
+140,Oral Surgery,17,3894,Male
+141,Restorative Dentistry,17,1479,Male
+142,Paediatric Dentistry,17,521,Male
+143,Orthodontics,17,28715,Male
+145,Oral and Maxillofacial Surgery,17,3276,Male
+146,Endodontics,17,43,Male
+147,Periodontics,17,7,Male
+148,Prosthodontics,17,10,Male
+149,Surgical Dentistry,17,3,Male
+150,Neurosurgery,17,978,Male
+160,Plastic Surgery,17,4614,Male
+170,Cardiothoracic Surgery,17,541,Male
+171,Paediatric Surgery,17,1215,Male
+180,Emergency Medicine,17,1155,Male
+190,Anaesthetics,17,2270,Male
+191,Pain Management (Retired 1 April 2004),17,0,Male
+192,Intensive Care Medicine,17,182,Male
+300,General Internal Medicine,17,6965,Male
+301,Gastroenterology,17,4969,Male
+302,Endocrinology and Diabetes,17,2336,Male
+303,Clinical Haematology,17,3104,Male
+304,Clinical Physiology,17,540,Male
+305,Clinical Pharmacology,17,12,Male
+310,Audio Vestibular Medicine,17,1371,Male
+311,Clinical Genetics,17,573,Male
+313,Clinical Immunology,17,712,Male
+314,Rehabilitation Medicine,17,918,Male
+315,Palliative Medicine,17,157,Male
+317,Allergy,17,351,Male
+320,Cardiology,17,6029,Male
+321,Paediatric Cardiology,17,2411,Male
+325,Sport and Exercise Medicine,17,83,Male
+326,Acute Internal Medicine,17,291,Male
+330,Dermatology,17,16833,Male
+340,Respiratory Medicine,17,3633,Male
+350,Infectious Diseases,17,379,Male
+352,Tropical Medicine,17,0,Male
+360,Genitourinary Medicine,17,150,Male
+361,Renal Medicine,17,1736,Male
+370,Medical Oncology,17,910,Male
+371,Nuclear Medicine,17,19,Male
+400,Neurology,17,4750,Male
+401,Clinical Neurophysiology,17,643,Male
+410,Rheumatology,17,1696,Male
+420,Paediatrics,17,30608,Male
+421,Paediatric Neurology,17,781,Male
+430,Geriatric Medicine,17,111,Male
+450,Dental Medicine,17,1893,Male
+451,Special Care Dentistry,17,168,Male
+460,Medical Ophthalmology,17,83,Male
+499,"Non-UK Provider; specialty function not known, treatment mainly medical",17,0,Male
+501,Obstetrics,17,25,Male
+502,Gynaecology,17,88,Male
+504,Community Sexual and Reproductive Health,17,0,Male
+560,Midwifery,17,6,Male
+600,General Medical Practice,17,212,Male
+601,General Dental Practice,17,259,Male
+700,Learning Disability,17,488,Male
+710,Adult Mental Illness,17,2823,Male
+711,Child and Adolescent Psychiatry,17,19006,Male
+712,Forensic Psychiatry,17,158,Male
+713,Medical Psychotherapy,17,217,Male
+715,Old Age Psychiatry,17,9,Male
+800,Clinical Oncology,17,367,Male
+810,Radiology,17,12085,Male
+820,General Pathology,17,3,Male
+821,Blood Transfusion,17,0,Male
+822,Chemical Pathology,17,98,Male
+823,Haematology,17,472,Male
+824,Histopathology,17,53,Male
+830,Immunopathology,17,23,Male
+831,Medical Microbiology and Virology,17,0,Male
+833,Medical Microbiology,17,0,Male
+834,Medical Virology,17,20,Male
+900,Community Medicine,17,817,Male
+901,Occupational Medicine,17,208,Male
+902,Community Health Services Dental,17,6,Male
+903,Public Health Medicine,17,107,Male
+950,Nursing,17,13800,Male
+960,Allied Health Professional,17,40148,Male
+990,Joint Consultant Clinics (Retired 1 April 2004),17,5,Male
+&,Not Known,18,1427,Male
+100,General Surgery,18,5374,Male
+101,Urology,18,4631,Male
+107,Vascular Surgery,18,36,Male
+110,Trauma and Orthopaedics,18,30901,Male
+120,Ear Nose and Throat,18,9760,Male
+130,Ophthalmology,18,9722,Male
+140,Oral Surgery,18,3349,Male
+141,Restorative Dentistry,18,1451,Male
+142,Paediatric Dentistry,18,227,Male
+143,Orthodontics,18,22469,Male
+145,Oral and Maxillofacial Surgery,18,3006,Male
+146,Endodontics,18,62,Male
+147,Periodontics,18,3,Male
+148,Prosthodontics,18,30,Male
+149,Surgical Dentistry,18,3,Male
+150,Neurosurgery,18,967,Male
+160,Plastic Surgery,18,4460,Male
+170,Cardiothoracic Surgery,18,508,Male
+171,Paediatric Surgery,18,334,Male
+180,Emergency Medicine,18,1150,Male
+190,Anaesthetics,18,2242,Male
+191,Pain Management (Retired 1 April 2004),18,0,Male
+192,Intensive Care Medicine,18,110,Male
+300,General Internal Medicine,18,7450,Male
+301,Gastroenterology,18,5600,Male
+302,Endocrinology and Diabetes,18,2605,Male
+303,Clinical Haematology,18,3972,Male
+304,Clinical Physiology,18,578,Male
+305,Clinical Pharmacology,18,11,Male
+310,Audio Vestibular Medicine,18,940,Male
+311,Clinical Genetics,18,523,Male
+313,Clinical Immunology,18,827,Male
+314,Rehabilitation Medicine,18,912,Male
+315,Palliative Medicine,18,203,Male
+317,Allergy,18,303,Male
+320,Cardiology,18,6255,Male
+321,Paediatric Cardiology,18,790,Male
+325,Sport and Exercise Medicine,18,52,Male
+326,Acute Internal Medicine,18,474,Male
+330,Dermatology,18,14033,Male
+340,Respiratory Medicine,18,3418,Male
+350,Infectious Diseases,18,440,Male
+352,Tropical Medicine,18,0,Male
+360,Genitourinary Medicine,18,141,Male
+361,Renal Medicine,18,2093,Male
+370,Medical Oncology,18,941,Male
+371,Nuclear Medicine,18,12,Male
+400,Neurology,18,5670,Male
+401,Clinical Neurophysiology,18,561,Male
+410,Rheumatology,18,1634,Male
+420,Paediatrics,18,10449,Male
+421,Paediatric Neurology,18,312,Male
+430,Geriatric Medicine,18,102,Male
+450,Dental Medicine,18,1872,Male
+451,Special Care Dentistry,18,158,Male
+460,Medical Ophthalmology,18,71,Male
+499,"Non-UK Provider; specialty function not known, treatment mainly medical",18,0,Male
+501,Obstetrics,18,48,Male
+502,Gynaecology,18,94,Male
+504,Community Sexual and Reproductive Health,18,0,Male
+560,Midwifery,18,2,Male
+600,General Medical Practice,18,192,Male
+601,General Dental Practice,18,194,Male
+700,Learning Disability,18,1280,Male
+710,Adult Mental Illness,18,5245,Male
+711,Child and Adolescent Psychiatry,18,6200,Male
+712,Forensic Psychiatry,18,63,Male
+713,Medical Psychotherapy,18,139,Male
+715,Old Age Psychiatry,18,17,Male
+800,Clinical Oncology,18,725,Male
+810,Radiology,18,11214,Male
+820,General Pathology,18,12,Male
+821,Blood Transfusion,18,0,Male
+822,Chemical Pathology,18,134,Male
+823,Haematology,18,486,Male
+824,Histopathology,18,26,Male
+830,Immunopathology,18,58,Male
+831,Medical Microbiology and Virology,18,11,Male
+833,Medical Microbiology,18,10,Male
+834,Medical Virology,18,37,Male
+900,Community Medicine,18,607,Male
+901,Occupational Medicine,18,212,Male
+902,Community Health Services Dental,18,7,Male
+903,Public Health Medicine,18,0,Male
+950,Nursing,18,11733,Male
+960,Allied Health Professional,18,29410,Male
+990,Joint Consultant Clinics (Retired 1 April 2004),18,1,Male
+&,Not Known,20-24,955,Male
+100,General Surgery,20-24,5339,Male
+101,Urology,20-24,4512,Male
+107,Vascular Surgery,20-24,26,Male
+110,Trauma and Orthopaedics,20-24,28399,Male
+120,Ear Nose and Throat,20-24,8860,Male
+130,Ophthalmology,20-24,8532,Male
+140,Oral Surgery,20-24,2893,Male
+141,Restorative Dentistry,20-24,1322,Male
+142,Paediatric Dentistry,20-24,78,Male
+143,Orthodontics,20-24,16225,Male
+145,Oral and Maxillofacial Surgery,20-24,2469,Male
+146,Endodontics,20-24,58,Male
+147,Periodontics,20-24,7,Male
+148,Prosthodontics,20-24,18,Male
+149,Surgical Dentistry,20-24,0,Male
+150,Neurosurgery,20-24,887,Male
+160,Plastic Surgery,20-24,4750,Male
+170,Cardiothoracic Surgery,20-24,419,Male
+171,Paediatric Surgery,20-24,93,Male
+180,Emergency Medicine,20-24,1252,Male
+190,Anaesthetics,20-24,2082,Male
+191,Pain Management (Retired 1 April 2004),20-24,0,Male
+192,Intensive Care Medicine,20-24,52,Male
+300,General Internal Medicine,20-24,7391,Male
+301,Gastroenterology,20-24,5961,Male
+302,Endocrinology and Diabetes,20-24,2874,Male
+303,Clinical Haematology,20-24,4073,Male
+304,Clinical Physiology,20-24,485,Male
+305,Clinical Pharmacology,20-24,21,Male
+310,Audio Vestibular Medicine,20-24,761,Male
+311,Clinical Genetics,20-24,418,Male
+313,Clinical Immunology,20-24,837,Male
+314,Rehabilitation Medicine,20-24,952,Male
+315,Palliative Medicine,20-24,87,Male
+317,Allergy,20-24,156,Male
+320,Cardiology,20-24,6009,Male
+321,Paediatric Cardiology,20-24,331,Male
+325,Sport and Exercise Medicine,20-24,45,Male
+326,Acute Internal Medicine,20-24,442,Male
+330,Dermatology,20-24,12047,Male
+340,Respiratory Medicine,20-24,2938,Male
+350,Infectious Diseases,20-24,344,Male
+352,Tropical Medicine,20-24,0,Male
+360,Genitourinary Medicine,20-24,272,Male
+361,Renal Medicine,20-24,2081,Male
+370,Medical Oncology,20-24,808,Male
+371,Nuclear Medicine,20-24,8,Male
+400,Neurology,20-24,5866,Male
+401,Clinical Neurophysiology,20-24,610,Male
+410,Rheumatology,20-24,1648,Male
+420,Paediatrics,20-24,2172,Male
+421,Paediatric Neurology,20-24,69,Male
+430,Geriatric Medicine,20-24,149,Male
+450,Dental Medicine,20-24,1416,Male
+451,Special Care Dentistry,20-24,92,Male
+460,Medical Ophthalmology,20-24,54,Male
+499,"Non-UK Provider; specialty function not known, treatment mainly medical",20-24,0,Male
+501,Obstetrics,20-24,26,Male
+502,Gynaecology,20-24,161,Male
+504,Community Sexual and Reproductive Health,20-24,0,Male
+560,Midwifery,20-24,2,Male
+600,General Medical Practice,20-24,169,Male
+601,General Dental Practice,20-24,119,Male
+700,Learning Disability,20-24,1200,Male
+710,Adult Mental Illness,20-24,6126,Male
+711,Child and Adolescent Psychiatry,20-24,3117,Male
+712,Forensic Psychiatry,20-24,46,Male
+713,Medical Psychotherapy,20-24,83,Male
+715,Old Age Psychiatry,20-24,14,Male
+800,Clinical Oncology,20-24,754,Male
+810,Radiology,20-24,10249,Male
+820,General Pathology,20-24,5,Male
+821,Blood Transfusion,20-24,0,Male
+822,Chemical Pathology,20-24,118,Male
+823,Haematology,20-24,533,Male
+824,Histopathology,20-24,58,Male
+830,Immunopathology,20-24,53,Male
+831,Medical Microbiology and Virology,20-24,3,Male
+833,Medical Microbiology,20-24,4,Male
+834,Medical Virology,20-24,35,Male
+900,Community Medicine,20-24,299,Male
+901,Occupational Medicine,20-24,220,Male
+902,Community Health Services Dental,20-24,93,Male
+903,Public Health Medicine,20-24,0,Male
+950,Nursing,20-24,10526,Male
+960,Allied Health Professional,20-24,25249,Male
+990,Joint Consultant Clinics (Retired 1 April 2004),20-24,1,Male
+&,Not Known,25-29,1947,Male
+100,General Surgery,25-29,33642,Male
+101,Urology,25-29,25140,Male
+107,Vascular Surgery,25-29,175,Male
+110,Trauma and Orthopaedics,25-29,146431,Male
+120,Ear Nose and Throat,25-29,41223,Male
+130,Ophthalmology,25-29,49612,Male
+140,Oral Surgery,25-29,15493,Male
+141,Restorative Dentistry,25-29,6114,Male
+142,Paediatric Dentistry,25-29,276,Male
+143,Orthodontics,25-29,35076,Male
+145,Oral and Maxillofacial Surgery,25-29,12036,Male
+146,Endodontics,25-29,457,Male
+147,Periodontics,25-29,134,Male
+148,Prosthodontics,25-29,76,Male
+149,Surgical Dentistry,25-29,9,Male
+150,Neurosurgery,25-29,4263,Male
+160,Plastic Surgery,25-29,23949,Male
+170,Cardiothoracic Surgery,25-29,1586,Male
+171,Paediatric Surgery,25-29,109,Male
+180,Emergency Medicine,25-29,6173,Male
+190,Anaesthetics,25-29,11891,Male
+191,Pain Management (Retired 1 April 2004),25-29,0,Male
+192,Intensive Care Medicine,25-29,187,Male
+300,General Internal Medicine,25-29,37867,Male
+301,Gastroenterology,25-29,33314,Male
+302,Endocrinology and Diabetes,25-29,14683,Male
+303,Clinical Haematology,25-29,20411,Male
+304,Clinical Physiology,25-29,2746,Male
+305,Clinical Pharmacology,25-29,129,Male
+310,Audio Vestibular Medicine,25-29,3026,Male
+311,Clinical Genetics,25-29,1690,Male
+313,Clinical Immunology,25-29,3014,Male
+314,Rehabilitation Medicine,25-29,4620,Male
+315,Palliative Medicine,25-29,303,Male
+317,Allergy,25-29,662,Male
+320,Cardiology,25-29,30131,Male
+321,Paediatric Cardiology,25-29,708,Male
+325,Sport and Exercise Medicine,25-29,289,Male
+326,Acute Internal Medicine,25-29,2603,Male
+330,Dermatology,25-29,55228,Male
+340,Respiratory Medicine,25-29,17552,Male
+350,Infectious Diseases,25-29,2956,Male
+352,Tropical Medicine,25-29,0,Male
+360,Genitourinary Medicine,25-29,1501,Male
+361,Renal Medicine,25-29,10795,Male
+370,Medical Oncology,25-29,4917,Male
+371,Nuclear Medicine,25-29,93,Male
+400,Neurology,25-29,27645,Male
+401,Clinical Neurophysiology,25-29,2760,Male
+410,Rheumatology,25-29,8951,Male
+420,Paediatrics,25-29,1961,Male
+421,Paediatric Neurology,25-29,92,Male
+430,Geriatric Medicine,25-29,708,Male
+450,Dental Medicine,25-29,4390,Male
+451,Special Care Dentistry,25-29,514,Male
+460,Medical Ophthalmology,25-29,419,Male
+499,"Non-UK Provider; specialty function not known, treatment mainly medical",25-29,0,Male
+501,Obstetrics,25-29,415,Male
+502,Gynaecology,25-29,1542,Male
+504,Community Sexual and Reproductive Health,25-29,0,Male
+560,Midwifery,25-29,77,Male
+600,General Medical Practice,25-29,709,Male
+601,General Dental Practice,25-29,258,Male
+700,Learning Disability,25-29,4501,Male
+710,Adult Mental Illness,25-29,36709,Male
+711,Child and Adolescent Psychiatry,25-29,17237,Male
+712,Forensic Psychiatry,25-29,442,Male
+713,Medical Psychotherapy,25-29,625,Male
+715,Old Age Psychiatry,25-29,181,Male
+800,Clinical Oncology,25-29,4524,Male
+810,Radiology,25-29,58921,Male
+820,General Pathology,25-29,43,Male
+821,Blood Transfusion,25-29,0,Male
+822,Chemical Pathology,25-29,789,Male
+823,Haematology,25-29,2576,Male
+824,Histopathology,25-29,168,Male
+830,Immunopathology,25-29,259,Male
+831,Medical Microbiology and Virology,25-29,41,Male
+833,Medical Microbiology,25-29,70,Male
+834,Medical Virology,25-29,157,Male
+900,Community Medicine,25-29,1867,Male
+901,Occupational Medicine,25-29,1089,Male
+902,Community Health Services Dental,25-29,357,Male
+903,Public Health Medicine,25-29,0,Male
+950,Nursing,25-29,53351,Male
+960,Allied Health Professional,25-29,133037,Male
+990,Joint Consultant Clinics (Retired 1 April 2004),25-29,25,Male
+&,Not Known,30-34,2919,Male
+100,General Surgery,30-34,51595,Male
+101,Urology,30-34,36684,Male
+107,Vascular Surgery,30-34,294,Male
+110,Trauma and Orthopaedics,30-34,163941,Male
+120,Ear Nose and Throat,30-34,51149,Male
+130,Ophthalmology,30-34,66883,Male
+140,Oral Surgery,30-34,20181,Male
+141,Restorative Dentistry,30-34,5481,Male
+142,Paediatric Dentistry,30-34,19,Male
+143,Orthodontics,30-34,8231,Male
+145,Oral and Maxillofacial Surgery,30-34,14270,Male
+146,Endodontics,30-34,600,Male
+147,Periodontics,30-34,94,Male
+148,Prosthodontics,30-34,77,Male
+149,Surgical Dentistry,30-34,2,Male
+150,Neurosurgery,30-34,5981,Male
+160,Plastic Surgery,30-34,26302,Male
+170,Cardiothoracic Surgery,30-34,1540,Male
+171,Paediatric Surgery,30-34,42,Male
+180,Emergency Medicine,30-34,6746,Male
+190,Anaesthetics,30-34,16691,Male
+191,Pain Management (Retired 1 April 2004),30-34,0,Male
+192,Intensive Care Medicine,30-34,220,Male
+300,General Internal Medicine,30-34,46784,Male
+301,Gastroenterology,30-34,48774,Male
+302,Endocrinology and Diabetes,30-34,16899,Male
+303,Clinical Haematology,30-34,22824,Male
+304,Clinical Physiology,30-34,3907,Male
+305,Clinical Pharmacology,30-34,292,Male
+310,Audio Vestibular Medicine,30-34,3566,Male
+311,Clinical Genetics,30-34,2220,Male
+313,Clinical Immunology,30-34,2947,Male
+314,Rehabilitation Medicine,30-34,5906,Male
+315,Palliative Medicine,30-34,434,Male
+317,Allergy,30-34,814,Male
+320,Cardiology,30-34,36831,Male
+321,Paediatric Cardiology,30-34,556,Male
+325,Sport and Exercise Medicine,30-34,327,Male
+326,Acute Internal Medicine,30-34,3184,Male
+330,Dermatology,30-34,66416,Male
+340,Respiratory Medicine,30-34,28668,Male
+350,Infectious Diseases,30-34,4430,Male
+352,Tropical Medicine,30-34,0,Male
+360,Genitourinary Medicine,30-34,1865,Male
+361,Renal Medicine,30-34,13729,Male
+370,Medical Oncology,30-34,8441,Male
+371,Nuclear Medicine,30-34,86,Male
+400,Neurology,30-34,31201,Male
+401,Clinical Neurophysiology,30-34,3314,Male
+410,Rheumatology,30-34,14986,Male
+420,Paediatrics,30-34,580,Male
+421,Paediatric Neurology,30-34,59,Male
+430,Geriatric Medicine,30-34,1097,Male
+450,Dental Medicine,30-34,2883,Male
+451,Special Care Dentistry,30-34,462,Male
+460,Medical Ophthalmology,30-34,457,Male
+499,"Non-UK Provider; specialty function not known, treatment mainly medical",30-34,0,Male
+501,Obstetrics,30-34,1538,Male
+502,Gynaecology,30-34,5266,Male
+504,Community Sexual and Reproductive Health,30-34,0,Male
+560,Midwifery,30-34,213,Male
+600,General Medical Practice,30-34,747,Male
+601,General Dental Practice,30-34,85,Male
+700,Learning Disability,30-34,4215,Male
+710,Adult Mental Illness,30-34,45848,Male
+711,Child and Adolescent Psychiatry,30-34,5118,Male
+712,Forensic Psychiatry,30-34,578,Male
+713,Medical Psychotherapy,30-34,741,Male
+715,Old Age Psychiatry,30-34,282,Male
+800,Clinical Oncology,30-34,7867,Male
+810,Radiology,30-34,84610,Male
+820,General Pathology,30-34,95,Male
+821,Blood Transfusion,30-34,0,Male
+822,Chemical Pathology,30-34,1267,Male
+823,Haematology,30-34,3761,Male
+824,Histopathology,30-34,91,Male
+830,Immunopathology,30-34,250,Male
+831,Medical Microbiology and Virology,30-34,45,Male
+833,Medical Microbiology,30-34,50,Male
+834,Medical Virology,30-34,211,Male
+900,Community Medicine,30-34,2328,Male
+901,Occupational Medicine,30-34,1463,Male
+902,Community Health Services Dental,30-34,275,Male
+903,Public Health Medicine,30-34,1,Male
+950,Nursing,30-34,66313,Male
+960,Allied Health Professional,30-34,163981,Male
+990,Joint Consultant Clinics (Retired 1 April 2004),30-34,6,Male
+&,Not Known,35-39,4069,Male
+100,General Surgery,35-39,71749,Male
+101,Urology,35-39,49324,Male
+107,Vascular Surgery,35-39,555,Male
+110,Trauma and Orthopaedics,35-39,176599,Male
+120,Ear Nose and Throat,35-39,64260,Male
+130,Ophthalmology,35-39,86551,Male
+140,Oral Surgery,35-39,21583,Male
+141,Restorative Dentistry,35-39,5617,Male
+142,Paediatric Dentistry,35-39,18,Male
+143,Orthodontics,35-39,4274,Male
+145,Oral and Maxillofacial Surgery,35-39,15034,Male
+146,Endodontics,35-39,631,Male
+147,Periodontics,35-39,151,Male
+148,Prosthodontics,35-39,101,Male
+149,Surgical Dentistry,35-39,4,Male
+150,Neurosurgery,35-39,8965,Male
+160,Plastic Surgery,35-39,27236,Male
+170,Cardiothoracic Surgery,35-39,1904,Male
+171,Paediatric Surgery,35-39,70,Male
+180,Emergency Medicine,35-39,7033,Male
+190,Anaesthetics,35-39,22719,Male
+191,Pain Management (Retired 1 April 2004),35-39,0,Male
+192,Intensive Care Medicine,35-39,301,Male
+300,General Internal Medicine,35-39,61753,Male
+301,Gastroenterology,35-39,63862,Male
+302,Endocrinology and Diabetes,35-39,21530,Male
+303,Clinical Haematology,35-39,28183,Male
+304,Clinical Physiology,35-39,5063,Male
+305,Clinical Pharmacology,35-39,504,Male
+310,Audio Vestibular Medicine,35-39,4564,Male
+311,Clinical Genetics,35-39,3313,Male
+313,Clinical Immunology,35-39,3244,Male
+314,Rehabilitation Medicine,35-39,6295,Male
+315,Palliative Medicine,35-39,496,Male
+317,Allergy,35-39,798,Male
+320,Cardiology,35-39,46140,Male
+321,Paediatric Cardiology,35-39,518,Male
+325,Sport and Exercise Medicine,35-39,342,Male
+326,Acute Internal Medicine,35-39,3756,Male
+330,Dermatology,35-39,75072,Male
+340,Respiratory Medicine,35-39,43053,Male
+350,Infectious Diseases,35-39,6380,Male
+352,Tropical Medicine,35-39,0,Male
+360,Genitourinary Medicine,35-39,2591,Male
+361,Renal Medicine,35-39,20454,Male
+370,Medical Oncology,35-39,12539,Male
+371,Nuclear Medicine,35-39,152,Male
+400,Neurology,35-39,36251,Male
+401,Clinical Neurophysiology,35-39,4260,Male
+410,Rheumatology,35-39,22404,Male
+420,Paediatrics,35-39,508,Male
+421,Paediatric Neurology,35-39,36,Male
+430,Geriatric Medicine,35-39,1607,Male
+450,Dental Medicine,35-39,3021,Male
+451,Special Care Dentistry,35-39,515,Male
+460,Medical Ophthalmology,35-39,518,Male
+499,"Non-UK Provider; specialty function not known, treatment mainly medical",35-39,0,Male
+501,Obstetrics,35-39,3160,Male
+502,Gynaecology,35-39,10649,Male
+504,Community Sexual and Reproductive Health,35-39,0,Male
+560,Midwifery,35-39,205,Male
+600,General Medical Practice,35-39,915,Male
+601,General Dental Practice,35-39,99,Male
+700,Learning Disability,35-39,2838,Male
+710,Adult Mental Illness,35-39,45006,Male
+711,Child and Adolescent Psychiatry,35-39,2155,Male
+712,Forensic Psychiatry,35-39,973,Male
+713,Medical Psychotherapy,35-39,839,Male
+715,Old Age Psychiatry,35-39,265,Male
+800,Clinical Oncology,35-39,10823,Male
+810,Radiology,35-39,103178,Male
+820,General Pathology,35-39,150,Male
+821,Blood Transfusion,35-39,0,Male
+822,Chemical Pathology,35-39,2307,Male
+823,Haematology,35-39,4977,Male
+824,Histopathology,35-39,135,Male
+830,Immunopathology,35-39,227,Male
+831,Medical Microbiology and Virology,35-39,146,Male
+833,Medical Microbiology,35-39,42,Male
+834,Medical Virology,35-39,314,Male
+900,Community Medicine,35-39,3207,Male
+901,Occupational Medicine,35-39,1482,Male
+902,Community Health Services Dental,35-39,268,Male
+903,Public Health Medicine,35-39,0,Male
+950,Nursing,35-39,82401,Male
+960,Allied Health Professional,35-39,191583,Male
+990,Joint Consultant Clinics (Retired 1 April 2004),35-39,19,Male
+&,Not Known,40-44,5221,Male
+100,General Surgery,40-44,88376,Male
+101,Urology,40-44,59420,Male
+107,Vascular Surgery,40-44,879,Male
+110,Trauma and Orthopaedics,40-44,182200,Male
+120,Ear Nose and Throat,40-44,70543,Male
+130,Ophthalmology,40-44,99343,Male
+140,Oral Surgery,40-44,20361,Male
+141,Restorative Dentistry,40-44,6266,Male
+142,Paediatric Dentistry,40-44,0,Male
+143,Orthodontics,40-44,3257,Male
+145,Oral and Maxillofacial Surgery,40-44,15139,Male
+146,Endodontics,40-44,884,Male
+147,Periodontics,40-44,165,Male
+148,Prosthodontics,40-44,92,Male
+149,Surgical Dentistry,40-44,1,Male
+150,Neurosurgery,40-44,11823,Male
+160,Plastic Surgery,40-44,26863,Male
+170,Cardiothoracic Surgery,40-44,2443,Male
+171,Paediatric Surgery,40-44,66,Male
+180,Emergency Medicine,40-44,6892,Male
+190,Anaesthetics,40-44,28298,Male
+191,Pain Management (Retired 1 April 2004),40-44,1,Male
+192,Intensive Care Medicine,40-44,315,Male
+300,General Internal Medicine,40-44,74816,Male
+301,Gastroenterology,40-44,72820,Male
+302,Endocrinology and Diabetes,40-44,25857,Male
+303,Clinical Haematology,40-44,33946,Male
+304,Clinical Physiology,40-44,6251,Male
+305,Clinical Pharmacology,40-44,691,Male
+310,Audio Vestibular Medicine,40-44,5613,Male
+311,Clinical Genetics,40-44,3224,Male
+313,Clinical Immunology,40-44,2767,Male
+314,Rehabilitation Medicine,40-44,7478,Male
+315,Palliative Medicine,40-44,968,Male
+317,Allergy,40-44,698,Male
+320,Cardiology,40-44,59320,Male
+321,Paediatric Cardiology,40-44,481,Male
+325,Sport and Exercise Medicine,40-44,398,Male
+326,Acute Internal Medicine,40-44,4340,Male
+330,Dermatology,40-44,77315,Male
+340,Respiratory Medicine,40-44,53673,Male
+350,Infectious Diseases,40-44,6828,Male
+352,Tropical Medicine,40-44,0,Male
+360,Genitourinary Medicine,40-44,2571,Male
+361,Renal Medicine,40-44,28661,Male
+370,Medical Oncology,40-44,16205,Male
+371,Nuclear Medicine,40-44,186,Male
+400,Neurology,40-44,38203,Male
+401,Clinical Neurophysiology,40-44,4985,Male
+410,Rheumatology,40-44,30338,Male
+420,Paediatrics,40-44,455,Male
+421,Paediatric Neurology,40-44,47,Male
+430,Geriatric Medicine,40-44,2217,Male
+450,Dental Medicine,40-44,3347,Male
+451,Special Care Dentistry,40-44,553,Male
+460,Medical Ophthalmology,40-44,570,Male
+499,"Non-UK Provider; specialty function not known, treatment mainly medical",40-44,0,Male
+501,Obstetrics,40-44,3068,Male
+502,Gynaecology,40-44,10878,Male
+504,Community Sexual and Reproductive Health,40-44,0,Male
+560,Midwifery,40-44,190,Male
+600,General Medical Practice,40-44,836,Male
+601,General Dental Practice,40-44,125,Male
+700,Learning Disability,40-44,2484,Male
+710,Adult Mental Illness,40-44,47591,Male
+711,Child and Adolescent Psychiatry,40-44,796,Male
+712,Forensic Psychiatry,40-44,748,Male
+713,Medical Psychotherapy,40-44,955,Male
+715,Old Age Psychiatry,40-44,344,Male
+800,Clinical Oncology,40-44,16095,Male
+810,Radiology,40-44,117386,Male
+820,General Pathology,40-44,160,Male
+821,Blood Transfusion,40-44,0,Male
+822,Chemical Pathology,40-44,3199,Male
+823,Haematology,40-44,6449,Male
+824,Histopathology,40-44,159,Male
+830,Immunopathology,40-44,227,Male
+831,Medical Microbiology and Virology,40-44,83,Male
+833,Medical Microbiology,40-44,62,Male
+834,Medical Virology,40-44,293,Male
+900,Community Medicine,40-44,3647,Male
+901,Occupational Medicine,40-44,1244,Male
+902,Community Health Services Dental,40-44,195,Male
+903,Public Health Medicine,40-44,1,Male
+950,Nursing,40-44,96839,Male
+960,Allied Health Professional,40-44,210052,Male
+990,Joint Consultant Clinics (Retired 1 April 2004),40-44,25,Male
+&,Not Known,45-49,5578,Male
+100,General Surgery,45-49,104227,Male
+101,Urology,45-49,66052,Male
+107,Vascular Surgery,45-49,1138,Male
+110,Trauma and Orthopaedics,45-49,187256,Male
+120,Ear Nose and Throat,45-49,72170,Male
+130,Ophthalmology,45-49,119613,Male
+140,Oral Surgery,45-49,19229,Male
+141,Restorative Dentistry,45-49,6728,Male
+142,Paediatric Dentistry,45-49,28,Male
+143,Orthodontics,45-49,2366,Male
+145,Oral and Maxillofacial Surgery,45-49,15393,Male
+146,Endodontics,45-49,839,Male
+147,Periodontics,45-49,215,Male
+148,Prosthodontics,45-49,116,Male
+149,Surgical Dentistry,45-49,2,Male
+150,Neurosurgery,45-49,13920,Male
+160,Plastic Surgery,45-49,27009,Male
+170,Cardiothoracic Surgery,45-49,3344,Male
+171,Paediatric Surgery,45-49,88,Male
+180,Emergency Medicine,45-49,6754,Male
+190,Anaesthetics,45-49,32648,Male
+191,Pain Management (Retired 1 April 2004),45-49,0,Male
+192,Intensive Care Medicine,45-49,425,Male
+300,General Internal Medicine,45-49,83841,Male
+301,Gastroenterology,45-49,78175,Male
+302,Endocrinology and Diabetes,45-49,28736,Male
+303,Clinical Haematology,45-49,42823,Male
+304,Clinical Physiology,45-49,7527,Male
+305,Clinical Pharmacology,45-49,700,Male
+310,Audio Vestibular Medicine,45-49,6451,Male
+311,Clinical Genetics,45-49,2635,Male
+313,Clinical Immunology,45-49,2635,Male
+314,Rehabilitation Medicine,45-49,8962,Male
+315,Palliative Medicine,45-49,1171,Male
+317,Allergy,45-49,567,Male
+320,Cardiology,45-49,73288,Male
+321,Paediatric Cardiology,45-49,442,Male
+325,Sport and Exercise Medicine,45-49,398,Male
+326,Acute Internal Medicine,45-49,4857,Male
+330,Dermatology,45-49,77798,Male
+340,Respiratory Medicine,45-49,60296,Male
+350,Infectious Diseases,45-49,7225,Male
+352,Tropical Medicine,45-49,0,Male
+360,Genitourinary Medicine,45-49,2303,Male
+361,Renal Medicine,45-49,33062,Male
+370,Medical Oncology,45-49,23960,Male
+371,Nuclear Medicine,45-49,234,Male
+400,Neurology,45-49,40334,Male
+401,Clinical Neurophysiology,45-49,5582,Male
+410,Rheumatology,45-49,35001,Male
+420,Paediatrics,45-49,475,Male
+421,Paediatric Neurology,45-49,40,Male
+430,Geriatric Medicine,45-49,2954,Male
+450,Dental Medicine,45-49,3653,Male
+451,Special Care Dentistry,45-49,460,Male
+460,Medical Ophthalmology,45-49,820,Male
+499,"Non-UK Provider; specialty function not known, treatment mainly medical",45-49,0,Male
+501,Obstetrics,45-49,1796,Male
+502,Gynaecology,45-49,6766,Male
+504,Community Sexual and Reproductive Health,45-49,0,Male
+560,Midwifery,45-49,104,Male
+600,General Medical Practice,45-49,950,Male
+601,General Dental Practice,45-49,139,Male
+700,Learning Disability,45-49,2090,Male
+710,Adult Mental Illness,45-49,46006,Male
+711,Child and Adolescent Psychiatry,45-49,619,Male
+712,Forensic Psychiatry,45-49,923,Male
+713,Medical Psychotherapy,45-49,873,Male
+715,Old Age Psychiatry,45-49,380,Male
+800,Clinical Oncology,45-49,23269,Male
+810,Radiology,45-49,131129,Male
+820,General Pathology,45-49,124,Male
+821,Blood Transfusion,45-49,0,Male
+822,Chemical Pathology,45-49,3952,Male
+823,Haematology,45-49,6924,Male
+824,Histopathology,45-49,101,Male
+830,Immunopathology,45-49,241,Male
+831,Medical Microbiology and Virology,45-49,99,Male
+833,Medical Microbiology,45-49,72,Male
+834,Medical Virology,45-49,205,Male
+900,Community Medicine,45-49,5130,Male
+901,Occupational Medicine,45-49,1158,Male
+902,Community Health Services Dental,45-49,183,Male
+903,Public Health Medicine,45-49,6,Male
+950,Nursing,45-49,111412,Male
+960,Allied Health Professional,45-49,230130,Male
+990,Joint Consultant Clinics (Retired 1 April 2004),45-49,45,Male
+&,Not Known,50-54,5040,Male
+100,General Surgery,50-54,110771,Male
+101,Urology,50-54,76114,Male
+107,Vascular Surgery,50-54,1519,Male
+110,Trauma and Orthopaedics,50-54,184342,Male
+120,Ear Nose and Throat,50-54,72054,Male
+130,Ophthalmology,50-54,148045,Male
+140,Oral Surgery,50-54,18666,Male
+141,Restorative Dentistry,50-54,7626,Male
+142,Paediatric Dentistry,50-54,4,Male
+143,Orthodontics,50-54,1765,Male
+145,Oral and Maxillofacial Surgery,50-54,15298,Male
+146,Endodontics,50-54,889,Male
+147,Periodontics,50-54,242,Male
+148,Prosthodontics,50-54,128,Male
+149,Surgical Dentistry,50-54,16,Male
+150,Neurosurgery,50-54,15123,Male
+160,Plastic Surgery,50-54,25190,Male
+170,Cardiothoracic Surgery,50-54,4244,Male
+171,Paediatric Surgery,50-54,68,Male
+180,Emergency Medicine,50-54,6133,Male
+190,Anaesthetics,50-54,35832,Male
+191,Pain Management (Retired 1 April 2004),50-54,2,Male
+192,Intensive Care Medicine,50-54,516,Male
+300,General Internal Medicine,50-54,94023,Male
+301,Gastroenterology,50-54,77443,Male
+302,Endocrinology and Diabetes,50-54,31143,Male
+303,Clinical Haematology,50-54,51768,Male
+304,Clinical Physiology,50-54,8818,Male
+305,Clinical Pharmacology,50-54,655,Male
+310,Audio Vestibular Medicine,50-54,7370,Male
+311,Clinical Genetics,50-54,2135,Male
+313,Clinical Immunology,50-54,2350,Male
+314,Rehabilitation Medicine,50-54,10440,Male
+315,Palliative Medicine,50-54,1644,Male
+317,Allergy,50-54,525,Male
+320,Cardiology,50-54,89711,Male
+321,Paediatric Cardiology,50-54,308,Male
+325,Sport and Exercise Medicine,50-54,348,Male
+326,Acute Internal Medicine,50-54,5034,Male
+330,Dermatology,50-54,78287,Male
+340,Respiratory Medicine,50-54,65884,Male
+350,Infectious Diseases,50-54,7057,Male
+352,Tropical Medicine,50-54,0,Male
+360,Genitourinary Medicine,50-54,2349,Male
+361,Renal Medicine,50-54,35964,Male
+370,Medical Oncology,50-54,29641,Male
+371,Nuclear Medicine,50-54,263,Male
+400,Neurology,50-54,41515,Male
+401,Clinical Neurophysiology,50-54,6047,Male
+410,Rheumatology,50-54,37583,Male
+420,Paediatrics,50-54,338,Male
+421,Paediatric Neurology,50-54,38,Male
+430,Geriatric Medicine,50-54,3999,Male
+450,Dental Medicine,50-54,4363,Male
+451,Special Care Dentistry,50-54,454,Male
+460,Medical Ophthalmology,50-54,1093,Male
+499,"Non-UK Provider; specialty function not known, treatment mainly medical",50-54,0,Male
+501,Obstetrics,50-54,791,Male
+502,Gynaecology,50-54,3118,Male
+504,Community Sexual and Reproductive Health,50-54,0,Male
+560,Midwifery,50-54,24,Male
+600,General Medical Practice,50-54,975,Male
+601,General Dental Practice,50-54,141,Male
+700,Learning Disability,50-54,1730,Male
+710,Adult Mental Illness,50-54,41739,Male
+711,Child and Adolescent Psychiatry,50-54,574,Male
+712,Forensic Psychiatry,50-54,793,Male
+713,Medical Psychotherapy,50-54,893,Male
+715,Old Age Psychiatry,50-54,366,Male
+800,Clinical Oncology,50-54,33174,Male
+810,Radiology,50-54,141387,Male
+820,General Pathology,50-54,135,Male
+821,Blood Transfusion,50-54,0,Male
+822,Chemical Pathology,50-54,4153,Male
+823,Haematology,50-54,9397,Male
+824,Histopathology,50-54,149,Male
+830,Immunopathology,50-54,193,Male
+831,Medical Microbiology and Virology,50-54,271,Male
+833,Medical Microbiology,50-54,76,Male
+834,Medical Virology,50-54,199,Male
+900,Community Medicine,50-54,6704,Male
+901,Occupational Medicine,50-54,1008,Male
+902,Community Health Services Dental,50-54,120,Male
+903,Public Health Medicine,50-54,2,Male
+950,Nursing,50-54,126523,Male
+960,Allied Health Professional,50-54,245144,Male
+990,Joint Consultant Clinics (Retired 1 April 2004),50-54,57,Male
+&,Not Known,55-59,5974,Male
+100,General Surgery,55-59,141745,Male
+101,Urology,55-59,116624,Male
+107,Vascular Surgery,55-59,2336,Male
+110,Trauma and Orthopaedics,55-59,233277,Male
+120,Ear Nose and Throat,55-59,87130,Male
+130,Ophthalmology,55-59,217065,Male
+140,Oral Surgery,55-59,21447,Male
+141,Restorative Dentistry,55-59,9948,Male
+142,Paediatric Dentistry,55-59,7,Male
+143,Orthodontics,55-59,1434,Male
+145,Oral and Maxillofacial Surgery,55-59,18603,Male
+146,Endodontics,55-59,1048,Male
+147,Periodontics,55-59,321,Male
+148,Prosthodontics,55-59,121,Male
+149,Surgical Dentistry,55-59,5,Male
+150,Neurosurgery,55-59,19274,Male
+160,Plastic Surgery,55-59,30369,Male
+170,Cardiothoracic Surgery,55-59,7115,Male
+171,Paediatric Surgery,55-59,96,Male
+180,Emergency Medicine,55-59,6446,Male
+190,Anaesthetics,55-59,48070,Male
+191,Pain Management (Retired 1 April 2004),55-59,3,Male
+192,Intensive Care Medicine,55-59,605,Male
+300,General Internal Medicine,55-59,125825,Male
+301,Gastroenterology,55-59,91282,Male
+302,Endocrinology and Diabetes,55-59,39835,Male
+303,Clinical Haematology,55-59,75136,Male
+304,Clinical Physiology,55-59,12022,Male
+305,Clinical Pharmacology,55-59,659,Male
+310,Audio Vestibular Medicine,55-59,9671,Male
+311,Clinical Genetics,55-59,1864,Male
+313,Clinical Immunology,55-59,2547,Male
+314,Rehabilitation Medicine,55-59,11271,Male
+315,Palliative Medicine,55-59,3132,Male
+317,Allergy,55-59,472,Male
+320,Cardiology,55-59,133359,Male
+321,Paediatric Cardiology,55-59,338,Male
+325,Sport and Exercise Medicine,55-59,415,Male
+326,Acute Internal Medicine,55-59,5934,Male
+330,Dermatology,55-59,96085,Male
+340,Respiratory Medicine,55-59,84825,Male
+350,Infectious Diseases,55-59,8197,Male
+352,Tropical Medicine,55-59,0,Male
+360,Genitourinary Medicine,55-59,2727,Male
+361,Renal Medicine,55-59,46389,Male
+370,Medical Oncology,55-59,46296,Male
+371,Nuclear Medicine,55-59,403,Male
+400,Neurology,55-59,50878,Male
+401,Clinical Neurophysiology,55-59,7386,Male
+410,Rheumatology,55-59,47438,Male
+420,Paediatrics,55-59,400,Male
+421,Paediatric Neurology,55-59,35,Male
+430,Geriatric Medicine,55-59,6327,Male
+450,Dental Medicine,55-59,5031,Male
+451,Special Care Dentistry,55-59,731,Male
+460,Medical Ophthalmology,55-59,1501,Male
+499,"Non-UK Provider; specialty function not known, treatment mainly medical",55-59,0,Male
+501,Obstetrics,55-59,451,Male
+502,Gynaecology,55-59,2221,Male
+504,Community Sexual and Reproductive Health,55-59,0,Male
+560,Midwifery,55-59,30,Male
+600,General Medical Practice,55-59,1235,Male
+601,General Dental Practice,55-59,135,Male
+700,Learning Disability,55-59,2310,Male
+710,Adult Mental Illness,55-59,40285,Male
+711,Child and Adolescent Psychiatry,55-59,626,Male
+712,Forensic Psychiatry,55-59,639,Male
+713,Medical Psychotherapy,55-59,1139,Male
+715,Old Age Psychiatry,55-59,545,Male
+800,Clinical Oncology,55-59,62059,Male
+810,Radiology,55-59,174719,Male
+820,General Pathology,55-59,131,Male
+821,Blood Transfusion,55-59,0,Male
+822,Chemical Pathology,55-59,4936,Male
+823,Haematology,55-59,14831,Male
+824,Histopathology,55-59,265,Male
+830,Immunopathology,55-59,165,Male
+831,Medical Microbiology and Virology,55-59,137,Male
+833,Medical Microbiology,55-59,77,Male
+834,Medical Virology,55-59,208,Male
+900,Community Medicine,55-59,7776,Male
+901,Occupational Medicine,55-59,1208,Male
+902,Community Health Services Dental,55-59,166,Male
+903,Public Health Medicine,55-59,9,Male
+950,Nursing,55-59,177218,Male
+960,Allied Health Professional,55-59,322774,Male
+990,Joint Consultant Clinics (Retired 1 April 2004),55-59,100,Male
+&,Not Known,60-64,5661,Male
+100,General Surgery,60-64,181227,Male
+101,Urology,60-64,197506,Male
+107,Vascular Surgery,60-64,3694,Male
+110,Trauma and Orthopaedics,60-64,299349,Male
+120,Ear Nose and Throat,60-64,104862,Male
+130,Ophthalmology,60-64,301323,Male
+140,Oral Surgery,60-64,25827,Male
+141,Restorative Dentistry,60-64,11864,Male
+142,Paediatric Dentistry,60-64,3,Male
+143,Orthodontics,60-64,1609,Male
+145,Oral and Maxillofacial Surgery,60-64,22317,Male
+146,Endodontics,60-64,1229,Male
+147,Periodontics,60-64,336,Male
+148,Prosthodontics,60-64,181,Male
+149,Surgical Dentistry,60-64,10,Male
+150,Neurosurgery,60-64,24095,Male
+160,Plastic Surgery,60-64,35777,Male
+170,Cardiothoracic Surgery,60-64,12015,Male
+171,Paediatric Surgery,60-64,117,Male
+180,Emergency Medicine,60-64,7024,Male
+190,Anaesthetics,60-64,62709,Male
+191,Pain Management (Retired 1 April 2004),60-64,4,Male
+192,Intensive Care Medicine,60-64,817,Male
+300,General Internal Medicine,60-64,163496,Male
+301,Gastroenterology,60-64,104757,Male
+302,Endocrinology and Diabetes,60-64,48445,Male
+303,Clinical Haematology,60-64,108723,Male
+304,Clinical Physiology,60-64,16625,Male
+305,Clinical Pharmacology,60-64,839,Male
+310,Audio Vestibular Medicine,60-64,13258,Male
+311,Clinical Genetics,60-64,1972,Male
+313,Clinical Immunology,60-64,2777,Male
+314,Rehabilitation Medicine,60-64,16162,Male
+315,Palliative Medicine,60-64,4779,Male
+317,Allergy,60-64,455,Male
+320,Cardiology,60-64,187843,Male
+321,Paediatric Cardiology,60-64,337,Male
+325,Sport and Exercise Medicine,60-64,433,Male
+326,Acute Internal Medicine,60-64,7079,Male
+330,Dermatology,60-64,116779,Male
+340,Respiratory Medicine,60-64,110486,Male
+350,Infectious Diseases,60-64,9027,Male
+352,Tropical Medicine,60-64,0,Male
+360,Genitourinary Medicine,60-64,3033,Male
+361,Renal Medicine,60-64,59124,Male
+370,Medical Oncology,60-64,78492,Male
+371,Nuclear Medicine,60-64,508,Male
+400,Neurology,60-64,60820,Male
+401,Clinical Neurophysiology,60-64,9043,Male
+410,Rheumatology,60-64,59248,Male
+420,Paediatrics,60-64,448,Male
+421,Paediatric Neurology,60-64,34,Male
+430,Geriatric Medicine,60-64,9692,Male
+450,Dental Medicine,60-64,5748,Male
+451,Special Care Dentistry,60-64,740,Male
+460,Medical Ophthalmology,60-64,1668,Male
+499,"Non-UK Provider; specialty function not known, treatment mainly medical",60-64,0,Male
+501,Obstetrics,60-64,318,Male
+502,Gynaecology,60-64,2418,Male
+504,Community Sexual and Reproductive Health,60-64,0,Male
+560,Midwifery,60-64,29,Male
+600,General Medical Practice,60-64,1639,Male
+601,General Dental Practice,60-64,192,Male
+700,Learning Disability,60-64,2533,Male
+710,Adult Mental Illness,60-64,38845,Male
+711,Child and Adolescent Psychiatry,60-64,644,Male
+712,Forensic Psychiatry,60-64,743,Male
+713,Medical Psychotherapy,60-64,925,Male
+715,Old Age Psychiatry,60-64,908,Male
+800,Clinical Oncology,60-64,114413,Male
+810,Radiology,60-64,222092,Male
+820,General Pathology,60-64,152,Male
+821,Blood Transfusion,60-64,0,Male
+822,Chemical Pathology,60-64,5488,Male
+823,Haematology,60-64,20637,Male
+824,Histopathology,60-64,279,Male
+830,Immunopathology,60-64,238,Male
+831,Medical Microbiology and Virology,60-64,499,Male
+833,Medical Microbiology,60-64,116,Male
+834,Medical Virology,60-64,260,Male
+900,Community Medicine,60-64,10255,Male
+901,Occupational Medicine,60-64,1219,Male
+902,Community Health Services Dental,60-64,146,Male
+903,Public Health Medicine,60-64,12,Male
+950,Nursing,60-64,250603,Male
+960,Allied Health Professional,60-64,424015,Male
+990,Joint Consultant Clinics (Retired 1 April 2004),60-64,122,Male
+&,Not Known,65-69,6118,Male
+100,General Surgery,65-69,208112,Male
+101,Urology,65-69,268421,Male
+107,Vascular Surgery,65-69,5344,Male
+110,Trauma and Orthopaedics,65-69,340054,Male
+120,Ear Nose and Throat,65-69,116608,Male
+130,Ophthalmology,65-69,388298,Male
+140,Oral Surgery,65-69,27184,Male
+141,Restorative Dentistry,65-69,13259,Male
+142,Paediatric Dentistry,65-69,1,Male
+143,Orthodontics,65-69,1356,Male
+145,Oral and Maxillofacial Surgery,65-69,24281,Male
+146,Endodontics,65-69,1258,Male
+147,Periodontics,65-69,264,Male
+148,Prosthodontics,65-69,183,Male
+149,Surgical Dentistry,65-69,12,Male
+150,Neurosurgery,65-69,26362,Male
+160,Plastic Surgery,65-69,40382,Male
+170,Cardiothoracic Surgery,65-69,16444,Male
+171,Paediatric Surgery,65-69,157,Male
+180,Emergency Medicine,65-69,6908,Male
+190,Anaesthetics,65-69,71211,Male
+191,Pain Management (Retired 1 April 2004),65-69,0,Male
+192,Intensive Care Medicine,65-69,1145,Male
+300,General Internal Medicine,65-69,191748,Male
+301,Gastroenterology,65-69,110694,Male
+302,Endocrinology and Diabetes,65-69,52628,Male
+303,Clinical Haematology,65-69,138696,Male
+304,Clinical Physiology,65-69,20753,Male
+305,Clinical Pharmacology,65-69,975,Male
+310,Audio Vestibular Medicine,65-69,18209,Male
+311,Clinical Genetics,65-69,1921,Male
+313,Clinical Immunology,65-69,2881,Male
+314,Rehabilitation Medicine,65-69,14897,Male
+315,Palliative Medicine,65-69,7284,Male
+317,Allergy,65-69,402,Male
+320,Cardiology,65-69,239566,Male
+321,Paediatric Cardiology,65-69,292,Male
+325,Sport and Exercise Medicine,65-69,471,Male
+326,Acute Internal Medicine,65-69,8008,Male
+330,Dermatology,65-69,129264,Male
+340,Respiratory Medicine,65-69,127441,Male
+350,Infectious Diseases,65-69,8445,Male
+352,Tropical Medicine,65-69,2,Male
+360,Genitourinary Medicine,65-69,2410,Male
+361,Renal Medicine,65-69,64927,Male
+370,Medical Oncology,65-69,109787,Male
+371,Nuclear Medicine,65-69,660,Male
+400,Neurology,65-69,67055,Male
+401,Clinical Neurophysiology,65-69,9507,Male
+410,Rheumatology,65-69,65328,Male
+420,Paediatrics,65-69,423,Male
+421,Paediatric Neurology,65-69,31,Male
+430,Geriatric Medicine,65-69,13769,Male
+450,Dental Medicine,65-69,6079,Male
+451,Special Care Dentistry,65-69,838,Male
+460,Medical Ophthalmology,65-69,2024,Male
+499,"Non-UK Provider; specialty function not known, treatment mainly medical",65-69,0,Male
+501,Obstetrics,65-69,289,Male
+502,Gynaecology,65-69,2781,Male
+504,Community Sexual and Reproductive Health,65-69,0,Male
+560,Midwifery,65-69,46,Male
+600,General Medical Practice,65-69,1899,Male
+601,General Dental Practice,65-69,160,Male
+700,Learning Disability,65-69,2360,Male
+710,Adult Mental Illness,65-69,31472,Male
+711,Child and Adolescent Psychiatry,65-69,430,Male
+712,Forensic Psychiatry,65-69,471,Male
+713,Medical Psychotherapy,65-69,891,Male
+715,Old Age Psychiatry,65-69,2399,Male
+800,Clinical Oncology,65-69,176332,Male
+810,Radiology,65-69,253707,Male
+820,General Pathology,65-69,130,Male
+821,Blood Transfusion,65-69,3,Male
+822,Chemical Pathology,65-69,5076,Male
+823,Haematology,65-69,25617,Male
+824,Histopathology,65-69,418,Male
+830,Immunopathology,65-69,205,Male
+831,Medical Microbiology and Virology,65-69,305,Male
+833,Medical Microbiology,65-69,105,Male
+834,Medical Virology,65-69,191,Male
+900,Community Medicine,65-69,12006,Male
+901,Occupational Medicine,65-69,1194,Male
+902,Community Health Services Dental,65-69,198,Male
+903,Public Health Medicine,65-69,22,Male
+950,Nursing,65-69,308991,Male
+960,Allied Health Professional,65-69,508538,Male
+990,Joint Consultant Clinics (Retired 1 April 2004),65-69,227,Male
+&,Not Known,70-74,5022,Male
+100,General Surgery,70-74,209038,Male
+101,Urology,70-74,316362,Male
+107,Vascular Surgery,70-74,5976,Male
+110,Trauma and Orthopaedics,70-74,313598,Male
+120,Ear Nose and Throat,70-74,115471,Male
+130,Ophthalmology,70-74,445117,Male
+140,Oral Surgery,70-74,25851,Male
+141,Restorative Dentistry,70-74,11578,Male
+142,Paediatric Dentistry,70-74,1,Male
+143,Orthodontics,70-74,1153,Male
+145,Oral and Maxillofacial Surgery,70-74,24096,Male
+146,Endodontics,70-74,1206,Male
+147,Periodontics,70-74,156,Male
+148,Prosthodontics,70-74,234,Male
+149,Surgical Dentistry,70-74,15,Male
+150,Neurosurgery,70-74,23174,Male
+160,Plastic Surgery,70-74,39433,Male
+170,Cardiothoracic Surgery,70-74,18111,Male
+171,Paediatric Surgery,70-74,148,Male
+180,Emergency Medicine,70-74,5863,Male
+190,Anaesthetics,70-74,69592,Male
+191,Pain Management (Retired 1 April 2004),70-74,2,Male
+192,Intensive Care Medicine,70-74,1034,Male
+300,General Internal Medicine,70-74,192045,Male
+301,Gastroenterology,70-74,98712,Male
+302,Endocrinology and Diabetes,70-74,47667,Male
+303,Clinical Haematology,70-74,150699,Male
+304,Clinical Physiology,70-74,21882,Male
+305,Clinical Pharmacology,70-74,831,Male
+310,Audio Vestibular Medicine,70-74,22450,Male
+311,Clinical Genetics,70-74,1549,Male
+313,Clinical Immunology,70-74,2389,Male
+314,Rehabilitation Medicine,70-74,13793,Male
+315,Palliative Medicine,70-74,8109,Male
+317,Allergy,70-74,300,Male
+320,Cardiology,70-74,250961,Male
+321,Paediatric Cardiology,70-74,249,Male
+325,Sport and Exercise Medicine,70-74,363,Male
+326,Acute Internal Medicine,70-74,7759,Male
+330,Dermatology,70-74,131976,Male
+340,Respiratory Medicine,70-74,127041,Male
+350,Infectious Diseases,70-74,6853,Male
+352,Tropical Medicine,70-74,0,Male
+360,Genitourinary Medicine,70-74,1370,Male
+361,Renal Medicine,70-74,64475,Male
+370,Medical Oncology,70-74,129490,Male
+371,Nuclear Medicine,70-74,744,Male
+400,Neurology,70-74,62505,Male
+401,Clinical Neurophysiology,70-74,7967,Male
+410,Rheumatology,70-74,60225,Male
+420,Paediatrics,70-74,441,Male
+421,Paediatric Neurology,70-74,19,Male
+430,Geriatric Medicine,70-74,17513,Male
+450,Dental Medicine,70-74,5313,Male
+451,Special Care Dentistry,70-74,712,Male
+460,Medical Ophthalmology,70-74,2261,Male
+499,"Non-UK Provider; specialty function not known, treatment mainly medical",70-74,0,Male
+501,Obstetrics,70-74,241,Male
+502,Gynaecology,70-74,2814,Male
+504,Community Sexual and Reproductive Health,70-74,0,Male
+560,Midwifery,70-74,65,Male
+600,General Medical Practice,70-74,2101,Male
+601,General Dental Practice,70-74,68,Male
+700,Learning Disability,70-74,1360,Male
+710,Adult Mental Illness,70-74,17071,Male
+711,Child and Adolescent Psychiatry,70-74,385,Male
+712,Forensic Psychiatry,70-74,201,Male
+713,Medical Psychotherapy,70-74,662,Male
+715,Old Age Psychiatry,70-74,7328,Male
+800,Clinical Oncology,70-74,231378,Male
+810,Radiology,70-74,240674,Male
+820,General Pathology,70-74,115,Male
+821,Blood Transfusion,70-74,2,Male
+822,Chemical Pathology,70-74,4376,Male
+823,Haematology,70-74,26093,Male
+824,Histopathology,70-74,385,Male
+830,Immunopathology,70-74,145,Male
+831,Medical Microbiology and Virology,70-74,419,Male
+833,Medical Microbiology,70-74,100,Male
+834,Medical Virology,70-74,91,Male
+900,Community Medicine,70-74,11773,Male
+901,Occupational Medicine,70-74,1003,Male
+902,Community Health Services Dental,70-74,155,Male
+903,Public Health Medicine,70-74,34,Male
+950,Nursing,70-74,332575,Male
+960,Allied Health Professional,70-74,521838,Male
+990,Joint Consultant Clinics (Retired 1 April 2004),70-74,147,Male
+&,Not Known,75-79,5074,Male
+100,General Surgery,75-79,207061,Male
+101,Urology,75-79,310208,Male
+107,Vascular Surgery,75-79,6524,Male
+110,Trauma and Orthopaedics,75-79,275714,Male
+120,Ear Nose and Throat,75-79,112187,Male
+130,Ophthalmology,75-79,510436,Male
+140,Oral Surgery,75-79,23467,Male
+141,Restorative Dentistry,75-79,10051,Male
+142,Paediatric Dentistry,75-79,0,Male
+143,Orthodontics,75-79,861,Male
+145,Oral and Maxillofacial Surgery,75-79,22908,Male
+146,Endodontics,75-79,888,Male
+147,Periodontics,75-79,99,Male
+148,Prosthodontics,75-79,167,Male
+149,Surgical Dentistry,75-79,7,Male
+150,Neurosurgery,75-79,19915,Male
+160,Plastic Surgery,75-79,43082,Male
+170,Cardiothoracic Surgery,75-79,19339,Male
+171,Paediatric Surgery,75-79,114,Male
+180,Emergency Medicine,75-79,5335,Male
+190,Anaesthetics,75-79,65177,Male
+191,Pain Management (Retired 1 April 2004),75-79,0,Male
+192,Intensive Care Medicine,75-79,993,Male
+300,General Internal Medicine,75-79,191435,Male
+301,Gastroenterology,75-79,88841,Male
+302,Endocrinology and Diabetes,75-79,39307,Male
+303,Clinical Haematology,75-79,160875,Male
+304,Clinical Physiology,75-79,23510,Male
+305,Clinical Pharmacology,75-79,1014,Male
+310,Audio Vestibular Medicine,75-79,28169,Male
+311,Clinical Genetics,75-79,1102,Male
+313,Clinical Immunology,75-79,1694,Male
+314,Rehabilitation Medicine,75-79,11828,Male
+315,Palliative Medicine,75-79,8816,Male
+317,Allergy,75-79,185,Male
+320,Cardiology,75-79,260252,Male
+321,Paediatric Cardiology,75-79,147,Male
+325,Sport and Exercise Medicine,75-79,279,Male
+326,Acute Internal Medicine,75-79,7831,Male
+330,Dermatology,75-79,142317,Male
+340,Respiratory Medicine,75-79,127457,Male
+350,Infectious Diseases,75-79,5172,Male
+352,Tropical Medicine,75-79,0,Male
+360,Genitourinary Medicine,75-79,711,Male
+361,Renal Medicine,75-79,63752,Male
+370,Medical Oncology,75-79,144898,Male
+371,Nuclear Medicine,75-79,713,Male
+400,Neurology,75-79,60017,Male
+401,Clinical Neurophysiology,75-79,7113,Male
+410,Rheumatology,75-79,56344,Male
+420,Paediatrics,75-79,391,Male
+421,Paediatric Neurology,75-79,13,Male
+430,Geriatric Medicine,75-79,24619,Male
+450,Dental Medicine,75-79,4307,Male
+451,Special Care Dentistry,75-79,525,Male
+460,Medical Ophthalmology,75-79,2194,Male
+499,"Non-UK Provider; specialty function not known, treatment mainly medical",75-79,0,Male
+501,Obstetrics,75-79,180,Male
+502,Gynaecology,75-79,2775,Male
+504,Community Sexual and Reproductive Health,75-79,0,Male
+560,Midwifery,75-79,106,Male
+600,General Medical Practice,75-79,1947,Male
+601,General Dental Practice,75-79,81,Male
+700,Learning Disability,75-79,1183,Male
+710,Adult Mental Illness,75-79,12145,Male
+711,Child and Adolescent Psychiatry,75-79,184,Male
+712,Forensic Psychiatry,75-79,129,Male
+713,Medical Psychotherapy,75-79,272,Male
+715,Old Age Psychiatry,75-79,9425,Male
+800,Clinical Oncology,75-79,260932,Male
+810,Radiology,75-79,223083,Male
+820,General Pathology,75-79,109,Male
+821,Blood Transfusion,75-79,15,Male
+822,Chemical Pathology,75-79,3642,Male
+823,Haematology,75-79,27445,Male
+824,Histopathology,75-79,391,Male
+830,Immunopathology,75-79,126,Male
+831,Medical Microbiology and Virology,75-79,380,Male
+833,Medical Microbiology,75-79,103,Male
+834,Medical Virology,75-79,62,Male
+900,Community Medicine,75-79,10965,Male
+901,Occupational Medicine,75-79,803,Male
+902,Community Health Services Dental,75-79,80,Male
+903,Public Health Medicine,75-79,19,Male
+950,Nursing,75-79,350864,Male
+960,Allied Health Professional,75-79,528151,Male
+990,Joint Consultant Clinics (Retired 1 April 2004),75-79,144,Male
+&,Not Known,80-84,6675,Male
+100,General Surgery,80-84,218994,Male
+101,Urology,80-84,336807,Male
+107,Vascular Surgery,80-84,7023,Male
+110,Trauma and Orthopaedics,80-84,265051,Male
+120,Ear Nose and Throat,80-84,116307,Male
+130,Ophthalmology,80-84,635717,Male
+140,Oral Surgery,80-84,24163,Male
+141,Restorative Dentistry,80-84,7996,Male
+142,Paediatric Dentistry,80-84,1,Male
+143,Orthodontics,80-84,765,Male
+145,Oral and Maxillofacial Surgery,80-84,24600,Male
+146,Endodontics,80-84,654,Male
+147,Periodontics,80-84,47,Male
+148,Prosthodontics,80-84,162,Male
+149,Surgical Dentistry,80-84,3,Male
+150,Neurosurgery,80-84,20054,Male
+160,Plastic Surgery,80-84,55518,Male
+170,Cardiothoracic Surgery,80-84,16190,Male
+171,Paediatric Surgery,80-84,106,Male
+180,Emergency Medicine,80-84,6028,Male
+190,Anaesthetics,80-84,66027,Male
+191,Pain Management (Retired 1 April 2004),80-84,3,Male
+192,Intensive Care Medicine,80-84,983,Male
+300,General Internal Medicine,80-84,220100,Male
+301,Gastroenterology,80-84,76108,Male
+302,Endocrinology and Diabetes,80-84,37008,Male
+303,Clinical Haematology,80-84,185276,Male
+304,Clinical Physiology,80-84,28443,Male
+305,Clinical Pharmacology,80-84,892,Male
+310,Audio Vestibular Medicine,80-84,37801,Male
+311,Clinical Genetics,80-84,856,Male
+313,Clinical Immunology,80-84,1443,Male
+314,Rehabilitation Medicine,80-84,11781,Male
+315,Palliative Medicine,80-84,11476,Male
+317,Allergy,80-84,145,Male
+320,Cardiology,80-84,303349,Male
+321,Paediatric Cardiology,80-84,114,Male
+325,Sport and Exercise Medicine,80-84,270,Male
+326,Acute Internal Medicine,80-84,8281,Male
+330,Dermatology,80-84,175317,Male
+340,Respiratory Medicine,80-84,127760,Male
+350,Infectious Diseases,80-84,4271,Male
+352,Tropical Medicine,80-84,1,Male
+360,Genitourinary Medicine,80-84,510,Male
+361,Renal Medicine,80-84,69819,Male
+370,Medical Oncology,80-84,150619,Male
+371,Nuclear Medicine,80-84,868,Male
+400,Neurology,80-84,62330,Male
+401,Clinical Neurophysiology,80-84,7126,Male
+410,Rheumatology,80-84,55584,Male
+420,Paediatrics,80-84,351,Male
+421,Paediatric Neurology,80-84,12,Male
+430,Geriatric Medicine,80-84,38647,Male
+450,Dental Medicine,80-84,3375,Male
+451,Special Care Dentistry,80-84,464,Male
+460,Medical Ophthalmology,80-84,2209,Male
+499,"Non-UK Provider; specialty function not known, treatment mainly medical",80-84,1,Male
+501,Obstetrics,80-84,171,Male
+502,Gynaecology,80-84,2768,Male
+504,Community Sexual and Reproductive Health,80-84,0,Male
+560,Midwifery,80-84,138,Male
+600,General Medical Practice,80-84,2396,Male
+601,General Dental Practice,80-84,30,Male
+700,Learning Disability,80-84,688,Male
+710,Adult Mental Illness,80-84,7392,Male
+711,Child and Adolescent Psychiatry,80-84,225,Male
+712,Forensic Psychiatry,80-84,84,Male
+713,Medical Psychotherapy,80-84,216,Male
+715,Old Age Psychiatry,80-84,14903,Male
+800,Clinical Oncology,80-84,292932,Male
+810,Radiology,80-84,224471,Male
+820,General Pathology,80-84,81,Male
+821,Blood Transfusion,80-84,1,Male
+822,Chemical Pathology,80-84,3052,Male
+823,Haematology,80-84,31586,Male
+824,Histopathology,80-84,442,Male
+830,Immunopathology,80-84,97,Male
+831,Medical Microbiology and Virology,80-84,243,Male
+833,Medical Microbiology,80-84,86,Male
+834,Medical Virology,80-84,34,Male
+900,Community Medicine,80-84,13318,Male
+901,Occupational Medicine,80-84,710,Male
+902,Community Health Services Dental,80-84,127,Male
+903,Public Health Medicine,80-84,20,Male
+950,Nursing,80-84,391903,Male
+960,Allied Health Professional,80-84,587568,Male
+990,Joint Consultant Clinics (Retired 1 April 2004),80-84,176,Male
+&,Not Known,85-89,5353,Male
+100,General Surgery,85-89,144945,Male
+101,Urology,85-89,205468,Male
+107,Vascular Surgery,85-89,5084,Male
+110,Trauma and Orthopaedics,85-89,145405,Male
+120,Ear Nose and Throat,85-89,77576,Male
+130,Ophthalmology,85-89,513258,Male
+140,Oral Surgery,85-89,17143,Male
+141,Restorative Dentistry,85-89,4455,Male
+142,Paediatric Dentistry,85-89,0,Male
+143,Orthodontics,85-89,418,Male
+145,Oral and Maxillofacial Surgery,85-89,18252,Male
+146,Endodontics,85-89,302,Male
+147,Periodontics,85-89,15,Male
+148,Prosthodontics,85-89,114,Male
+149,Surgical Dentistry,85-89,3,Male
+150,Neurosurgery,85-89,9918,Male
+160,Plastic Surgery,85-89,47129,Male
+170,Cardiothoracic Surgery,85-89,6778,Male
+171,Paediatric Surgery,85-89,70,Male
+180,Emergency Medicine,85-89,4526,Male
+190,Anaesthetics,85-89,39848,Male
+191,Pain Management (Retired 1 April 2004),85-89,5,Male
+192,Intensive Care Medicine,85-89,525,Male
+300,General Internal Medicine,85-89,177997,Male
+301,Gastroenterology,85-89,42543,Male
+302,Endocrinology and Diabetes,85-89,21306,Male
+303,Clinical Haematology,85-89,128732,Male
+304,Clinical Physiology,85-89,22799,Male
+305,Clinical Pharmacology,85-89,516,Male
+310,Audio Vestibular Medicine,85-89,30675,Male
+311,Clinical Genetics,85-89,381,Male
+313,Clinical Immunology,85-89,563,Male
+314,Rehabilitation Medicine,85-89,7064,Male
+315,Palliative Medicine,85-89,9145,Male
+317,Allergy,85-89,57,Male
+320,Cardiology,85-89,224501,Male
+321,Paediatric Cardiology,85-89,28,Male
+325,Sport and Exercise Medicine,85-89,128,Male
+326,Acute Internal Medicine,85-89,6072,Male
+330,Dermatology,85-89,136667,Male
+340,Respiratory Medicine,85-89,80748,Male
+350,Infectious Diseases,85-89,3055,Male
+352,Tropical Medicine,85-89,0,Male
+360,Genitourinary Medicine,85-89,295,Male
+361,Renal Medicine,85-89,50460,Male
+370,Medical Oncology,85-89,82104,Male
+371,Nuclear Medicine,85-89,580,Male
+400,Neurology,85-89,35628,Male
+401,Clinical Neurophysiology,85-89,4137,Male
+410,Rheumatology,85-89,32050,Male
+420,Paediatrics,85-89,262,Male
+421,Paediatric Neurology,85-89,6,Male
+430,Geriatric Medicine,85-89,37382,Male
+450,Dental Medicine,85-89,1769,Male
+451,Special Care Dentistry,85-89,188,Male
+460,Medical Ophthalmology,85-89,1844,Male
+499,"Non-UK Provider; specialty function not known, treatment mainly medical",85-89,0,Male
+501,Obstetrics,85-89,84,Male
+502,Gynaecology,85-89,1342,Male
+504,Community Sexual and Reproductive Health,85-89,0,Male
+560,Midwifery,85-89,150,Male
+600,General Medical Practice,85-89,1651,Male
+601,General Dental Practice,85-89,5,Male
+700,Learning Disability,85-89,324,Male
+710,Adult Mental Illness,85-89,4897,Male
+711,Child and Adolescent Psychiatry,85-89,162,Male
+712,Forensic Psychiatry,85-89,36,Male
+713,Medical Psychotherapy,85-89,59,Male
+715,Old Age Psychiatry,85-89,12357,Male
+800,Clinical Oncology,85-89,151498,Male
+810,Radiology,85-89,140572,Male
+820,General Pathology,85-89,37,Male
+821,Blood Transfusion,85-89,1,Male
+822,Chemical Pathology,85-89,1581,Male
+823,Haematology,85-89,22673,Male
+824,Histopathology,85-89,244,Male
+830,Immunopathology,85-89,66,Male
+831,Medical Microbiology and Virology,85-89,140,Male
+833,Medical Microbiology,85-89,47,Male
+834,Medical Virology,85-89,23,Male
+900,Community Medicine,85-89,12632,Male
+901,Occupational Medicine,85-89,340,Male
+902,Community Health Services Dental,85-89,85,Male
+903,Public Health Medicine,85-89,2,Male
+950,Nursing,85-89,271657,Male
+960,Allied Health Professional,85-89,390885,Male
+990,Joint Consultant Clinics (Retired 1 April 2004),85-89,116,Male
+&,Not Known,90-120,3835,Male
+100,General Surgery,90-120,79972,Male
+101,Urology,90-120,115961,Male
+107,Vascular Surgery,90-120,2737,Male
+110,Trauma and Orthopaedics,90-120,66270,Male
+120,Ear Nose and Throat,90-120,45516,Male
+130,Ophthalmology,90-120,338543,Male
+140,Oral Surgery,90-120,10558,Male
+141,Restorative Dentistry,90-120,2138,Male
+142,Paediatric Dentistry,90-120,0,Male
+143,Orthodontics,90-120,274,Male
+145,Oral and Maxillofacial Surgery,90-120,12980,Male
+146,Endodontics,90-120,155,Male
+147,Periodontics,90-120,18,Male
+148,Prosthodontics,90-120,54,Male
+149,Surgical Dentistry,90-120,10,Male
+150,Neurosurgery,90-120,4059,Male
+160,Plastic Surgery,90-120,35377,Male
+170,Cardiothoracic Surgery,90-120,1839,Male
+171,Paediatric Surgery,90-120,35,Male
+180,Emergency Medicine,90-120,3155,Male
+190,Anaesthetics,90-120,18466,Male
+191,Pain Management (Retired 1 April 2004),90-120,0,Male
+192,Intensive Care Medicine,90-120,254,Male
+300,General Internal Medicine,90-120,129671,Male
+301,Gastroenterology,90-120,20110,Male
+302,Endocrinology and Diabetes,90-120,11386,Male
+303,Clinical Haematology,90-120,72960,Male
+304,Clinical Physiology,90-120,15169,Male
+305,Clinical Pharmacology,90-120,211,Male
+310,Audio Vestibular Medicine,90-120,21792,Male
+311,Clinical Genetics,90-120,164,Male
+313,Clinical Immunology,90-120,214,Male
+314,Rehabilitation Medicine,90-120,3908,Male
+315,Palliative Medicine,90-120,6540,Male
+317,Allergy,90-120,17,Male
+320,Cardiology,90-120,140332,Male
+321,Paediatric Cardiology,90-120,13,Male
+325,Sport and Exercise Medicine,90-120,61,Male
+326,Acute Internal Medicine,90-120,3904,Male
+330,Dermatology,90-120,93820,Male
+340,Respiratory Medicine,90-120,37966,Male
+350,Infectious Diseases,90-120,1359,Male
+352,Tropical Medicine,90-120,0,Male
+360,Genitourinary Medicine,90-120,178,Male
+361,Renal Medicine,90-120,29380,Male
+370,Medical Oncology,90-120,31383,Male
+371,Nuclear Medicine,90-120,292,Male
+400,Neurology,90-120,16537,Male
+401,Clinical Neurophysiology,90-120,1974,Male
+410,Rheumatology,90-120,14520,Male
+420,Paediatrics,90-120,150,Male
+421,Paediatric Neurology,90-120,2,Male
+430,Geriatric Medicine,90-120,27426,Male
+450,Dental Medicine,90-120,827,Male
+451,Special Care Dentistry,90-120,100,Male
+460,Medical Ophthalmology,90-120,1212,Male
+499,"Non-UK Provider; specialty function not known, treatment mainly medical",90-120,0,Male
+501,Obstetrics,90-120,21,Male
+502,Gynaecology,90-120,616,Male
+504,Community Sexual and Reproductive Health,90-120,0,Male
+560,Midwifery,90-120,88,Male
+600,General Medical Practice,90-120,1013,Male
+601,General Dental Practice,90-120,3,Male
+700,Learning Disability,90-120,138,Male
+710,Adult Mental Illness,90-120,3321,Male
+711,Child and Adolescent Psychiatry,90-120,95,Male
+712,Forensic Psychiatry,90-120,46,Male
+713,Medical Psychotherapy,90-120,18,Male
+715,Old Age Psychiatry,90-120,10596,Male
+800,Clinical Oncology,90-120,59177,Male
+810,Radiology,90-120,75153,Male
+820,General Pathology,90-120,24,Male
+821,Blood Transfusion,90-120,0,Male
+822,Chemical Pathology,90-120,662,Male
+823,Haematology,90-120,12967,Male
+824,Histopathology,90-120,130,Male
+830,Immunopathology,90-120,25,Male
+831,Medical Microbiology and Virology,90-120,125,Male
+833,Medical Microbiology,90-120,18,Male
+834,Medical Virology,90-120,9,Male
+900,Community Medicine,90-120,9440,Male
+901,Occupational Medicine,90-120,202,Male
+902,Community Health Services Dental,90-120,92,Male
+903,Public Health Medicine,90-120,10,Male
+950,Nursing,90-120,165899,Male
+960,Allied Health Professional,90-120,234175,Male
+990,Joint Consultant Clinics (Retired 1 April 2004),90-120,38,Male
+&,Not Known,Unknown,1484,Male
+100,General Surgery,Unknown,24064,Male
+101,Urology,Unknown,41272,Male
+107,Vascular Surgery,Unknown,843,Male
+110,Trauma and Orthopaedics,Unknown,19267,Male
+120,Ear Nose and Throat,Unknown,18842,Male
+130,Ophthalmology,Unknown,144060,Male
+140,Oral Surgery,Unknown,4701,Male
+141,Restorative Dentistry,Unknown,712,Male
+142,Paediatric Dentistry,Unknown,0,Male
+143,Orthodontics,Unknown,81,Male
+145,Oral and Maxillofacial Surgery,Unknown,6047,Male
+146,Endodontics,Unknown,16,Male
+147,Periodontics,Unknown,3,Male
+148,Prosthodontics,Unknown,11,Male
+149,Surgical Dentistry,Unknown,0,Male
+150,Neurosurgery,Unknown,855,Male
+160,Plastic Surgery,Unknown,16487,Male
+170,Cardiothoracic Surgery,Unknown,299,Male
+171,Paediatric Surgery,Unknown,18,Male
+180,Emergency Medicine,Unknown,1506,Male
+190,Anaesthetics,Unknown,4891,Male
+191,Pain Management (Retired 1 April 2004),Unknown,1,Male
+192,Intensive Care Medicine,Unknown,66,Male
+300,General Internal Medicine,Unknown,83997,Male
+301,Gastroenterology,Unknown,5262,Male
+302,Endocrinology and Diabetes,Unknown,3697,Male
+303,Clinical Haematology,Unknown,25299,Male
+304,Clinical Physiology,Unknown,7037,Male
+305,Clinical Pharmacology,Unknown,58,Male
+310,Audio Vestibular Medicine,Unknown,11141,Male
+311,Clinical Genetics,Unknown,24,Male
+313,Clinical Immunology,Unknown,59,Male
+314,Rehabilitation Medicine,Unknown,1838,Male
+315,Palliative Medicine,Unknown,3487,Male
+317,Allergy,Unknown,1,Male
+320,Cardiology,Unknown,55738,Male
+321,Paediatric Cardiology,Unknown,0,Male
+325,Sport and Exercise Medicine,Unknown,12,Male
+326,Acute Internal Medicine,Unknown,1721,Male
+330,Dermatology,Unknown,43355,Male
+340,Respiratory Medicine,Unknown,9764,Male
+350,Infectious Diseases,Unknown,409,Male
+352,Tropical Medicine,Unknown,0,Male
+360,Genitourinary Medicine,Unknown,100,Male
+361,Renal Medicine,Unknown,9042,Male
+370,Medical Oncology,Unknown,6713,Male
+371,Nuclear Medicine,Unknown,50,Male
+400,Neurology,Unknown,4144,Male
+401,Clinical Neurophysiology,Unknown,484,Male
+410,Rheumatology,Unknown,3946,Male
+420,Paediatrics,Unknown,55,Male
+421,Paediatric Neurology,Unknown,0,Male
+430,Geriatric Medicine,Unknown,11941,Male
+450,Dental Medicine,Unknown,223,Male
+451,Special Care Dentistry,Unknown,58,Male
+460,Medical Ophthalmology,Unknown,811,Male
+499,"Non-UK Provider; specialty function not known, treatment mainly medical",Unknown,0,Male
+501,Obstetrics,Unknown,11,Male
+502,Gynaecology,Unknown,196,Male
+504,Community Sexual and Reproductive Health,Unknown,0,Male
+560,Midwifery,Unknown,14,Male
+600,General Medical Practice,Unknown,407,Male
+601,General Dental Practice,Unknown,0,Male
+700,Learning Disability,Unknown,14,Male
+710,Adult Mental Illness,Unknown,1241,Male
+711,Child and Adolescent Psychiatry,Unknown,32,Male
+712,Forensic Psychiatry,Unknown,10,Male
+713,Medical Psychotherapy,Unknown,2,Male
+715,Old Age Psychiatry,Unknown,4549,Male
+800,Clinical Oncology,Unknown,15256,Male
+810,Radiology,Unknown,23738,Male
+820,General Pathology,Unknown,7,Male
+821,Blood Transfusion,Unknown,0,Male
+822,Chemical Pathology,Unknown,120,Male
+823,Haematology,Unknown,5728,Male
+824,Histopathology,Unknown,48,Male
+830,Immunopathology,Unknown,6,Male
+831,Medical Microbiology and Virology,Unknown,26,Male
+833,Medical Microbiology,Unknown,10,Male
+834,Medical Virology,Unknown,1,Male
+900,Community Medicine,Unknown,7348,Male
+901,Occupational Medicine,Unknown,45,Male
+902,Community Health Services Dental,Unknown,87,Male
+903,Public Health Medicine,Unknown,2,Male
+950,Nursing,Unknown,74240,Male
+960,Allied Health Professional,Unknown,98075,Male
+990,Joint Consultant Clinics (Retired 1 April 2004),Unknown,14,Male

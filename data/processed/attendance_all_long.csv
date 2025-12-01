@@ -1,0 +1,2137 @@
+Main_Specialty_Code,Main_Specialty_Desc,Age_Group,Attendance_Count,Gender
+&,Not Known,0,32968,All
+100,General Surgery,0,4371,All
+101,Urology,0,2989,All
+107,Vascular Surgery,0,3,All
+110,Trauma and Orthopaedics,0,48340,All
+120,Ear Nose and Throat,0,21799,All
+130,Ophthalmology,0,39569,All
+140,Oral Surgery,0,4453,All
+141,Restorative Dentistry,0,3,All
+142,Paediatric Dentistry,0,438,All
+143,Orthodontics,0,150,All
+145,Oral and Maxillofacial Surgery,0,3757,All
+146,Endodontics,0,0,All
+147,Periodontics,0,0,All
+148,Prosthodontics,0,0,All
+149,Surgical Dentistry,0,0,All
+150,Neurosurgery,0,3107,All
+160,Plastic Surgery,0,12764,All
+170,Cardiothoracic Surgery,0,862,All
+171,Paediatric Surgery,0,22992,All
+180,Emergency Medicine,0,4554,All
+190,Anaesthetics,0,2075,All
+191,Pain Management (Retired 1 April 2004),0,0,All
+192,Intensive Care Medicine,0,697,All
+300,General Internal Medicine,0,66448,All
+301,Gastroenterology,0,770,All
+302,Endocrinology and Diabetes,0,2038,All
+303,Clinical Haematology,0,2042,All
+304,Clinical Physiology,0,625,All
+305,Clinical Pharmacology,0,0,All
+310,Audio Vestibular Medicine,0,7815,All
+311,Clinical Genetics,0,3402,All
+313,Clinical Immunology,0,1232,All
+314,Rehabilitation Medicine,0,31,All
+315,Palliative Medicine,0,1461,All
+317,Allergy,0,601,All
+320,Cardiology,0,6270,All
+321,Paediatric Cardiology,0,19601,All
+325,Sport and Exercise Medicine,0,0,All
+326,Acute Internal Medicine,0,11,All
+330,Dermatology,0,14693,All
+340,Respiratory Medicine,0,3781,All
+350,Infectious Diseases,0,217,All
+352,Tropical Medicine,0,0,All
+360,Genitourinary Medicine,0,36,All
+361,Renal Medicine,0,950,All
+370,Medical Oncology,0,340,All
+371,Nuclear Medicine,0,40,All
+400,Neurology,0,2815,All
+401,Clinical Neurophysiology,0,1654,All
+410,Rheumatology,0,54,All
+420,Paediatrics,0,418760,All
+421,Paediatric Neurology,0,1990,All
+430,Geriatric Medicine,0,8,All
+450,Dental Medicine,0,42,All
+451,Special Care Dentistry,0,5,All
+460,Medical Ophthalmology,0,67,All
+499,"Non-UK Provider; specialty function not known, treatment mainly medical",0,0,All
+500,Obstetrics and Gynaecology,0,0,All
+501,Obstetrics,0,15244,All
+502,Gynaecology,0,873,All
+504,Community Sexual and Reproductive Health,0,0,All
+560,Midwifery,0,215535,All
+600,General Medical Practice,0,543,All
+601,General Dental Practice,0,0,All
+700,Learning Disability,0,0,All
+710,Adult Mental Illness,0,965,All
+711,Child and Adolescent Psychiatry,0,621,All
+712,Forensic Psychiatry,0,0,All
+713,Medical Psychotherapy,0,216,All
+715,Old Age Psychiatry,0,0,All
+800,Clinical Oncology,0,1749,All
+810,Radiology,0,45581,All
+820,General Pathology,0,1,All
+821,Blood Transfusion,0,0,All
+822,Chemical Pathology,0,25,All
+823,Haematology,0,585,All
+824,Histopathology,0,1,All
+830,Immunopathology,0,0,All
+831,Medical Microbiology and Virology,0,0,All
+833,Medical Microbiology,0,0,All
+834,Medical Virology,0,0,All
+900,Community Medicine,0,1124,All
+901,Occupational Medicine,0,26,All
+902,Community Health Services Dental,0,33,All
+903,Public Health Medicine,0,16,All
+950,Nursing,0,69169,All
+960,Allied Health Professional,0,129102,All
+990,Joint Consultant Clinics (Retired 1 April 2004),0,0,All
+&,Not Known,1-4,65204,All
+100,General Surgery,1-4,9458,All
+101,Urology,1-4,11368,All
+107,Vascular Surgery,1-4,69,All
+110,Trauma and Orthopaedics,1-4,113779,All
+120,Ear Nose and Throat,1-4,133951,All
+130,Ophthalmology,1-4,208649,All
+140,Oral Surgery,1-4,3963,All
+141,Restorative Dentistry,1-4,23,All
+142,Paediatric Dentistry,1-4,11667,All
+143,Orthodontics,1-4,522,All
+145,Oral and Maxillofacial Surgery,1-4,3702,All
+146,Endodontics,1-4,0,All
+147,Periodontics,1-4,0,All
+148,Prosthodontics,1-4,2,All
+149,Surgical Dentistry,1-4,0,All
+150,Neurosurgery,1-4,6908,All
+160,Plastic Surgery,1-4,41461,All
+170,Cardiothoracic Surgery,1-4,882,All
+171,Paediatric Surgery,1-4,37759,All
+180,Emergency Medicine,1-4,14935,All
+190,Anaesthetics,1-4,10449,All
+191,Pain Management (Retired 1 April 2004),1-4,0,All
+192,Intensive Care Medicine,1-4,3516,All
+300,General Internal Medicine,1-4,71329,All
+301,Gastroenterology,1-4,4594,All
+302,Endocrinology and Diabetes,1-4,5685,All
+303,Clinical Haematology,1-4,8632,All
+304,Clinical Physiology,1-4,894,All
+305,Clinical Pharmacology,1-4,8,All
+310,Audio Vestibular Medicine,1-4,47102,All
+311,Clinical Genetics,1-4,9485,All
+313,Clinical Immunology,1-4,3334,All
+314,Rehabilitation Medicine,1-4,1601,All
+315,Palliative Medicine,1-4,3259,All
+317,Allergy,1-4,2501,All
+320,Cardiology,1-4,8051,All
+321,Paediatric Cardiology,1-4,26465,All
+325,Sport and Exercise Medicine,1-4,0,All
+326,Acute Internal Medicine,1-4,18,All
+330,Dermatology,1-4,48137,All
+340,Respiratory Medicine,1-4,5133,All
+350,Infectious Diseases,1-4,797,All
+352,Tropical Medicine,1-4,0,All
+360,Genitourinary Medicine,1-4,259,All
+361,Renal Medicine,1-4,3209,All
+370,Medical Oncology,1-4,2481,All
+371,Nuclear Medicine,1-4,98,All
+400,Neurology,1-4,4356,All
+401,Clinical Neurophysiology,1-4,4811,All
+410,Rheumatology,1-4,1505,All
+420,Paediatrics,1-4,679585,All
+421,Paediatric Neurology,1-4,8997,All
+430,Geriatric Medicine,1-4,33,All
+450,Dental Medicine,1-4,742,All
+451,Special Care Dentistry,1-4,176,All
+460,Medical Ophthalmology,1-4,372,All
+499,"Non-UK Provider; specialty function not known, treatment mainly medical",1-4,0,All
+500,Obstetrics and Gynaecology,1-4,0,All
+501,Obstetrics,1-4,938,All
+502,Gynaecology,1-4,653,All
+504,Community Sexual and Reproductive Health,1-4,0,All
+560,Midwifery,1-4,88,All
+600,General Medical Practice,1-4,1184,All
+601,General Dental Practice,1-4,1,All
+700,Learning Disability,1-4,165,All
+710,Adult Mental Illness,1-4,770,All
+711,Child and Adolescent Psychiatry,1-4,3877,All
+712,Forensic Psychiatry,1-4,4,All
+713,Medical Psychotherapy,1-4,407,All
+715,Old Age Psychiatry,1-4,0,All
+800,Clinical Oncology,1-4,1153,All
+810,Radiology,1-4,39324,All
+820,General Pathology,1-4,1,All
+821,Blood Transfusion,1-4,0,All
+822,Chemical Pathology,1-4,77,All
+823,Haematology,1-4,2070,All
+824,Histopathology,1-4,1,All
+830,Immunopathology,1-4,0,All
+831,Medical Microbiology and Virology,1-4,0,All
+833,Medical Microbiology,1-4,0,All
+834,Medical Virology,1-4,4,All
+900,Community Medicine,1-4,5680,All
+901,Occupational Medicine,1-4,456,All
+902,Community Health Services Dental,1-4,156,All
+903,Public Health Medicine,1-4,46,All
+950,Nursing,1-4,123636,All
+960,Allied Health Professional,1-4,334022,All
+990,Joint Consultant Clinics (Retired 1 April 2004),1-4,0,All
+&,Not Known,5-9,24212,All
+100,General Surgery,5-9,12301,All
+101,Urology,5-9,17902,All
+107,Vascular Surgery,5-9,116,All
+110,Trauma and Orthopaedics,5-9,218763,All
+120,Ear Nose and Throat,5-9,205289,All
+130,Ophthalmology,5-9,305488,All
+140,Oral Surgery,5-9,9415,All
+141,Restorative Dentistry,5-9,473,All
+142,Paediatric Dentistry,5-9,46300,All
+143,Orthodontics,5-9,9868,All
+145,Oral and Maxillofacial Surgery,5-9,6168,All
+146,Endodontics,5-9,0,All
+147,Periodontics,5-9,0,All
+148,Prosthodontics,5-9,27,All
+149,Surgical Dentistry,5-9,0,All
+150,Neurosurgery,5-9,6738,All
+160,Plastic Surgery,5-9,32735,All
+170,Cardiothoracic Surgery,5-9,672,All
+171,Paediatric Surgery,5-9,35473,All
+180,Emergency Medicine,5-9,12244,All
+190,Anaesthetics,5-9,13236,All
+191,Pain Management (Retired 1 April 2004),5-9,0,All
+192,Intensive Care Medicine,5-9,4131,All
+300,General Internal Medicine,5-9,41640,All
+301,Gastroenterology,5-9,7751,All
+302,Endocrinology and Diabetes,5-9,9716,All
+303,Clinical Haematology,5-9,13792,All
+304,Clinical Physiology,5-9,1770,All
+305,Clinical Pharmacology,5-9,8,All
+310,Audio Vestibular Medicine,5-9,40584,All
+311,Clinical Genetics,5-9,9064,All
+313,Clinical Immunology,5-9,3498,All
+314,Rehabilitation Medicine,5-9,3894,All
+315,Palliative Medicine,5-9,3181,All
+317,Allergy,5-9,2584,All
+320,Cardiology,5-9,10815,All
+321,Paediatric Cardiology,5-9,30766,All
+325,Sport and Exercise Medicine,5-9,109,All
+326,Acute Internal Medicine,5-9,100,All
+330,Dermatology,5-9,62939,All
+340,Respiratory Medicine,5-9,9255,All
+350,Infectious Diseases,5-9,590,All
+352,Tropical Medicine,5-9,0,All
+360,Genitourinary Medicine,5-9,1260,All
+361,Renal Medicine,5-9,4923,All
+370,Medical Oncology,5-9,3740,All
+371,Nuclear Medicine,5-9,111,All
+400,Neurology,5-9,6527,All
+401,Clinical Neurophysiology,5-9,5152,All
+410,Rheumatology,5-9,4677,All
+420,Paediatrics,5-9,780333,All
+421,Paediatric Neurology,5-9,13057,All
+430,Geriatric Medicine,5-9,15,All
+450,Dental Medicine,5-9,3534,All
+451,Special Care Dentistry,5-9,1346,All
+460,Medical Ophthalmology,5-9,762,All
+499,"Non-UK Provider; specialty function not known, treatment mainly medical",5-9,0,All
+500,Obstetrics and Gynaecology,5-9,0,All
+501,Obstetrics,5-9,275,All
+502,Gynaecology,5-9,1410,All
+504,Community Sexual and Reproductive Health,5-9,0,All
+560,Midwifery,5-9,81,All
+600,General Medical Practice,5-9,1115,All
+601,General Dental Practice,5-9,173,All
+700,Learning Disability,5-9,2721,All
+710,Adult Mental Illness,5-9,8097,All
+711,Child and Adolescent Psychiatry,5-9,43028,All
+712,Forensic Psychiatry,5-9,8,All
+713,Medical Psychotherapy,5-9,2264,All
+715,Old Age Psychiatry,5-9,1,All
+800,Clinical Oncology,5-9,1746,All
+810,Radiology,5-9,68054,All
+820,General Pathology,5-9,0,All
+821,Blood Transfusion,5-9,0,All
+822,Chemical Pathology,5-9,86,All
+823,Haematology,5-9,2644,All
+824,Histopathology,5-9,2,All
+830,Immunopathology,5-9,1,All
+831,Medical Microbiology and Virology,5-9,2,All
+833,Medical Microbiology,5-9,1,All
+834,Medical Virology,5-9,46,All
+900,Community Medicine,5-9,8223,All
+901,Occupational Medicine,5-9,725,All
+902,Community Health Services Dental,5-9,520,All
+903,Public Health Medicine,5-9,50,All
+950,Nursing,5-9,168749,All
+960,Allied Health Professional,5-9,433266,All
+990,Joint Consultant Clinics (Retired 1 April 2004),5-9,0,All
+&,Not Known,10-14,33615,All
+100,General Surgery,10-14,15927,All
+101,Urology,10-14,17975,All
+107,Vascular Surgery,10-14,140,All
+110,Trauma and Orthopaedics,10-14,401184,All
+120,Ear Nose and Throat,10-14,121044,All
+130,Ophthalmology,10-14,135556,All
+140,Oral Surgery,10-14,24284,All
+141,Restorative Dentistry,10-14,2087,All
+142,Paediatric Dentistry,10-14,37012,All
+143,Orthodontics,10-14,143949,All
+145,Oral and Maxillofacial Surgery,10-14,18309,All
+146,Endodontics,10-14,24,All
+147,Periodontics,10-14,16,All
+148,Prosthodontics,10-14,35,All
+149,Surgical Dentistry,10-14,0,All
+150,Neurosurgery,10-14,7476,All
+160,Plastic Surgery,10-14,47372,All
+170,Cardiothoracic Surgery,10-14,998,All
+171,Paediatric Surgery,10-14,33409,All
+180,Emergency Medicine,10-14,14595,All
+190,Anaesthetics,10-14,11015,All
+191,Pain Management (Retired 1 April 2004),10-14,0,All
+192,Intensive Care Medicine,10-14,3264,All
+300,General Internal Medicine,10-14,37048,All
+301,Gastroenterology,10-14,12433,All
+302,Endocrinology and Diabetes,10-14,14183,All
+303,Clinical Haematology,10-14,15164,All
+304,Clinical Physiology,10-14,2229,All
+305,Clinical Pharmacology,10-14,32,All
+310,Audio Vestibular Medicine,10-14,20305,All
+311,Clinical Genetics,10-14,7185,All
+313,Clinical Immunology,10-14,3419,All
+314,Rehabilitation Medicine,10-14,6799,All
+315,Palliative Medicine,10-14,3008,All
+317,Allergy,10-14,2185,All
+320,Cardiology,10-14,16795,All
+321,Paediatric Cardiology,10-14,36123,All
+325,Sport and Exercise Medicine,10-14,346,All
+326,Acute Internal Medicine,10-14,166,All
+330,Dermatology,10-14,85357,All
+340,Respiratory Medicine,10-14,10496,All
+350,Infectious Diseases,10-14,549,All
+352,Tropical Medicine,10-14,0,All
+360,Genitourinary Medicine,10-14,641,All
+361,Renal Medicine,10-14,6553,All
+370,Medical Oncology,10-14,4484,All
+371,Nuclear Medicine,10-14,113,All
+400,Neurology,10-14,6954,All
+401,Clinical Neurophysiology,10-14,5332,All
+410,Rheumatology,10-14,9658,All
+420,Paediatrics,10-14,745441,All
+421,Paediatric Neurology,10-14,14772,All
+430,Geriatric Medicine,10-14,25,All
+450,Dental Medicine,10-14,11732,All
+451,Special Care Dentistry,10-14,1480,All
+460,Medical Ophthalmology,10-14,371,All
+499,"Non-UK Provider; specialty function not known, treatment mainly medical",10-14,0,All
+500,Obstetrics and Gynaecology,10-14,0,All
+501,Obstetrics,10-14,1868,All
+502,Gynaecology,10-14,5828,All
+504,Community Sexual and Reproductive Health,10-14,0,All
+560,Midwifery,10-14,710,All
+600,General Medical Practice,10-14,1261,All
+601,General Dental Practice,10-14,1322,All
+700,Learning Disability,10-14,4557,All
+710,Adult Mental Illness,10-14,31097,All
+711,Child and Adolescent Psychiatry,10-14,156339,All
+712,Forensic Psychiatry,10-14,187,All
+713,Medical Psychotherapy,10-14,4009,All
+715,Old Age Psychiatry,10-14,80,All
+800,Clinical Oncology,10-14,1685,All
+810,Radiology,10-14,109989,All
+820,General Pathology,10-14,4,All
+821,Blood Transfusion,10-14,0,All
+822,Chemical Pathology,10-14,157,All
+823,Haematology,10-14,3240,All
+824,Histopathology,10-14,1,All
+830,Immunopathology,10-14,1,All
+831,Medical Microbiology and Virology,10-14,1,All
+833,Medical Microbiology,10-14,0,All
+834,Medical Virology,10-14,25,All
+900,Community Medicine,10-14,11931,All
+901,Occupational Medicine,10-14,2013,All
+902,Community Health Services Dental,10-14,228,All
+903,Public Health Medicine,10-14,93,All
+950,Nursing,10-14,152317,All
+960,Allied Health Professional,10-14,465499,All
+990,Joint Consultant Clinics (Retired 1 April 2004),10-14,2,All
+&,Not Known,15,8262,All
+100,General Surgery,15,5350,All
+101,Urology,15,3079,All
+107,Vascular Surgery,15,40,All
+110,Trauma and Orthopaedics,15,83365,All
+120,Ear Nose and Throat,15,22111,All
+130,Ophthalmology,15,25121,All
+140,Oral Surgery,15,9174,All
+141,Restorative Dentistry,15,1334,All
+142,Paediatric Dentistry,15,5592,All
+143,Orthodontics,15,63372,All
+145,Oral and Maxillofacial Surgery,15,6759,All
+146,Endodontics,15,25,All
+147,Periodontics,15,14,All
+148,Prosthodontics,15,16,All
+149,Surgical Dentistry,15,0,All
+150,Neurosurgery,15,1870,All
+160,Plastic Surgery,15,10388,All
+170,Cardiothoracic Surgery,15,401,All
+171,Paediatric Surgery,15,7134,All
+180,Emergency Medicine,15,2600,All
+190,Anaesthetics,15,2661,All
+191,Pain Management (Retired 1 April 2004),15,0,All
+192,Intensive Care Medicine,15,681,All
+300,General Internal Medicine,15,8655,All
+301,Gastroenterology,15,3702,All
+302,Endocrinology and Diabetes,15,3737,All
+303,Clinical Haematology,15,3194,All
+304,Clinical Physiology,15,638,All
+305,Clinical Pharmacology,15,4,All
+310,Audio Vestibular Medicine,15,3408,All
+311,Clinical Genetics,15,1389,All
+313,Clinical Immunology,15,856,All
+314,Rehabilitation Medicine,15,2105,All
+315,Palliative Medicine,15,747,All
+317,Allergy,15,402,All
+320,Cardiology,15,4960,All
+321,Paediatric Cardiology,15,9361,All
+325,Sport and Exercise Medicine,15,187,All
+326,Acute Internal Medicine,15,75,All
+330,Dermatology,15,28019,All
+340,Respiratory Medicine,15,2066,All
+350,Infectious Diseases,15,122,All
+352,Tropical Medicine,15,0,All
+360,Genitourinary Medicine,15,186,All
+361,Renal Medicine,15,1561,All
+370,Medical Oncology,15,1095,All
+371,Nuclear Medicine,15,24,All
+400,Neurology,15,1624,All
+401,Clinical Neurophysiology,15,1319,All
+410,Rheumatology,15,2910,All
+420,Paediatrics,15,151597,All
+421,Paediatric Neurology,15,3378,All
+430,Geriatric Medicine,15,20,All
+450,Dental Medicine,15,4084,All
+451,Special Care Dentistry,15,269,All
+460,Medical Ophthalmology,15,91,All
+499,"Non-UK Provider; specialty function not known, treatment mainly medical",15,0,All
+500,Obstetrics and Gynaecology,15,0,All
+501,Obstetrics,15,2376,All
+502,Gynaecology,15,4575,All
+504,Community Sexual and Reproductive Health,15,0,All
+560,Midwifery,15,1478,All
+600,General Medical Practice,15,418,All
+601,General Dental Practice,15,607,All
+700,Learning Disability,15,775,All
+710,Adult Mental Illness,15,11158,All
+711,Child and Adolescent Psychiatry,15,62503,All
+712,Forensic Psychiatry,15,124,All
+713,Medical Psychotherapy,15,849,All
+715,Old Age Psychiatry,15,45,All
+800,Clinical Oncology,15,431,All
+810,Radiology,15,28197,All
+820,General Pathology,15,1,All
+821,Blood Transfusion,15,0,All
+822,Chemical Pathology,15,38,All
+823,Haematology,15,737,All
+824,Histopathology,15,0,All
+830,Immunopathology,15,0,All
+831,Medical Microbiology and Virology,15,2,All
+833,Medical Microbiology,15,0,All
+834,Medical Virology,15,8,All
+900,Community Medicine,15,2778,All
+901,Occupational Medicine,15,599,All
+902,Community Health Services Dental,15,28,All
+903,Public Health Medicine,15,34,All
+950,Nursing,15,32310,All
+960,Allied Health Professional,15,114170,All
+990,Joint Consultant Clinics (Retired 1 April 2004),15,1,All
+&,Not Known,16,8395,All
+100,General Surgery,16,9773,All
+101,Urology,16,4865,All
+107,Vascular Surgery,16,55,All
+110,Trauma and Orthopaedics,16,67142,All
+120,Ear Nose and Throat,16,22155,All
+130,Ophthalmology,16,23873,All
+140,Oral Surgery,16,9594,All
+141,Restorative Dentistry,16,2241,All
+142,Paediatric Dentistry,16,2652,All
+143,Orthodontics,16,66365,All
+145,Oral and Maxillofacial Surgery,16,7399,All
+146,Endodontics,16,77,All
+147,Periodontics,16,26,All
+148,Prosthodontics,16,52,All
+149,Surgical Dentistry,16,9,All
+150,Neurosurgery,16,1970,All
+160,Plastic Surgery,16,8976,All
+170,Cardiothoracic Surgery,16,631,All
+171,Paediatric Surgery,16,4323,All
+180,Emergency Medicine,16,2218,All
+190,Anaesthetics,16,4573,All
+191,Pain Management (Retired 1 April 2004),16,0,All
+192,Intensive Care Medicine,16,621,All
+300,General Internal Medicine,16,11635,All
+301,Gastroenterology,16,6431,All
+302,Endocrinology and Diabetes,16,4527,All
+303,Clinical Haematology,16,4215,All
+304,Clinical Physiology,16,956,All
+305,Clinical Pharmacology,16,17,All
+310,Audio Vestibular Medicine,16,3160,All
+311,Clinical Genetics,16,1523,All
+313,Clinical Immunology,16,963,All
+314,Rehabilitation Medicine,16,2223,All
+315,Palliative Medicine,16,609,All
+317,Allergy,16,640,All
+320,Cardiology,16,8491,All
+321,Paediatric Cardiology,16,7303,All
+325,Sport and Exercise Medicine,16,145,All
+326,Acute Internal Medicine,16,621,All
+330,Dermatology,16,32627,All
+340,Respiratory Medicine,16,3806,All
+350,Infectious Diseases,16,405,All
+352,Tropical Medicine,16,0,All
+360,Genitourinary Medicine,16,313,All
+361,Renal Medicine,16,2244,All
+370,Medical Oncology,16,1283,All
+371,Nuclear Medicine,16,30,All
+400,Neurology,16,6022,All
+401,Clinical Neurophysiology,16,1385,All
+410,Rheumatology,16,4131,All
+420,Paediatrics,16,107884,All
+421,Paediatric Neurology,16,2708,All
+430,Geriatric Medicine,16,139,All
+450,Dental Medicine,16,4539,All
+451,Special Care Dentistry,16,387,All
+460,Medical Ophthalmology,16,153,All
+499,"Non-UK Provider; specialty function not known, treatment mainly medical",16,0,All
+500,Obstetrics and Gynaecology,16,0,All
+501,Obstetrics,16,5218,All
+502,Gynaecology,16,7868,All
+504,Community Sexual and Reproductive Health,16,3,All
+560,Midwifery,16,4930,All
+600,General Medical Practice,16,376,All
+601,General Dental Practice,16,557,All
+700,Learning Disability,16,786,All
+710,Adult Mental Illness,16,8944,All
+711,Child and Adolescent Psychiatry,16,65002,All
+712,Forensic Psychiatry,16,178,All
+713,Medical Psychotherapy,16,846,All
+715,Old Age Psychiatry,16,42,All
+800,Clinical Oncology,16,661,All
+810,Radiology,16,27366,All
+820,General Pathology,16,10,All
+821,Blood Transfusion,16,0,All
+822,Chemical Pathology,16,113,All
+823,Haematology,16,863,All
+824,Histopathology,16,26,All
+830,Immunopathology,16,30,All
+831,Medical Microbiology and Virology,16,5,All
+833,Medical Microbiology,16,3,All
+834,Medical Virology,16,29,All
+900,Community Medicine,16,2134,All
+901,Occupational Medicine,16,569,All
+902,Community Health Services Dental,16,13,All
+903,Public Health Medicine,16,95,All
+950,Nursing,16,29586,All
+960,Allied Health Professional,16,101287,All
+990,Joint Consultant Clinics (Retired 1 April 2004),16,5,All
+&,Not Known,17,7254,All
+100,General Surgery,17,12548,All
+101,Urology,17,6610,All
+107,Vascular Surgery,17,52,All
+110,Trauma and Orthopaedics,17,57602,All
+120,Ear Nose and Throat,17,20950,All
+130,Ophthalmology,17,22182,All
+140,Oral Surgery,17,8914,All
+141,Restorative Dentistry,17,2952,All
+142,Paediatric Dentistry,17,1079,All
+143,Orthodontics,17,64489,All
+145,Oral and Maxillofacial Surgery,17,6756,All
+146,Endodontics,17,110,All
+147,Periodontics,17,33,All
+148,Prosthodontics,17,37,All
+149,Surgical Dentistry,17,5,All
+150,Neurosurgery,17,1934,All
+160,Plastic Surgery,17,8012,All
+170,Cardiothoracic Surgery,17,722,All
+171,Paediatric Surgery,17,2110,All
+180,Emergency Medicine,17,2301,All
+190,Anaesthetics,17,4924,All
+191,Pain Management (Retired 1 April 2004),17,0,All
+192,Intensive Care Medicine,17,359,All
+300,General Internal Medicine,17,15122,All
+301,Gastroenterology,17,10494,All
+302,Endocrinology and Diabetes,17,5709,All
+303,Clinical Haematology,17,6071,All
+304,Clinical Physiology,17,1221,All
+305,Clinical Pharmacology,17,24,All
+310,Audio Vestibular Medicine,17,2813,All
+311,Clinical Genetics,17,1326,All
+313,Clinical Immunology,17,1519,All
+314,Rehabilitation Medicine,17,2213,All
+315,Palliative Medicine,17,372,All
+317,Allergy,17,735,All
+320,Cardiology,17,13073,All
+321,Paediatric Cardiology,17,4407,All
+325,Sport and Exercise Medicine,17,170,All
+326,Acute Internal Medicine,17,782,All
+330,Dermatology,17,34774,All
+340,Respiratory Medicine,17,6259,All
+350,Infectious Diseases,17,612,All
+352,Tropical Medicine,17,0,All
+360,Genitourinary Medicine,17,358,All
+361,Renal Medicine,17,3173,All
+370,Medical Oncology,17,1680,All
+371,Nuclear Medicine,17,38,All
+400,Neurology,17,11205,All
+401,Clinical Neurophysiology,17,1386,All
+410,Rheumatology,17,5448,All
+420,Paediatrics,17,60767,All
+421,Paediatric Neurology,17,1485,All
+430,Geriatric Medicine,17,315,All
+450,Dental Medicine,17,4332,All
+451,Special Care Dentistry,17,331,All
+460,Medical Ophthalmology,17,199,All
+499,"Non-UK Provider; specialty function not known, treatment mainly medical",17,0,All
+500,Obstetrics and Gynaecology,17,2,All
+501,Obstetrics,17,10543,All
+502,Gynaecology,17,12811,All
+504,Community Sexual and Reproductive Health,17,2,All
+560,Midwifery,17,11632,All
+600,General Medical Practice,17,429,All
+601,General Dental Practice,17,579,All
+700,Learning Disability,17,745,All
+710,Adult Mental Illness,17,9603,All
+711,Child and Adolescent Psychiatry,17,63511,All
+712,Forensic Psychiatry,17,174,All
+713,Medical Psychotherapy,17,723,All
+715,Old Age Psychiatry,17,49,All
+800,Clinical Oncology,17,839,All
+810,Radiology,17,28172,All
+820,General Pathology,17,7,All
+821,Blood Transfusion,17,0,All
+822,Chemical Pathology,17,215,All
+823,Haematology,17,922,All
+824,Histopathology,17,96,All
+830,Immunopathology,17,63,All
+831,Medical Microbiology and Virology,17,2,All
+833,Medical Microbiology,17,2,All
+834,Medical Virology,17,54,All
+900,Community Medicine,17,1590,All
+901,Occupational Medicine,17,427,All
+902,Community Health Services Dental,17,6,All
+903,Public Health Medicine,17,147,All
+950,Nursing,17,28151,All
+960,Allied Health Professional,17,91825,All
+990,Joint Consultant Clinics (Retired 1 April 2004),17,6,All
+&,Not Known,18,2737,All
+100,General Surgery,18,14934,All
+101,Urology,18,7194,All
+107,Vascular Surgery,18,57,All
+110,Trauma and Orthopaedics,18,49253,All
+120,Ear Nose and Throat,18,19544,All
+130,Ophthalmology,18,20498,All
+140,Oral Surgery,18,7793,All
+141,Restorative Dentistry,18,3024,All
+142,Paediatric Dentistry,18,449,All
+143,Orthodontics,18,50846,All
+145,Oral and Maxillofacial Surgery,18,6400,All
+146,Endodontics,18,178,All
+147,Periodontics,18,23,All
+148,Prosthodontics,18,80,All
+149,Surgical Dentistry,18,12,All
+150,Neurosurgery,18,1887,All
+160,Plastic Surgery,18,7633,All
+170,Cardiothoracic Surgery,18,703,All
+171,Paediatric Surgery,18,606,All
+180,Emergency Medicine,18,2544,All
+190,Anaesthetics,18,5260,All
+191,Pain Management (Retired 1 April 2004),18,0,All
+192,Intensive Care Medicine,18,194,All
+300,General Internal Medicine,18,16649,All
+301,Gastroenterology,18,12108,All
+302,Endocrinology and Diabetes,18,6575,All
+303,Clinical Haematology,18,7561,All
+304,Clinical Physiology,18,1352,All
+305,Clinical Pharmacology,18,35,All
+310,Audio Vestibular Medicine,18,2199,All
+311,Clinical Genetics,18,1334,All
+313,Clinical Immunology,18,1861,All
+314,Rehabilitation Medicine,18,1868,All
+315,Palliative Medicine,18,356,All
+317,Allergy,18,666,All
+320,Cardiology,18,14446,All
+321,Paediatric Cardiology,18,1571,All
+325,Sport and Exercise Medicine,18,114,All
+326,Acute Internal Medicine,18,1200,All
+330,Dermatology,18,31320,All
+340,Respiratory Medicine,18,6773,All
+350,Infectious Diseases,18,752,All
+352,Tropical Medicine,18,0,All
+360,Genitourinary Medicine,18,344,All
+361,Renal Medicine,18,3725,All
+370,Medical Oncology,18,1757,All
+371,Nuclear Medicine,18,34,All
+400,Neurology,18,13305,All
+401,Clinical Neurophysiology,18,1403,All
+410,Rheumatology,18,5668,All
+420,Paediatrics,18,20353,All
+421,Paediatric Neurology,18,549,All
+430,Geriatric Medicine,18,350,All
+450,Dental Medicine,18,3811,All
+451,Special Care Dentistry,18,284,All
+460,Medical Ophthalmology,18,183,All
+499,"Non-UK Provider; specialty function not known, treatment mainly medical",18,0,All
+500,Obstetrics and Gynaecology,18,5,All
+501,Obstetrics,18,18010,All
+502,Gynaecology,18,19944,All
+504,Community Sexual and Reproductive Health,18,3,All
+560,Midwifery,18,24091,All
+600,General Medical Practice,18,358,All
+601,General Dental Practice,18,393,All
+700,Learning Disability,18,1906,All
+710,Adult Mental Illness,18,17583,All
+711,Child and Adolescent Psychiatry,18,17198,All
+712,Forensic Psychiatry,18,94,All
+713,Medical Psychotherapy,18,436,All
+715,Old Age Psychiatry,18,32,All
+800,Clinical Oncology,18,1559,All
+810,Radiology,18,28734,All
+820,General Pathology,18,18,All
+821,Blood Transfusion,18,0,All
+822,Chemical Pathology,18,293,All
+823,Haematology,18,1102,All
+824,Histopathology,18,65,All
+830,Immunopathology,18,118,All
+831,Medical Microbiology and Virology,18,15,All
+833,Medical Microbiology,18,12,All
+834,Medical Virology,18,71,All
+900,Community Medicine,18,1081,All
+901,Occupational Medicine,18,301,All
+902,Community Health Services Dental,18,7,All
+903,Public Health Medicine,18,0,All
+950,Nursing,18,25678,All
+960,Allied Health Professional,18,64412,All
+990,Joint Consultant Clinics (Retired 1 April 2004),18,6,All
+&,Not Known,20-24,1941,All
+100,General Surgery,20-24,16191,All
+101,Urology,20-24,7416,All
+107,Vascular Surgery,20-24,58,All
+110,Trauma and Orthopaedics,20-24,46118,All
+120,Ear Nose and Throat,20-24,18705,All
+130,Ophthalmology,20-24,18939,All
+140,Oral Surgery,20-24,6955,All
+141,Restorative Dentistry,20-24,2822,All
+142,Paediatric Dentistry,20-24,158,All
+143,Orthodontics,20-24,36822,All
+145,Oral and Maxillofacial Surgery,20-24,5542,All
+146,Endodontics,20-24,115,All
+147,Periodontics,20-24,41,All
+148,Prosthodontics,20-24,54,All
+149,Surgical Dentistry,20-24,7,All
+150,Neurosurgery,20-24,1839,All
+160,Plastic Surgery,20-24,8164,All
+170,Cardiothoracic Surgery,20-24,612,All
+171,Paediatric Surgery,20-24,195,All
+180,Emergency Medicine,20-24,2767,All
+190,Anaesthetics,20-24,5432,All
+191,Pain Management (Retired 1 April 2004),20-24,0,All
+192,Intensive Care Medicine,20-24,126,All
+300,General Internal Medicine,20-24,17988,All
+301,Gastroenterology,20-24,12812,All
+302,Endocrinology and Diabetes,20-24,7532,All
+303,Clinical Haematology,20-24,8257,All
+304,Clinical Physiology,20-24,1320,All
+305,Clinical Pharmacology,20-24,59,All
+310,Audio Vestibular Medicine,20-24,1832,All
+311,Clinical Genetics,20-24,1256,All
+313,Clinical Immunology,20-24,1908,All
+314,Rehabilitation Medicine,20-24,1716,All
+315,Palliative Medicine,20-24,191,All
+317,Allergy,20-24,453,All
+320,Cardiology,20-24,14393,All
+321,Paediatric Cardiology,20-24,733,All
+325,Sport and Exercise Medicine,20-24,113,All
+326,Acute Internal Medicine,20-24,1240,All
+330,Dermatology,20-24,28939,All
+340,Respiratory Medicine,20-24,6607,All
+350,Infectious Diseases,20-24,710,All
+352,Tropical Medicine,20-24,0,All
+360,Genitourinary Medicine,20-24,563,All
+361,Renal Medicine,20-24,3836,All
+370,Medical Oncology,20-24,1637,All
+371,Nuclear Medicine,20-24,36,All
+400,Neurology,20-24,14248,All
+401,Clinical Neurophysiology,20-24,1451,All
+410,Rheumatology,20-24,5597,All
+420,Paediatrics,20-24,4616,All
+421,Paediatric Neurology,20-24,181,All
+430,Geriatric Medicine,20-24,491,All
+450,Dental Medicine,20-24,3094,All
+451,Special Care Dentistry,20-24,190,All
+460,Medical Ophthalmology,20-24,137,All
+499,"Non-UK Provider; specialty function not known, treatment mainly medical",20-24,0,All
+500,Obstetrics and Gynaecology,20-24,1,All
+501,Obstetrics,20-24,30792,All
+502,Gynaecology,20-24,28404,All
+504,Community Sexual and Reproductive Health,20-24,1,All
+560,Midwifery,20-24,42060,All
+600,General Medical Practice,20-24,336,All
+601,General Dental Practice,20-24,283,All
+700,Learning Disability,20-24,1719,All
+710,Adult Mental Illness,20-24,18917,All
+711,Child and Adolescent Psychiatry,20-24,8675,All
+712,Forensic Psychiatry,20-24,83,All
+713,Medical Psychotherapy,20-24,299,All
+715,Old Age Psychiatry,20-24,50,All
+800,Clinical Oncology,20-24,1518,All
+810,Radiology,20-24,30088,All
+820,General Pathology,20-24,10,All
+821,Blood Transfusion,20-24,0,All
+822,Chemical Pathology,20-24,293,All
+823,Haematology,20-24,1106,All
+824,Histopathology,20-24,116,All
+830,Immunopathology,20-24,129,All
+831,Medical Microbiology and Virology,20-24,3,All
+833,Medical Microbiology,20-24,10,All
+834,Medical Virology,20-24,80,All
+900,Community Medicine,20-24,690,All
+901,Occupational Medicine,20-24,330,All
+902,Community Health Services Dental,20-24,150,All
+903,Public Health Medicine,20-24,0,All
+950,Nursing,20-24,25272,All
+960,Allied Health Professional,20-24,57628,All
+990,Joint Consultant Clinics (Retired 1 April 2004),20-24,8,All
+&,Not Known,25-29,8445,All
+100,General Surgery,25-29,112158,All
+101,Urology,25-29,45090,All
+107,Vascular Surgery,25-29,431,All
+110,Trauma and Orthopaedics,25-29,236819,All
+120,Ear Nose and Throat,25-29,92731,All
+130,Ophthalmology,25-29,108698,All
+140,Oral Surgery,25-29,38991,All
+141,Restorative Dentistry,25-29,13731,All
+142,Paediatric Dentistry,25-29,474,All
+143,Orthodontics,25-29,76088,All
+145,Oral and Maxillofacial Surgery,25-29,28435,All
+146,Endodontics,25-29,1133,All
+147,Periodontics,25-29,270,All
+148,Prosthodontics,25-29,190,All
+149,Surgical Dentistry,25-29,22,All
+150,Neurosurgery,25-29,9542,All
+160,Plastic Surgery,25-29,42163,All
+170,Cardiothoracic Surgery,25-29,2484,All
+171,Paediatric Surgery,25-29,281,All
+180,Emergency Medicine,25-29,13928,All
+190,Anaesthetics,25-29,35432,All
+191,Pain Management (Retired 1 April 2004),25-29,0,All
+192,Intensive Care Medicine,25-29,345,All
+300,General Internal Medicine,25-29,105512,All
+301,Gastroenterology,25-29,78639,All
+302,Endocrinology and Diabetes,25-29,46053,All
+303,Clinical Haematology,25-29,44168,All
+304,Clinical Physiology,25-29,7559,All
+305,Clinical Pharmacology,25-29,345,All
+310,Audio Vestibular Medicine,25-29,7494,All
+311,Clinical Genetics,25-29,6223,All
+313,Clinical Immunology,25-29,9074,All
+314,Rehabilitation Medicine,25-29,8842,All
+315,Palliative Medicine,25-29,684,All
+317,Allergy,25-29,2338,All
+320,Cardiology,25-29,74349,All
+321,Paediatric Cardiology,25-29,2351,All
+325,Sport and Exercise Medicine,25-29,892,All
+326,Acute Internal Medicine,25-29,7837,All
+330,Dermatology,25-29,155611,All
+340,Respiratory Medicine,25-29,40294,All
+350,Infectious Diseases,25-29,6131,All
+352,Tropical Medicine,25-29,0,All
+360,Genitourinary Medicine,25-29,3536,All
+361,Renal Medicine,25-29,20280,All
+370,Medical Oncology,25-29,9783,All
+371,Nuclear Medicine,25-29,349,All
+400,Neurology,25-29,73880,All
+401,Clinical Neurophysiology,25-29,7051,All
+410,Rheumatology,25-29,32789,All
+420,Paediatrics,25-29,6590,All
+421,Paediatric Neurology,25-29,208,All
+430,Geriatric Medicine,25-29,2631,All
+450,Dental Medicine,25-29,9690,All
+451,Special Care Dentistry,25-29,1011,All
+460,Medical Ophthalmology,25-29,1058,All
+499,"Non-UK Provider; specialty function not known, treatment mainly medical",25-29,0,All
+500,Obstetrics and Gynaecology,25-29,19,All
+501,Obstetrics,25-29,294444,All
+502,Gynaecology,25-29,252378,All
+504,Community Sexual and Reproductive Health,25-29,25,All
+560,Midwifery,25-29,444223,All
+600,General Medical Practice,25-29,1666,All
+601,General Dental Practice,25-29,577,All
+700,Learning Disability,25-29,7395,All
+710,Adult Mental Illness,25-29,103901,All
+711,Child and Adolescent Psychiatry,25-29,38757,All
+712,Forensic Psychiatry,25-29,707,All
+713,Medical Psychotherapy,25-29,2144,All
+715,Old Age Psychiatry,25-29,611,All
+800,Clinical Oncology,25-29,9777,All
+810,Radiology,25-29,199676,All
+820,General Pathology,25-29,131,All
+821,Blood Transfusion,25-29,0,All
+822,Chemical Pathology,25-29,1942,All
+823,Haematology,25-29,6037,All
+824,Histopathology,25-29,398,All
+830,Immunopathology,25-29,591,All
+831,Medical Microbiology and Virology,25-29,67,All
+833,Medical Microbiology,25-29,115,All
+834,Medical Virology,25-29,419,All
+900,Community Medicine,25-29,4387,All
+901,Occupational Medicine,25-29,1827,All
+902,Community Health Services Dental,25-29,553,All
+903,Public Health Medicine,25-29,0,All
+950,Nursing,25-29,149508,All
+960,Allied Health Professional,25-29,338474,All
+990,Joint Consultant Clinics (Retired 1 April 2004),25-29,44,All
+&,Not Known,30-34,16229,All
+100,General Surgery,30-34,189317,All
+101,Urology,30-34,64327,All
+107,Vascular Surgery,30-34,820,All
+110,Trauma and Orthopaedics,30-34,277321,All
+120,Ear Nose and Throat,30-34,118944,All
+130,Ophthalmology,30-34,150438,All
+140,Oral Surgery,30-34,51971,All
+141,Restorative Dentistry,30-34,12362,All
+142,Paediatric Dentistry,30-34,41,All
+143,Orthodontics,30-34,18031,All
+145,Oral and Maxillofacial Surgery,30-34,34914,All
+146,Endodontics,30-34,1394,All
+147,Periodontics,30-34,322,All
+148,Prosthodontics,30-34,224,All
+149,Surgical Dentistry,30-34,9,All
+150,Neurosurgery,30-34,14130,All
+160,Plastic Surgery,30-34,47868,All
+170,Cardiothoracic Surgery,30-34,2791,All
+171,Paediatric Surgery,30-34,208,All
+180,Emergency Medicine,30-34,15192,All
+190,Anaesthetics,30-34,56357,All
+191,Pain Management (Retired 1 April 2004),30-34,1,All
+192,Intensive Care Medicine,30-34,605,All
+300,General Internal Medicine,30-34,157936,All
+301,Gastroenterology,30-34,114189,All
+302,Endocrinology and Diabetes,30-34,69073,All
+303,Clinical Haematology,30-34,54508,All
+304,Clinical Physiology,30-34,10058,All
+305,Clinical Pharmacology,30-34,662,All
+310,Audio Vestibular Medicine,30-34,9160,All
+311,Clinical Genetics,30-34,10420,All
+313,Clinical Immunology,30-34,9390,All
+314,Rehabilitation Medicine,30-34,12071,All
+315,Palliative Medicine,30-34,978,All
+317,Allergy,30-34,2915,All
+320,Cardiology,30-34,88862,All
+321,Paediatric Cardiology,30-34,3465,All
+325,Sport and Exercise Medicine,30-34,909,All
+326,Acute Internal Medicine,30-34,10191,All
+330,Dermatology,30-34,192740,All
+340,Respiratory Medicine,30-34,62896,All
+350,Infectious Diseases,30-34,9559,All
+352,Tropical Medicine,30-34,0,All
+360,Genitourinary Medicine,30-34,3772,All
+361,Renal Medicine,30-34,28764,All
+370,Medical Oncology,30-34,18594,All
+371,Nuclear Medicine,30-34,466,All
+400,Neurology,30-34,92324,All
+401,Clinical Neurophysiology,30-34,8654,All
+410,Rheumatology,30-34,53428,All
+420,Paediatrics,30-34,6724,All
+421,Paediatric Neurology,30-34,142,All
+430,Geriatric Medicine,30-34,3475,All
+450,Dental Medicine,30-34,7173,All
+451,Special Care Dentistry,30-34,975,All
+460,Medical Ophthalmology,30-34,1404,All
+499,"Non-UK Provider; specialty function not known, treatment mainly medical",30-34,0,All
+500,Obstetrics and Gynaecology,30-34,39,All
+501,Obstetrics,30-34,664250,All
+502,Gynaecology,30-34,532238,All
+504,Community Sexual and Reproductive Health,30-34,27,All
+560,Midwifery,30-34,1032768,All
+600,General Medical Practice,30-34,1903,All
+601,General Dental Practice,30-34,237,All
+700,Learning Disability,30-34,7022,All
+710,Adult Mental Illness,30-34,117976,All
+711,Child and Adolescent Psychiatry,30-34,11155,All
+712,Forensic Psychiatry,30-34,883,All
+713,Medical Psychotherapy,30-34,2657,All
+715,Old Age Psychiatry,30-34,593,All
+800,Clinical Oncology,30-34,18028,All
+810,Radiology,30-34,330855,All
+820,General Pathology,30-34,284,All
+821,Blood Transfusion,30-34,0,All
+822,Chemical Pathology,30-34,3343,All
+823,Haematology,30-34,9338,All
+824,Histopathology,30-34,255,All
+830,Immunopathology,30-34,707,All
+831,Medical Microbiology and Virology,30-34,137,All
+833,Medical Microbiology,30-34,115,All
+834,Medical Virology,30-34,518,All
+900,Community Medicine,30-34,6609,All
+901,Occupational Medicine,30-34,2576,All
+902,Community Health Services Dental,30-34,484,All
+903,Public Health Medicine,30-34,3,All
+950,Nursing,30-34,224500,All
+960,Allied Health Professional,30-34,492462,All
+990,Joint Consultant Clinics (Retired 1 April 2004),30-34,20,All
+&,Not Known,35-39,22333,All
+100,General Surgery,35-39,279990,All
+101,Urology,35-39,82134,All
+107,Vascular Surgery,35-39,1451,All
+110,Trauma and Orthopaedics,35-39,311784,All
+120,Ear Nose and Throat,35-39,148578,All
+130,Ophthalmology,35-39,188186,All
+140,Oral Surgery,35-39,54167,All
+141,Restorative Dentistry,35-39,13303,All
+142,Paediatric Dentistry,35-39,23,All
+143,Orthodontics,35-39,11106,All
+145,Oral and Maxillofacial Surgery,35-39,36477,All
+146,Endodontics,35-39,1478,All
+147,Periodontics,35-39,425,All
+148,Prosthodontics,35-39,172,All
+149,Surgical Dentistry,35-39,27,All
+150,Neurosurgery,35-39,21099,All
+160,Plastic Surgery,35-39,52405,All
+170,Cardiothoracic Surgery,35-39,3461,All
+171,Paediatric Surgery,35-39,321,All
+180,Emergency Medicine,35-39,16031,All
+190,Anaesthetics,35-39,79003,All
+191,Pain Management (Retired 1 April 2004),35-39,0,All
+192,Intensive Care Medicine,35-39,808,All
+300,General Internal Medicine,35-39,220331,All
+301,Gastroenterology,35-39,144360,All
+302,Endocrinology and Diabetes,35-39,91768,All
+303,Clinical Haematology,35-39,69860,All
+304,Clinical Physiology,35-39,12703,All
+305,Clinical Pharmacology,35-39,1096,All
+310,Audio Vestibular Medicine,35-39,11704,All
+311,Clinical Genetics,35-39,14846,All
+313,Clinical Immunology,35-39,9972,All
+314,Rehabilitation Medicine,35-39,14126,All
+315,Palliative Medicine,35-39,1278,All
+317,Allergy,35-39,2707,All
+320,Cardiology,35-39,110645,All
+321,Paediatric Cardiology,35-39,4733,All
+325,Sport and Exercise Medicine,35-39,926,All
+326,Acute Internal Medicine,35-39,12124,All
+330,Dermatology,35-39,207457,All
+340,Respiratory Medicine,35-39,86848,All
+350,Infectious Diseases,35-39,13014,All
+352,Tropical Medicine,35-39,0,All
+360,Genitourinary Medicine,35-39,4418,All
+361,Renal Medicine,35-39,42189,All
+370,Medical Oncology,35-39,34729,All
+371,Nuclear Medicine,35-39,695,All
+400,Neurology,35-39,110914,All
+401,Clinical Neurophysiology,35-39,11514,All
+410,Rheumatology,35-39,79912,All
+420,Paediatrics,35-39,7831,All
+421,Paediatric Neurology,35-39,146,All
+430,Geriatric Medicine,35-39,4763,All
+450,Dental Medicine,35-39,7548,All
+451,Special Care Dentistry,35-39,1132,All
+460,Medical Ophthalmology,35-39,1473,All
+499,"Non-UK Provider; specialty function not known, treatment mainly medical",35-39,0,All
+500,Obstetrics and Gynaecology,35-39,53,All
+501,Obstetrics,35-39,927865,All
+502,Gynaecology,35-39,699337,All
+504,Community Sexual and Reproductive Health,35-39,36,All
+560,Midwifery,35-39,1443558,All
+600,General Medical Practice,35-39,2153,All
+601,General Dental Practice,35-39,232,All
+700,Learning Disability,35-39,5747,All
+710,Adult Mental Illness,35-39,116808,All
+711,Child and Adolescent Psychiatry,35-39,6641,All
+712,Forensic Psychiatry,35-39,1655,All
+713,Medical Psychotherapy,35-39,3062,All
+715,Old Age Psychiatry,35-39,640,All
+800,Clinical Oncology,35-39,34606,All
+810,Radiology,35-39,433282,All
+820,General Pathology,35-39,411,All
+821,Blood Transfusion,35-39,0,All
+822,Chemical Pathology,35-39,5275,All
+823,Haematology,35-39,12660,All
+824,Histopathology,35-39,383,All
+830,Immunopathology,35-39,629,All
+831,Medical Microbiology and Virology,35-39,273,All
+833,Medical Microbiology,35-39,92,All
+834,Medical Virology,35-39,590,All
+900,Community Medicine,35-39,9192,All
+901,Occupational Medicine,35-39,2643,All
+902,Community Health Services Dental,35-39,451,All
+903,Public Health Medicine,35-39,7,All
+950,Nursing,35-39,286438,All
+960,Allied Health Professional,35-39,625445,All
+990,Joint Consultant Clinics (Retired 1 April 2004),35-39,34,All
+&,Not Known,40-44,20296,All
+100,General Surgery,40-44,341869,All
+101,Urology,40-44,97140,All
+107,Vascular Surgery,40-44,2164,All
+110,Trauma and Orthopaedics,40-44,344773,All
+120,Ear Nose and Throat,40-44,166740,All
+130,Ophthalmology,40-44,211366,All
+140,Oral Surgery,40-44,50212,All
+141,Restorative Dentistry,40-44,14862,All
+142,Paediatric Dentistry,40-44,8,All
+143,Orthodontics,40-44,8295,All
+145,Oral and Maxillofacial Surgery,40-44,36327,All
+146,Endodontics,40-44,1833,All
+147,Periodontics,40-44,507,All
+148,Prosthodontics,40-44,281,All
+149,Surgical Dentistry,40-44,8,All
+150,Neurosurgery,40-44,27663,All
+160,Plastic Surgery,40-44,54978,All
+170,Cardiothoracic Surgery,40-44,4282,All
+171,Paediatric Surgery,40-44,320,All
+180,Emergency Medicine,40-44,15389,All
+190,Anaesthetics,40-44,93467,All
+191,Pain Management (Retired 1 April 2004),40-44,3,All
+192,Intensive Care Medicine,40-44,800,All
+300,General Internal Medicine,40-44,229666,All
+301,Gastroenterology,40-44,164122,All
+302,Endocrinology and Diabetes,40-44,93360,All
+303,Clinical Haematology,40-44,82005,All
+304,Clinical Physiology,40-44,15338,All
+305,Clinical Pharmacology,40-44,1436,All
+310,Audio Vestibular Medicine,40-44,14168,All
+311,Clinical Genetics,40-44,13741,All
+313,Clinical Immunology,40-44,9263,All
+314,Rehabilitation Medicine,40-44,17176,All
+315,Palliative Medicine,40-44,2424,All
+317,Allergy,40-44,2368,All
+320,Cardiology,40-44,131523,All
+321,Paediatric Cardiology,40-44,3643,All
+325,Sport and Exercise Medicine,40-44,1139,All
+326,Acute Internal Medicine,40-44,12556,All
+330,Dermatology,40-44,203041,All
+340,Respiratory Medicine,40-44,104845,All
+350,Infectious Diseases,40-44,13842,All
+352,Tropical Medicine,40-44,0,All
+360,Genitourinary Medicine,40-44,4708,All
+361,Renal Medicine,40-44,55135,All
+370,Medical Oncology,40-44,58461,All
+371,Nuclear Medicine,40-44,863,All
+400,Neurology,40-44,115560,All
+401,Clinical Neurophysiology,40-44,13741,All
+410,Rheumatology,40-44,104576,All
+420,Paediatrics,40-44,5157,All
+421,Paediatric Neurology,40-44,126,All
+430,Geriatric Medicine,40-44,5742,All
+450,Dental Medicine,40-44,8829,All
+451,Special Care Dentistry,40-44,1172,All
+460,Medical Ophthalmology,40-44,1678,All
+499,"Non-UK Provider; specialty function not known, treatment mainly medical",40-44,0,All
+500,Obstetrics and Gynaecology,40-44,75,All
+501,Obstetrics,40-44,605202,All
+502,Gynaecology,40-44,584945,All
+504,Community Sexual and Reproductive Health,40-44,29,All
+560,Midwifery,40-44,880368,All
+600,General Medical Practice,40-44,2174,All
+601,General Dental Practice,40-44,254,All
+700,Learning Disability,40-44,4612,All
+710,Adult Mental Illness,40-44,114333,All
+711,Child and Adolescent Psychiatry,40-44,4422,All
+712,Forensic Psychiatry,40-44,1108,All
+713,Medical Psychotherapy,40-44,3348,All
+715,Old Age Psychiatry,40-44,909,All
+800,Clinical Oncology,40-44,62625,All
+810,Radiology,40-44,440710,All
+820,General Pathology,40-44,396,All
+821,Blood Transfusion,40-44,0,All
+822,Chemical Pathology,40-44,6776,All
+823,Haematology,40-44,15933,All
+824,Histopathology,40-44,358,All
+830,Immunopathology,40-44,603,All
+831,Medical Microbiology and Virology,40-44,185,All
+833,Medical Microbiology,40-44,126,All
+834,Medical Virology,40-44,592,All
+900,Community Medicine,40-44,10939,All
+901,Occupational Medicine,40-44,2484,All
+902,Community Health Services Dental,40-44,369,All
+903,Public Health Medicine,40-44,3,All
+950,Nursing,40-44,299560,All
+960,Allied Health Professional,40-44,640500,All
+990,Joint Consultant Clinics (Retired 1 April 2004),40-44,59,All
+&,Not Known,45-49,14745,All
+100,General Surgery,45-49,388779,All
+101,Urology,45-49,108394,All
+107,Vascular Surgery,45-49,2740,All
+110,Trauma and Orthopaedics,45-49,374805,All
+120,Ear Nose and Throat,45-49,171507,All
+130,Ophthalmology,45-49,246527,All
+140,Oral Surgery,45-49,45470,All
+141,Restorative Dentistry,45-49,15699,All
+142,Paediatric Dentistry,45-49,34,All
+143,Orthodontics,45-49,6059,All
+145,Oral and Maxillofacial Surgery,45-49,36127,All
+146,Endodontics,45-49,1837,All
+147,Periodontics,45-49,713,All
+148,Prosthodontics,45-49,225,All
+149,Surgical Dentistry,45-49,6,All
+150,Neurosurgery,45-49,32823,All
+160,Plastic Surgery,45-49,59420,All
+170,Cardiothoracic Surgery,45-49,5600,All
+171,Paediatric Surgery,45-49,436,All
+180,Emergency Medicine,45-49,14500,All
+190,Anaesthetics,45-49,101304,All
+191,Pain Management (Retired 1 April 2004),45-49,3,All
+192,Intensive Care Medicine,45-49,875,All
+300,General Internal Medicine,45-49,206677,All
+301,Gastroenterology,45-49,174106,All
+302,Endocrinology and Diabetes,45-49,81690,All
+303,Clinical Haematology,45-49,92646,All
+304,Clinical Physiology,45-49,16963,All
+305,Clinical Pharmacology,45-49,1386,All
+310,Audio Vestibular Medicine,45-49,16219,All
+311,Clinical Genetics,45-49,10785,All
+313,Clinical Immunology,45-49,8643,All
+314,Rehabilitation Medicine,45-49,20251,All
+315,Palliative Medicine,45-49,3075,All
+317,Allergy,45-49,2141,All
+320,Cardiology,45-49,150527,All
+321,Paediatric Cardiology,45-49,1687,All
+325,Sport and Exercise Medicine,45-49,1126,All
+326,Acute Internal Medicine,45-49,12789,All
+330,Dermatology,45-49,195799,All
+340,Respiratory Medicine,45-49,119593,All
+350,Infectious Diseases,45-49,13390,All
+352,Tropical Medicine,45-49,0,All
+360,Genitourinary Medicine,45-49,4529,All
+361,Renal Medicine,45-49,61845,All
+370,Medical Oncology,45-49,89188,All
+371,Nuclear Medicine,45-49,941,All
+400,Neurology,45-49,120100,All
+401,Clinical Neurophysiology,45-49,15410,All
+410,Rheumatology,45-49,119356,All
+420,Paediatrics,45-49,2296,All
+421,Paediatric Neurology,45-49,99,All
+430,Geriatric Medicine,45-49,7231,All
+450,Dental Medicine,45-49,9705,All
+451,Special Care Dentistry,45-49,1128,All
+460,Medical Ophthalmology,45-49,1849,All
+499,"Non-UK Provider; specialty function not known, treatment mainly medical",45-49,0,All
+500,Obstetrics and Gynaecology,45-49,50,All
+501,Obstetrics,45-49,193614,All
+502,Gynaecology,45-49,357281,All
+504,Community Sexual and Reproductive Health,45-49,18,All
+560,Midwifery,45-49,200070,All
+600,General Medical Practice,45-49,2351,All
+601,General Dental Practice,45-49,315,All
+700,Learning Disability,45-49,4140,All
+710,Adult Mental Illness,45-49,99286,All
+711,Child and Adolescent Psychiatry,45-49,2076,All
+712,Forensic Psychiatry,45-49,1300,All
+713,Medical Psychotherapy,45-49,2923,All
+715,Old Age Psychiatry,45-49,825,All
+800,Clinical Oncology,45-49,92824,All
+810,Radiology,45-49,434284,All
+820,General Pathology,45-49,258,All
+821,Blood Transfusion,45-49,0,All
+822,Chemical Pathology,45-49,7959,All
+823,Haematology,45-49,17066,All
+824,Histopathology,45-49,267,All
+830,Immunopathology,45-49,666,All
+831,Medical Microbiology and Virology,45-49,191,All
+833,Medical Microbiology,45-49,136,All
+834,Medical Virology,45-49,506,All
+900,Community Medicine,45-49,14218,All
+901,Occupational Medicine,45-49,2537,All
+902,Community Health Services Dental,45-49,340,All
+903,Public Health Medicine,45-49,13,All
+950,Nursing,45-49,303455,All
+960,Allied Health Professional,45-49,637690,All
+990,Joint Consultant Clinics (Retired 1 April 2004),45-49,62,All
+&,Not Known,50-54,10522,All
+100,General Surgery,50-54,392522,All
+101,Urology,50-54,118764,All
+107,Vascular Surgery,50-54,3129,All
+110,Trauma and Orthopaedics,50-54,402314,All
+120,Ear Nose and Throat,50-54,169532,All
+130,Ophthalmology,50-54,293899,All
+140,Oral Surgery,50-54,42772,All
+141,Restorative Dentistry,50-54,16671,All
+142,Paediatric Dentistry,50-54,7,All
+143,Orthodontics,50-54,4155,All
+145,Oral and Maxillofacial Surgery,50-54,35091,All
+146,Endodontics,50-54,1860,All
+147,Periodontics,50-54,761,All
+148,Prosthodontics,50-54,283,All
+149,Surgical Dentistry,50-54,25,All
+150,Neurosurgery,50-54,35464,All
+160,Plastic Surgery,50-54,57527,All
+170,Cardiothoracic Surgery,50-54,7075,All
+171,Paediatric Surgery,50-54,358,All
+180,Emergency Medicine,50-54,12742,All
+190,Anaesthetics,50-54,106904,All
+191,Pain Management (Retired 1 April 2004),50-54,5,All
+192,Intensive Care Medicine,50-54,1040,All
+300,General Internal Medicine,50-54,208392,All
+301,Gastroenterology,50-54,168031,All
+302,Endocrinology and Diabetes,50-54,76148,All
+303,Clinical Haematology,50-54,107615,All
+304,Clinical Physiology,50-54,19180,All
+305,Clinical Pharmacology,50-54,1291,All
+310,Audio Vestibular Medicine,50-54,17881,All
+311,Clinical Genetics,50-54,8298,All
+313,Clinical Immunology,50-54,7506,All
+314,Rehabilitation Medicine,50-54,23323,All
+315,Palliative Medicine,50-54,4345,All
+317,Allergy,50-54,1756,All
+320,Cardiology,50-54,172228,All
+321,Paediatric Cardiology,50-54,729,All
+325,Sport and Exercise Medicine,50-54,1088,All
+326,Acute Internal Medicine,50-54,13032,All
+330,Dermatology,50-54,186616,All
+340,Respiratory Medicine,50-54,130741,All
+350,Infectious Diseases,50-54,13297,All
+352,Tropical Medicine,50-54,0,All
+360,Genitourinary Medicine,50-54,5183,All
+361,Renal Medicine,50-54,66347,All
+370,Medical Oncology,50-54,112581,All
+371,Nuclear Medicine,50-54,916,All
+400,Neurology,50-54,117138,All
+401,Clinical Neurophysiology,50-54,15905,All
+410,Rheumatology,50-54,125391,All
+420,Paediatrics,50-54,1035,All
+421,Paediatric Neurology,50-54,103,All
+430,Geriatric Medicine,50-54,8852,All
+450,Dental Medicine,50-54,10553,All
+451,Special Care Dentistry,50-54,1071,All
+460,Medical Ophthalmology,50-54,2295,All
+499,"Non-UK Provider; specialty function not known, treatment mainly medical",50-54,0,All
+500,Obstetrics and Gynaecology,50-54,25,All
+501,Obstetrics,50-54,59651,All
+502,Gynaecology,50-54,250253,All
+504,Community Sexual and Reproductive Health,50-54,12,All
+560,Midwifery,50-54,18184,All
+600,General Medical Practice,50-54,2305,All
+601,General Dental Practice,50-54,272,All
+700,Learning Disability,50-54,3211,All
+710,Adult Mental Illness,50-54,87473,All
+711,Child and Adolescent Psychiatry,50-54,1468,All
+712,Forensic Psychiatry,50-54,1084,All
+713,Medical Psychotherapy,50-54,2872,All
+715,Old Age Psychiatry,50-54,1082,All
+800,Clinical Oncology,50-54,124159,All
+810,Radiology,50-54,441569,All
+820,General Pathology,50-54,255,All
+821,Blood Transfusion,50-54,0,All
+822,Chemical Pathology,50-54,8126,All
+823,Haematology,50-54,20998,All
+824,Histopathology,50-54,355,All
+830,Immunopathology,50-54,557,All
+831,Medical Microbiology and Virology,50-54,422,All
+833,Medical Microbiology,50-54,131,All
+834,Medical Virology,50-54,527,All
+900,Community Medicine,50-54,16383,All
+901,Occupational Medicine,50-54,2502,All
+902,Community Health Services Dental,50-54,280,All
+903,Public Health Medicine,50-54,9,All
+950,Nursing,50-54,313302,All
+960,Allied Health Professional,50-54,666605,All
+990,Joint Consultant Clinics (Retired 1 April 2004),50-54,99,All
+&,Not Known,55-59,11975,All
+100,General Surgery,55-59,458179,All
+101,Urology,55-59,170395,All
+107,Vascular Surgery,55-59,4480,All
+110,Trauma and Orthopaedics,55-59,560973,All
+120,Ear Nose and Throat,55-59,200952,All
+130,Ophthalmology,55-59,427945,All
+140,Oral Surgery,55-59,49306,All
+141,Restorative Dentistry,55-59,20951,All
+142,Paediatric Dentistry,55-59,11,All
+143,Orthodontics,55-59,3694,All
+145,Oral and Maxillofacial Surgery,55-59,41886,All
+146,Endodontics,55-59,2121,All
+147,Periodontics,55-59,771,All
+148,Prosthodontics,55-59,295,All
+149,Surgical Dentistry,55-59,17,All
+150,Neurosurgery,55-59,45935,All
+160,Plastic Surgery,55-59,71252,All
+170,Cardiothoracic Surgery,55-59,11419,All
+171,Paediatric Surgery,55-59,367,All
+180,Emergency Medicine,55-59,13623,All
+190,Anaesthetics,55-59,138183,All
+191,Pain Management (Retired 1 April 2004),55-59,5,All
+192,Intensive Care Medicine,55-59,1304,All
+300,General Internal Medicine,55-59,267291,All
+301,Gastroenterology,55-59,198735,All
+302,Endocrinology and Diabetes,55-59,90872,All
+303,Clinical Haematology,55-59,145768,All
+304,Clinical Physiology,55-59,25419,All
+305,Clinical Pharmacology,55-59,1347,All
+310,Audio Vestibular Medicine,55-59,23332,All
+311,Clinical Genetics,55-59,7587,All
+313,Clinical Immunology,55-59,7798,All
+314,Rehabilitation Medicine,55-59,27666,All
+315,Palliative Medicine,55-59,7461,All
+317,Allergy,55-59,1536,All
+320,Cardiology,55-59,240495,All
+321,Paediatric Cardiology,55-59,689,All
+325,Sport and Exercise Medicine,55-59,1557,All
+326,Acute Internal Medicine,55-59,14652,All
+330,Dermatology,55-59,226970,All
+340,Respiratory Medicine,55-59,171637,All
+350,Infectious Diseases,55-59,14367,All
+352,Tropical Medicine,55-59,0,All
+360,Genitourinary Medicine,55-59,5636,All
+361,Renal Medicine,55-59,83997,All
+370,Medical Oncology,55-59,163219,All
+371,Nuclear Medicine,55-59,1297,All
+400,Neurology,55-59,135802,All
+401,Clinical Neurophysiology,55-59,18962,All
+410,Rheumatology,55-59,162343,All
+420,Paediatrics,55-59,1036,All
+421,Paediatric Neurology,55-59,82,All
+430,Geriatric Medicine,55-59,13169,All
+450,Dental Medicine,55-59,12520,All
+451,Special Care Dentistry,55-59,1380,All
+460,Medical Ophthalmology,55-59,3012,All
+499,"Non-UK Provider; specialty function not known, treatment mainly medical",55-59,0,All
+500,Obstetrics and Gynaecology,55-59,22,All
+501,Obstetrics,55-59,49251,All
+502,Gynaecology,55-59,263625,All
+504,Community Sexual and Reproductive Health,55-59,13,All
+560,Midwifery,55-59,2242,All
+600,General Medical Practice,55-59,3175,All
+601,General Dental Practice,55-59,341,All
+700,Learning Disability,55-59,4311,All
+710,Adult Mental Illness,55-59,86188,All
+711,Child and Adolescent Psychiatry,55-59,1552,All
+712,Forensic Psychiatry,55-59,947,All
+713,Medical Psychotherapy,55-59,3263,All
+715,Old Age Psychiatry,55-59,1384,All
+800,Clinical Oncology,55-59,193644,All
+810,Radiology,55-59,516459,All
+820,General Pathology,55-59,314,All
+821,Blood Transfusion,55-59,0,All
+822,Chemical Pathology,55-59,11147,All
+823,Haematology,55-59,29521,All
+824,Histopathology,55-59,532,All
+830,Immunopathology,55-59,476,All
+831,Medical Microbiology and Virology,55-59,335,All
+833,Medical Microbiology,55-59,140,All
+834,Medical Virology,55-59,480,All
+900,Community Medicine,55-59,19562,All
+901,Occupational Medicine,55-59,2850,All
+902,Community Health Services Dental,55-59,309,All
+903,Public Health Medicine,55-59,19,All
+950,Nursing,55-59,422695,All
+960,Allied Health Professional,55-59,874585,All
+990,Joint Consultant Clinics (Retired 1 April 2004),55-59,134,All
+&,Not Known,60-64,11917,All
+100,General Surgery,60-64,506754,All
+101,Urology,60-64,262653,All
+107,Vascular Surgery,60-64,6348,All
+110,Trauma and Orthopaedics,60-64,730633,All
+120,Ear Nose and Throat,60-64,233192,All
+130,Ophthalmology,60-64,603705,All
+140,Oral Surgery,60-64,57810,All
+141,Restorative Dentistry,60-64,24293,All
+142,Paediatric Dentistry,60-64,6,All
+143,Orthodontics,60-64,3444,All
+145,Oral and Maxillofacial Surgery,60-64,49873,All
+146,Endodontics,60-64,2420,All
+147,Periodontics,60-64,839,All
+148,Prosthodontics,60-64,374,All
+149,Surgical Dentistry,60-64,20,All
+150,Neurosurgery,60-64,53244,All
+160,Plastic Surgery,60-64,82028,All
+170,Cardiothoracic Surgery,60-64,19062,All
+171,Paediatric Surgery,60-64,365,All
+180,Emergency Medicine,60-64,14366,All
+190,Anaesthetics,60-64,161098,All
+191,Pain Management (Retired 1 April 2004),60-64,5,All
+192,Intensive Care Medicine,60-64,1607,All
+300,General Internal Medicine,60-64,331151,All
+301,Gastroenterology,60-64,225799,All
+302,Endocrinology and Diabetes,60-64,106329,All
+303,Clinical Haematology,60-64,197204,All
+304,Clinical Physiology,60-64,32440,All
+305,Clinical Pharmacology,60-64,1559,All
+310,Audio Vestibular Medicine,60-64,30357,All
+311,Clinical Genetics,60-64,7151,All
+313,Clinical Immunology,60-64,7993,All
+314,Rehabilitation Medicine,60-64,34186,All
+315,Palliative Medicine,60-64,10966,All
+317,Allergy,60-64,1436,All
+320,Cardiology,60-64,324618,All
+321,Paediatric Cardiology,60-64,666,All
+325,Sport and Exercise Medicine,60-64,1618,All
+326,Acute Internal Medicine,60-64,16515,All
+330,Dermatology,60-64,267092,All
+340,Respiratory Medicine,60-64,222921,All
+350,Infectious Diseases,60-64,14995,All
+352,Tropical Medicine,60-64,1,All
+360,Genitourinary Medicine,60-64,5470,All
+361,Renal Medicine,60-64,103360,All
+370,Medical Oncology,60-64,222069,All
+371,Nuclear Medicine,60-64,1499,All
+400,Neurology,60-64,148347,All
+401,Clinical Neurophysiology,60-64,21096,All
+410,Rheumatology,60-64,198819,All
+420,Paediatrics,60-64,1086,All
+421,Paediatric Neurology,60-64,73,All
+430,Geriatric Medicine,60-64,18901,All
+450,Dental Medicine,60-64,14319,All
+451,Special Care Dentistry,60-64,1639,All
+460,Medical Ophthalmology,60-64,3409,All
+499,"Non-UK Provider; specialty function not known, treatment mainly medical",60-64,0,All
+500,Obstetrics and Gynaecology,60-64,7,All
+501,Obstetrics,60-64,39921,All
+502,Gynaecology,60-64,232914,All
+504,Community Sexual and Reproductive Health,60-64,10,All
+560,Midwifery,60-64,521,All
+600,General Medical Practice,60-64,3855,All
+601,General Dental Practice,60-64,441,All
+700,Learning Disability,60-64,4802,All
+710,Adult Mental Illness,60-64,81893,All
+711,Child and Adolescent Psychiatry,60-64,1453,All
+712,Forensic Psychiatry,60-64,1162,All
+713,Medical Psychotherapy,60-64,2792,All
+715,Old Age Psychiatry,60-64,2398,All
+800,Clinical Oncology,60-64,271805,All
+810,Radiology,60-64,586738,All
+820,General Pathology,60-64,395,All
+821,Blood Transfusion,60-64,3,All
+822,Chemical Pathology,60-64,13862,All
+823,Haematology,60-64,39520,All
+824,Histopathology,60-64,519,All
+830,Immunopathology,60-64,521,All
+831,Medical Microbiology and Virology,60-64,726,All
+833,Medical Microbiology,60-64,208,All
+834,Medical Virology,60-64,480,All
+900,Community Medicine,60-64,23239,All
+901,Occupational Medicine,60-64,3300,All
+902,Community Health Services Dental,60-64,347,All
+903,Public Health Medicine,60-64,30,All
+950,Nursing,60-64,544124,All
+960,Allied Health Professional,60-64,1083891,All
+990,Joint Consultant Clinics (Retired 1 April 2004),60-64,186,All
+&,Not Known,65-69,13491,All
+100,General Surgery,65-69,522534,All
+101,Urology,65-69,339570,All
+107,Vascular Surgery,65-69,8520,All
+110,Trauma and Orthopaedics,65-69,806737,All
+120,Ear Nose and Throat,65-69,247582,All
+130,Ophthalmology,65-69,788057,All
+140,Oral Surgery,65-69,59930,All
+141,Restorative Dentistry,65-69,25937,All
+142,Paediatric Dentistry,65-69,2,All
+143,Orthodontics,65-69,2902,All
+145,Oral and Maxillofacial Surgery,65-69,52567,All
+146,Endodontics,65-69,2501,All
+147,Periodontics,65-69,645,All
+148,Prosthodontics,65-69,401,All
+149,Surgical Dentistry,65-69,29,All
+150,Neurosurgery,65-69,56142,All
+160,Plastic Surgery,65-69,84039,All
+170,Cardiothoracic Surgery,65-69,26455,All
+171,Paediatric Surgery,65-69,390,All
+180,Emergency Medicine,65-69,13672,All
+190,Anaesthetics,65-69,163379,All
+191,Pain Management (Retired 1 April 2004),65-69,4,All
+192,Intensive Care Medicine,65-69,1915,All
+300,General Internal Medicine,65-69,372876,All
+301,Gastroenterology,65-69,233720,All
+302,Endocrinology and Diabetes,65-69,107123,All
+303,Clinical Haematology,65-69,244692,All
+304,Clinical Physiology,65-69,39458,All
+305,Clinical Pharmacology,65-69,1840,All
+310,Audio Vestibular Medicine,65-69,38773,All
+311,Clinical Genetics,65-69,6068,All
+313,Clinical Immunology,65-69,7237,All
+314,Rehabilitation Medicine,65-69,33274,All
+315,Palliative Medicine,65-69,14937,All
+317,Allergy,65-69,1171,All
+320,Cardiology,65-69,400450,All
+321,Paediatric Cardiology,65-69,508,All
+325,Sport and Exercise Medicine,65-69,1463,All
+326,Acute Internal Medicine,65-69,17713,All
+330,Dermatology,65-69,282811,All
+340,Respiratory Medicine,65-69,254531,All
+350,Infectious Diseases,65-69,13843,All
+352,Tropical Medicine,65-69,2,All
+360,Genitourinary Medicine,65-69,4201,All
+361,Renal Medicine,65-69,109456,All
+370,Medical Oncology,65-69,273597,All
+371,Nuclear Medicine,65-69,1667,All
+400,Neurology,65-69,148498,All
+401,Clinical Neurophysiology,65-69,20398,All
+410,Rheumatology,65-69,210487,All
+420,Paediatrics,65-69,1000,All
+421,Paediatric Neurology,65-69,69,All
+430,Geriatric Medicine,65-69,26823,All
+450,Dental Medicine,65-69,14986,All
+451,Special Care Dentistry,65-69,1661,All
+460,Medical Ophthalmology,65-69,4147,All
+499,"Non-UK Provider; specialty function not known, treatment mainly medical",65-69,0,All
+500,Obstetrics and Gynaecology,65-69,8,All
+501,Obstetrics,65-69,26360,All
+502,Gynaecology,65-69,166552,All
+504,Community Sexual and Reproductive Health,65-69,8,All
+560,Midwifery,65-69,221,All
+600,General Medical Practice,65-69,4225,All
+601,General Dental Practice,65-69,383,All
+700,Learning Disability,65-69,4202,All
+710,Adult Mental Illness,65-69,67036,All
+711,Child and Adolescent Psychiatry,65-69,1104,All
+712,Forensic Psychiatry,65-69,679,All
+713,Medical Psychotherapy,65-69,2452,All
+715,Old Age Psychiatry,65-69,4802,All
+800,Clinical Oncology,65-69,359331,All
+810,Radiology,65-69,609992,All
+820,General Pathology,65-69,344,All
+821,Blood Transfusion,65-69,3,All
+822,Chemical Pathology,65-69,13493,All
+823,Haematology,65-69,45821,All
+824,Histopathology,65-69,697,All
+830,Immunopathology,65-69,580,All
+831,Medical Microbiology and Virology,65-69,540,All
+833,Medical Microbiology,65-69,210,All
+834,Medical Virology,65-69,384,All
+900,Community Medicine,65-69,25151,All
+901,Occupational Medicine,65-69,3116,All
+902,Community Health Services Dental,65-69,441,All
+903,Public Health Medicine,65-69,32,All
+950,Nursing,65-69,628114,All
+960,Allied Health Professional,65-69,1208846,All
+990,Joint Consultant Clinics (Retired 1 April 2004),65-69,294,All
+&,Not Known,70-74,10537,All
+100,General Surgery,70-74,489442,All
+101,Urology,70-74,385687,All
+107,Vascular Surgery,70-74,9249,All
+110,Trauma and Orthopaedics,70-74,746823,All
+120,Ear Nose and Throat,70-74,231662,All
+130,Ophthalmology,70-74,923249,All
+140,Oral Surgery,70-74,55490,All
+141,Restorative Dentistry,70-74,22306,All
+142,Paediatric Dentistry,70-74,2,All
+143,Orthodontics,70-74,2287,All
+145,Oral and Maxillofacial Surgery,70-74,49659,All
+146,Endodontics,70-74,2253,All
+147,Periodontics,70-74,419,All
+148,Prosthodontics,70-74,411,All
+149,Surgical Dentistry,70-74,30,All
+150,Neurosurgery,70-74,48430,All
+160,Plastic Surgery,70-74,77910,All
+170,Cardiothoracic Surgery,70-74,29922,All
+171,Paediatric Surgery,70-74,344,All
+180,Emergency Medicine,70-74,11782,All
+190,Anaesthetics,70-74,146433,All
+191,Pain Management (Retired 1 April 2004),70-74,5,All
+192,Intensive Care Medicine,70-74,1816,All
+300,General Internal Medicine,70-74,371691,All
+301,Gastroenterology,70-74,206315,All
+302,Endocrinology and Diabetes,70-74,94227,All
+303,Clinical Haematology,70-74,262755,All
+304,Clinical Physiology,70-74,40588,All
+305,Clinical Pharmacology,70-74,1561,All
+310,Audio Vestibular Medicine,70-74,45154,All
+311,Clinical Genetics,70-74,4590,All
+313,Clinical Immunology,70-74,6006,All
+314,Rehabilitation Medicine,70-74,29298,All
+315,Palliative Medicine,70-74,15968,All
+317,Allergy,70-74,871,All
+320,Cardiology,70-74,418977,All
+321,Paediatric Cardiology,70-74,413,All
+325,Sport and Exercise Medicine,70-74,970,All
+326,Acute Internal Medicine,70-74,16552,All
+330,Dermatology,70-74,271495,All
+340,Respiratory Medicine,70-74,249847,All
+350,Infectious Diseases,70-74,11108,All
+352,Tropical Medicine,70-74,0,All
+360,Genitourinary Medicine,70-74,2487,All
+361,Renal Medicine,70-74,109587,All
+370,Medical Oncology,70-74,287985,All
+371,Nuclear Medicine,70-74,1628,All
+400,Neurology,70-74,128987,All
+401,Clinical Neurophysiology,70-74,16458,All
+410,Rheumatology,70-74,191453,All
+420,Paediatrics,70-74,835,All
+421,Paediatric Neurology,70-74,44,All
+430,Geriatric Medicine,70-74,35372,All
+450,Dental Medicine,70-74,13364,All
+451,Special Care Dentistry,70-74,1255,All
+460,Medical Ophthalmology,70-74,4500,All
+499,"Non-UK Provider; specialty function not known, treatment mainly medical",70-74,0,All
+500,Obstetrics and Gynaecology,70-74,0,All
+501,Obstetrics,70-74,18307,All
+502,Gynaecology,70-74,121444,All
+504,Community Sexual and Reproductive Health,70-74,2,All
+560,Midwifery,70-74,171,All
+600,General Medical Practice,70-74,4260,All
+601,General Dental Practice,70-74,170,All
+700,Learning Disability,70-74,2468,All
+710,Adult Mental Illness,70-74,38519,All
+711,Child and Adolescent Psychiatry,70-74,827,All
+712,Forensic Psychiatry,70-74,310,All
+713,Medical Psychotherapy,70-74,1656,All
+715,Old Age Psychiatry,70-74,15616,All
+800,Clinical Oncology,70-74,413849,All
+810,Radiology,70-74,552180,All
+820,General Pathology,70-74,278,All
+821,Blood Transfusion,70-74,4,All
+822,Chemical Pathology,70-74,11423,All
+823,Haematology,70-74,46052,All
+824,Histopathology,70-74,730,All
+830,Immunopathology,70-74,366,All
+831,Medical Microbiology and Virology,70-74,675,All
+833,Medical Microbiology,70-74,205,All
+834,Medical Virology,70-74,210,All
+900,Community Medicine,70-74,22915,All
+901,Occupational Medicine,70-74,2676,All
+902,Community Health Services Dental,70-74,313,All
+903,Public Health Medicine,70-74,42,All
+950,Nursing,70-74,638456,All
+960,Allied Health Professional,70-74,1162421,All
+990,Joint Consultant Clinics (Retired 1 April 2004),70-74,220,All
+&,Not Known,75-79,10992,All
+100,General Surgery,75-79,462216,All
+101,Urology,75-79,380547,All
+107,Vascular Surgery,75-79,10080,All
+110,Trauma and Orthopaedics,75-79,686500,All
+120,Ear Nose and Throat,75-79,221497,All
+130,Ophthalmology,75-79,1103117,All
+140,Oral Surgery,75-79,49390,All
+141,Restorative Dentistry,75-79,18835,All
+142,Paediatric Dentistry,75-79,1,All
+143,Orthodontics,75-79,1761,All
+145,Oral and Maxillofacial Surgery,75-79,46998,All
+146,Endodontics,75-79,1575,All
+147,Periodontics,75-79,227,All
+148,Prosthodontics,75-79,385,All
+149,Surgical Dentistry,75-79,22,All
+150,Neurosurgery,75-79,42796,All
+160,Plastic Surgery,75-79,78546,All
+170,Cardiothoracic Surgery,75-79,32570,All
+171,Paediatric Surgery,75-79,294,All
+180,Emergency Medicine,75-79,11193,All
+190,Anaesthetics,75-79,134051,All
+191,Pain Management (Retired 1 April 2004),75-79,0,All
+192,Intensive Care Medicine,75-79,1688,All
+300,General Internal Medicine,75-79,374031,All
+301,Gastroenterology,75-79,183396,All
+302,Endocrinology and Diabetes,75-79,79321,All
+303,Clinical Haematology,75-79,288905,All
+304,Clinical Physiology,75-79,43647,All
+305,Clinical Pharmacology,75-79,1592,All
+310,Audio Vestibular Medicine,75-79,55605,All
+311,Clinical Genetics,75-79,3079,All
+313,Clinical Immunology,75-79,4415,All
+314,Rehabilitation Medicine,75-79,25416,All
+315,Palliative Medicine,75-79,17870,All
+317,Allergy,75-79,601,All
+320,Cardiology,75-79,444107,All
+321,Paediatric Cardiology,75-79,248,All
+325,Sport and Exercise Medicine,75-79,749,All
+326,Acute Internal Medicine,75-79,16581,All
+330,Dermatology,75-79,275729,All
+340,Respiratory Medicine,75-79,246304,All
+350,Infectious Diseases,75-79,8664,All
+352,Tropical Medicine,75-79,0,All
+360,Genitourinary Medicine,75-79,1305,All
+361,Renal Medicine,75-79,107544,All
+370,Medical Oncology,75-79,292131,All
+371,Nuclear Medicine,75-79,1537,All
+400,Neurology,75-79,118781,All
+401,Clinical Neurophysiology,75-79,14535,All
+410,Rheumatology,75-79,179333,All
+420,Paediatrics,75-79,748,All
+421,Paediatric Neurology,75-79,36,All
+430,Geriatric Medicine,75-79,49999,All
+450,Dental Medicine,75-79,10511,All
+451,Special Care Dentistry,75-79,988,All
+460,Medical Ophthalmology,75-79,4691,All
+499,"Non-UK Provider; specialty function not known, treatment mainly medical",75-79,1,All
+500,Obstetrics and Gynaecology,75-79,1,All
+501,Obstetrics,75-79,15394,All
+502,Gynaecology,75-79,108179,All
+504,Community Sexual and Reproductive Health,75-79,1,All
+560,Midwifery,75-79,250,All
+600,General Medical Practice,75-79,4152,All
+601,General Dental Practice,75-79,168,All
+700,Learning Disability,75-79,2114,All
+710,Adult Mental Illness,75-79,24612,All
+711,Child and Adolescent Psychiatry,75-79,533,All
+712,Forensic Psychiatry,75-79,227,All
+713,Medical Psychotherapy,75-79,743,All
+715,Old Age Psychiatry,75-79,21696,All
+800,Clinical Oncology,75-79,429437,All
+810,Radiology,75-79,503577,All
+820,General Pathology,75-79,241,All
+821,Blood Transfusion,75-79,23,All
+822,Chemical Pathology,75-79,9301,All
+823,Haematology,75-79,48845,All
+824,Histopathology,75-79,636,All
+830,Immunopathology,75-79,353,All
+831,Medical Microbiology and Virology,75-79,551,All
+833,Medical Microbiology,75-79,182,All
+834,Medical Virology,75-79,141,All
+900,Community Medicine,75-79,22603,All
+901,Occupational Medicine,75-79,1873,All
+902,Community Health Services Dental,75-79,215,All
+903,Public Health Medicine,75-79,29,All
+950,Nursing,75-79,664652,All
+960,Allied Health Professional,75-79,1152291,All
+990,Joint Consultant Clinics (Retired 1 April 2004),75-79,240,All
+&,Not Known,80-84,14203,All
+100,General Surgery,80-84,487940,All
+101,Urology,80-84,415653,All
+107,Vascular Surgery,80-84,11030,All
+110,Trauma and Orthopaedics,80-84,681816,All
+120,Ear Nose and Throat,80-84,227837,All
+130,Ophthalmology,80-84,1422729,All
+140,Oral Surgery,80-84,49406,All
+141,Restorative Dentistry,80-84,15422,All
+142,Paediatric Dentistry,80-84,1,All
+143,Orthodontics,80-84,1440,All
+145,Oral and Maxillofacial Surgery,80-84,48404,All
+146,Endodontics,80-84,1187,All
+147,Periodontics,80-84,169,All
+148,Prosthodontics,80-84,372,All
+149,Surgical Dentistry,80-84,9,All
+150,Neurosurgery,80-84,41732,All
+160,Plastic Surgery,80-84,96395,All
+170,Cardiothoracic Surgery,80-84,27973,All
+171,Paediatric Surgery,80-84,289,All
+180,Emergency Medicine,80-84,12723,All
+190,Anaesthetics,80-84,138061,All
+191,Pain Management (Retired 1 April 2004),80-84,5,All
+192,Intensive Care Medicine,80-84,1694,All
+300,General Internal Medicine,80-84,442693,All
+301,Gastroenterology,80-84,162722,All
+302,Endocrinology and Diabetes,80-84,75010,All
+303,Clinical Haematology,80-84,335490,All
+304,Clinical Physiology,80-84,52844,All
+305,Clinical Pharmacology,80-84,1417,All
+310,Audio Vestibular Medicine,80-84,73620,All
+311,Clinical Genetics,80-84,2266,All
+313,Clinical Immunology,80-84,3602,All
+314,Rehabilitation Medicine,80-84,25833,All
+315,Palliative Medicine,80-84,22324,All
+317,Allergy,80-84,420,All
+320,Cardiology,80-84,524696,All
+321,Paediatric Cardiology,80-84,208,All
+325,Sport and Exercise Medicine,80-84,743,All
+326,Acute Internal Medicine,80-84,18209,All
+330,Dermatology,80-84,324696,All
+340,Respiratory Medicine,80-84,245808,All
+350,Infectious Diseases,80-84,7714,All
+352,Tropical Medicine,80-84,1,All
+360,Genitourinary Medicine,80-84,1000,All
+361,Renal Medicine,80-84,115751,All
+370,Medical Oncology,80-84,297620,All
+371,Nuclear Medicine,80-84,1787,All
+400,Neurology,80-84,121026,All
+401,Clinical Neurophysiology,80-84,14984,All
+410,Rheumatology,80-84,180353,All
+420,Paediatrics,80-84,747,All
+421,Paediatric Neurology,80-84,34,All
+430,Geriatric Medicine,80-84,79027,All
+450,Dental Medicine,80-84,8624,All
+451,Special Care Dentistry,80-84,827,All
+460,Medical Ophthalmology,80-84,5186,All
+499,"Non-UK Provider; specialty function not known, treatment mainly medical",80-84,2,All
+500,Obstetrics and Gynaecology,80-84,2,All
+501,Obstetrics,80-84,16076,All
+502,Gynaecology,80-84,115719,All
+504,Community Sexual and Reproductive Health,80-84,3,All
+560,Midwifery,80-84,285,All
+600,General Medical Practice,80-84,4718,All
+601,General Dental Practice,80-84,72,All
+700,Learning Disability,80-84,1158,All
+710,Adult Mental Illness,80-84,17471,All
+711,Child and Adolescent Psychiatry,80-84,552,All
+712,Forensic Psychiatry,80-84,167,All
+713,Medical Psychotherapy,80-84,587,All
+715,Old Age Psychiatry,80-84,35350,All
+800,Clinical Oncology,80-84,460039,All
+810,Radiology,80-84,504821,All
+820,General Pathology,80-84,202,All
+821,Blood Transfusion,80-84,2,All
+822,Chemical Pathology,80-84,7813,All
+823,Haematology,80-84,56960,All
+824,Histopathology,80-84,780,All
+830,Immunopathology,80-84,282,All
+831,Medical Microbiology and Virology,80-84,404,All
+833,Medical Microbiology,80-84,148,All
+834,Medical Virology,80-84,105,All
+900,Community Medicine,80-84,27383,All
+901,Occupational Medicine,80-84,1668,All
+902,Community Health Services Dental,80-84,319,All
+903,Public Health Medicine,80-84,34,All
+950,Nursing,80-84,744346,All
+960,Allied Health Professional,80-84,1254306,All
+990,Joint Consultant Clinics (Retired 1 April 2004),80-84,271,All
+&,Not Known,85-89,12180,All
+100,General Surgery,85-89,327011,All
+101,Urology,85-89,259256,All
+107,Vascular Surgery,85-89,8439,All
+110,Trauma and Orthopaedics,85-89,396471,All
+120,Ear Nose and Throat,85-89,152857,All
+130,Ophthalmology,85-89,1180574,All
+140,Oral Surgery,85-89,33246,All
+141,Restorative Dentistry,85-89,9188,All
+142,Paediatric Dentistry,85-89,1,All
+143,Orthodontics,85-89,811,All
+145,Oral and Maxillofacial Surgery,85-89,34325,All
+146,Endodontics,85-89,585,All
+147,Periodontics,85-89,58,All
+148,Prosthodontics,85-89,233,All
+149,Surgical Dentistry,85-89,5,All
+150,Neurosurgery,85-89,21607,All
+160,Plastic Surgery,85-89,80382,All
+170,Cardiothoracic Surgery,85-89,11850,All
+171,Paediatric Surgery,85-89,171,All
+180,Emergency Medicine,85-89,10000,All
+190,Anaesthetics,85-89,85181,All
+191,Pain Management (Retired 1 April 2004),85-89,8,All
+192,Intensive Care Medicine,85-89,1019,All
+300,General Internal Medicine,85-89,378981,All
+301,Gastroenterology,85-89,92938,All
+302,Endocrinology and Diabetes,85-89,45652,All
+303,Clinical Haematology,85-89,241330,All
+304,Clinical Physiology,85-89,43160,All
+305,Clinical Pharmacology,85-89,849,All
+310,Audio Vestibular Medicine,85-89,61788,All
+311,Clinical Genetics,85-89,974,All
+313,Clinical Immunology,85-89,1513,All
+314,Rehabilitation Medicine,85-89,15993,All
+315,Palliative Medicine,85-89,18069,All
+317,Allergy,85-89,178,All
+320,Cardiology,85-89,401207,All
+321,Paediatric Cardiology,85-89,53,All
+325,Sport and Exercise Medicine,85-89,305,All
+326,Acute Internal Medicine,85-89,13401,All
+330,Dermatology,85-89,247085,All
+340,Respiratory Medicine,85-89,152139,All
+350,Infectious Diseases,85-89,4785,All
+352,Tropical Medicine,85-89,0,All
+360,Genitourinary Medicine,85-89,694,All
+361,Renal Medicine,85-89,83914,All
+370,Medical Oncology,85-89,158983,All
+371,Nuclear Medicine,85-89,1080,All
+400,Neurology,85-89,69737,All
+401,Clinical Neurophysiology,85-89,8935,All
+410,Rheumatology,85-89,108945,All
+420,Paediatrics,85-89,481,All
+421,Paediatric Neurology,85-89,18,All
+430,Geriatric Medicine,85-89,81146,All
+450,Dental Medicine,85-89,4705,All
+451,Special Care Dentistry,85-89,406,All
+460,Medical Ophthalmology,85-89,4506,All
+499,"Non-UK Provider; specialty function not known, treatment mainly medical",85-89,0,All
+500,Obstetrics and Gynaecology,85-89,2,All
+501,Obstetrics,85-89,10180,All
+502,Gynaecology,85-89,73532,All
+504,Community Sexual and Reproductive Health,85-89,1,All
+560,Midwifery,85-89,301,All
+600,General Medical Practice,85-89,3181,All
+601,General Dental Practice,85-89,17,All
+700,Learning Disability,85-89,558,All
+710,Adult Mental Illness,85-89,12592,All
+711,Child and Adolescent Psychiatry,85-89,416,All
+712,Forensic Psychiatry,85-89,82,All
+713,Medical Psychotherapy,85-89,191,All
+715,Old Age Psychiatry,85-89,32831,All
+800,Clinical Oncology,85-89,248261,All
+810,Radiology,85-89,321111,All
+820,General Pathology,85-89,103,All
+821,Blood Transfusion,85-89,1,All
+822,Chemical Pathology,85-89,4302,All
+823,Haematology,85-89,42834,All
+824,Histopathology,85-89,461,All
+830,Immunopathology,85-89,139,All
+831,Medical Microbiology and Virology,85-89,219,All
+833,Medical Microbiology,85-89,101,All
+834,Medical Virology,85-89,54,All
+900,Community Medicine,85-89,26803,All
+901,Occupational Medicine,85-89,898,All
+902,Community Health Services Dental,85-89,242,All
+903,Public Health Medicine,85-89,20,All
+950,Nursing,85-89,539291,All
+960,Allied Health Professional,85-89,855078,All
+990,Joint Consultant Clinics (Retired 1 April 2004),85-89,208,All
+&,Not Known,90-120,8640,All
+100,General Surgery,90-120,186529,All
+101,Urology,90-120,145524,All
+107,Vascular Surgery,90-120,5095,All
+110,Trauma and Orthopaedics,90-120,193026,All
+120,Ear Nose and Throat,90-120,91860,All
+130,Ophthalmology,90-120,823163,All
+140,Oral Surgery,90-120,20360,All
+141,Restorative Dentistry,90-120,4604,All
+142,Paediatric Dentistry,90-120,0,All
+143,Orthodontics,90-120,509,All
+145,Oral and Maxillofacial Surgery,90-120,23479,All
+146,Endodontics,90-120,285,All
+147,Periodontics,90-120,23,All
+148,Prosthodontics,90-120,124,All
+149,Surgical Dentistry,90-120,16,All
+150,Neurosurgery,90-120,8848,All
+160,Plastic Surgery,90-120,59099,All
+170,Cardiothoracic Surgery,90-120,3328,All
+171,Paediatric Surgery,90-120,94,All
+180,Emergency Medicine,90-120,7184,All
+190,Anaesthetics,90-120,41278,All
+191,Pain Management (Retired 1 April 2004),90-120,1,All
+192,Intensive Care Medicine,90-120,477,All
+300,General Internal Medicine,90-120,297627,All
+301,Gastroenterology,90-120,44706,All
+302,Endocrinology and Diabetes,90-120,25334,All
+303,Clinical Haematology,90-120,144139,All
+304,Clinical Physiology,90-120,29630,All
+305,Clinical Pharmacology,90-120,398,All
+310,Audio Vestibular Medicine,90-120,46200,All
+311,Clinical Genetics,90-120,399,All
+313,Clinical Immunology,90-120,573,All
+314,Rehabilitation Medicine,90-120,9300,All
+315,Palliative Medicine,90-120,12889,All
+317,Allergy,90-120,58,All
+320,Cardiology,90-120,262462,All
+321,Paediatric Cardiology,90-120,20,All
+325,Sport and Exercise Medicine,90-120,188,All
+326,Acute Internal Medicine,90-120,9038,All
+330,Dermatology,90-120,169392,All
+340,Respiratory Medicine,90-120,71602,All
+350,Infectious Diseases,90-120,2907,All
+352,Tropical Medicine,90-120,0,All
+360,Genitourinary Medicine,90-120,463,All
+361,Renal Medicine,90-120,48624,All
+370,Medical Oncology,90-120,58981,All
+371,Nuclear Medicine,90-120,520,All
+400,Neurology,90-120,33601,All
+401,Clinical Neurophysiology,90-120,4402,All
+410,Rheumatology,90-120,52914,All
+420,Paediatrics,90-120,281,All
+421,Paediatric Neurology,90-120,9,All
+430,Geriatric Medicine,90-120,63308,All
+450,Dental Medicine,90-120,2185,All
+451,Special Care Dentistry,90-120,262,All
+460,Medical Ophthalmology,90-120,3539,All
+499,"Non-UK Provider; specialty function not known, treatment mainly medical",90-120,0,All
+500,Obstetrics and Gynaecology,90-120,0,All
+501,Obstetrics,90-120,5639,All
+502,Gynaecology,90-120,40003,All
+504,Community Sexual and Reproductive Health,90-120,0,All
+560,Midwifery,90-120,154,All
+600,General Medical Practice,90-120,1951,All
+601,General Dental Practice,90-120,5,All
+700,Learning Disability,90-120,184,All
+710,Adult Mental Illness,90-120,7446,All
+711,Child and Adolescent Psychiatry,90-120,272,All
+712,Forensic Psychiatry,90-120,77,All
+713,Medical Psychotherapy,90-120,72,All
+715,Old Age Psychiatry,90-120,27521,All
+800,Clinical Oncology,90-120,101275,All
+810,Radiology,90-120,175073,All
+820,General Pathology,90-120,55,All
+821,Blood Transfusion,90-120,0,All
+822,Chemical Pathology,90-120,1805,All
+823,Haematology,90-120,27140,All
+824,Histopathology,90-120,274,All
+830,Immunopathology,90-120,44,All
+831,Medical Microbiology and Virology,90-120,171,All
+833,Medical Microbiology,90-120,38,All
+834,Medical Virology,90-120,15,All
+900,Community Medicine,90-120,21541,All
+901,Occupational Medicine,90-120,462,All
+902,Community Health Services Dental,90-120,269,All
+903,Public Health Medicine,90-120,23,All
+950,Nursing,90-120,337335,All
+960,Allied Health Professional,90-120,525759,All
+990,Joint Consultant Clinics (Retired 1 April 2004),90-120,60,All
+&,Not Known,Unknown,3789,All
+100,General Surgery,Unknown,65598,All
+101,Urology,Unknown,51303,All
+107,Vascular Surgery,Unknown,1764,All
+110,Trauma and Orthopaedics,Unknown,68581,All
+120,Ear Nose and Throat,Unknown,41829,All
+130,Ophthalmology,Unknown,402170,All
+140,Oral Surgery,Unknown,9272,All
+141,Restorative Dentistry,Unknown,1502,All
+142,Paediatric Dentistry,Unknown,0,All
+143,Orthodontics,Unknown,165,All
+145,Oral and Maxillofacial Surgery,Unknown,11091,All
+146,Endodontics,Unknown,59,All
+147,Periodontics,Unknown,10,All
+148,Prosthodontics,Unknown,33,All
+149,Surgical Dentistry,Unknown,13,All
+150,Neurosurgery,Unknown,2008,All
+160,Plastic Surgery,Unknown,31203,All
+170,Cardiothoracic Surgery,Unknown,512,All
+171,Paediatric Surgery,Unknown,47,All
+180,Emergency Medicine,Unknown,4229,All
+190,Anaesthetics,Unknown,11826,All
+191,Pain Management (Retired 1 April 2004),Unknown,1,All
+192,Intensive Care Medicine,Unknown,159,All
+300,General Internal Medicine,Unknown,229022,All
+301,Gastroenterology,Unknown,12778,All
+302,Endocrinology and Diabetes,Unknown,9397,All
+303,Clinical Haematology,Unknown,57097,All
+304,Clinical Physiology,Unknown,14403,All
+305,Clinical Pharmacology,Unknown,167,All
+310,Audio Vestibular Medicine,Unknown,28767,All
+311,Clinical Genetics,Unknown,90,All
+313,Clinical Immunology,Unknown,135,All
+314,Rehabilitation Medicine,Unknown,4362,All
+315,Palliative Medicine,Unknown,7699,All
+317,Allergy,Unknown,14,All
+320,Cardiology,Unknown,111445,All
+321,Paediatric Cardiology,Unknown,0,All
+325,Sport and Exercise Medicine,Unknown,49,All
+326,Acute Internal Medicine,Unknown,4510,All
+330,Dermatology,Unknown,87050,All
+340,Respiratory Medicine,Unknown,18499,All
+350,Infectious Diseases,Unknown,831,All
+352,Tropical Medicine,Unknown,0,All
+360,Genitourinary Medicine,Unknown,218,All
+361,Renal Medicine,Unknown,15693,All
+370,Medical Oncology,Unknown,12359,All
+371,Nuclear Medicine,Unknown,106,All
+400,Neurology,Unknown,9344,All
+401,Clinical Neurophysiology,Unknown,1213,All
+410,Rheumatology,Unknown,16917,All
+420,Paediatrics,Unknown,111,All
+421,Paediatric Neurology,Unknown,0,All
+430,Geriatric Medicine,Unknown,31432,All
+450,Dental Medicine,Unknown,662,All
+451,Special Care Dentistry,Unknown,176,All
+460,Medical Ophthalmology,Unknown,2408,All
+499,"Non-UK Provider; specialty function not known, treatment mainly medical",Unknown,0,All
+500,Obstetrics and Gynaecology,Unknown,0,All
+501,Obstetrics,Unknown,2069,All
+502,Gynaecology,Unknown,14172,All
+504,Community Sexual and Reproductive Health,Unknown,0,All
+560,Midwifery,Unknown,48,All
+600,General Medical Practice,Unknown,829,All
+601,General Dental Practice,Unknown,0,All
+700,Learning Disability,Unknown,18,All
+710,Adult Mental Illness,Unknown,3243,All
+711,Child and Adolescent Psychiatry,Unknown,155,All
+712,Forensic Psychiatry,Unknown,23,All
+713,Medical Psychotherapy,Unknown,8,All
+715,Old Age Psychiatry,Unknown,14027,All
+800,Clinical Oncology,Unknown,27011,All
+810,Radiology,Unknown,60053,All
+820,General Pathology,Unknown,19,All
+821,Blood Transfusion,Unknown,0,All
+822,Chemical Pathology,Unknown,488,All
+823,Haematology,Unknown,13253,All
+824,Histopathology,Unknown,128,All
+830,Immunopathology,Unknown,21,All
+831,Medical Microbiology and Virology,Unknown,67,All
+833,Medical Microbiology,Unknown,14,All
+834,Medical Virology,Unknown,4,All
+900,Community Medicine,Unknown,19110,All
+901,Occupational Medicine,Unknown,136,All
+902,Community Health Services Dental,Unknown,323,All
+903,Public Health Medicine,Unknown,3,All
+950,Nursing,Unknown,176404,All
+960,Allied Health Professional,Unknown,250907,All
+990,Joint Consultant Clinics (Retired 1 April 2004),Unknown,21,All
