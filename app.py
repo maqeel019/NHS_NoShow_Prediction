@@ -9,6 +9,8 @@ import streamlit.components.v1 as components
 # -----------------------------
 # Page config
 # -----------------------------
+
+
 st.set_page_config(page_title="NHS No-Show Predictor", layout="wide")
 st.title("🩺 NHS Appointment No-Show Predictor")
 st.markdown(
@@ -137,7 +139,7 @@ if st.button("🔮 Predict No-Show Risk"):
     st.session_state.input_data = input_data
     prob_no_show = model.predict_proba(X_input)[0][1]
     st.session_state.prob_no_show = prob_no_show
-    st.session_state.prediction = "High Risk" if prob_no_show > 0.596 else "Low Risk"
+    st.session_state.prediction = "High Risk" if prob_no_show > 0.60 else "Low Risk"
 
 # -----------------------------
 # Display Prediction & SHAP
