@@ -4,4 +4,4 @@ scikit-learn==1.7.0
 matplotlib==3.10.3
 xgboost==1.7.6
 joblib==1.5.1
-
+shap==0.43.0
